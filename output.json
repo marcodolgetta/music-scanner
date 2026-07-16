@@ -1,6 +1,621 @@
 {
-  "last_run": "2026-07-16T04:35:34.792486+00:00",
+  "last_run": "2026-07-16T04:52:37.387249+00:00",
   "entries": [
+    {
+      "title": "Global Disco & Psychedelic Funk Mix in New York | Jojo Lorenzo",
+      "link": "https://www.youtube.com/watch?v=CCcg7zZ5S1s",
+      "published": "2026-06-18T13:41:13+00:00",
+      "published_iso": "2026-06-18T13:41:13+00:00",
+      "source": "Book Club Radio",
+      "genres": [
+        "R&B/Soul",
+        "Rock"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:51:00.608716+00:00"
+    },
+    {
+      "title": "Trippy Acid and Progressive Euphoria Mix in Brooklyn | Rose Kourts",
+      "link": "https://www.youtube.com/watch?v=8trNuXHarZs",
+      "published": "2026-06-25T15:08:18+00:00",
+      "published_iso": "2026-06-25T15:08:18+00:00",
+      "source": "Book Club Radio",
+      "genres": [
+        "Electronic/Dance"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:50:59.272317+00:00"
+    },
+    {
+      "title": "Deep Progressive & Uplifting Trance Mix in New York | Jojo Lorenzo",
+      "link": "https://www.youtube.com/watch?v=UsDGuSrSHBI",
+      "published": "2026-07-02T14:31:42+00:00",
+      "published_iso": "2026-07-02T14:31:42+00:00",
+      "source": "Book Club Radio",
+      "genres": [
+        "Electronic/Dance"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:50:58.183035+00:00"
+    },
+    {
+      "title": "Classic Diva House Mix in New York City | Ru",
+      "link": "https://www.youtube.com/watch?v=0zWmaH9Uhec",
+      "published": "2026-07-09T13:50:59+00:00",
+      "published_iso": "2026-07-09T13:50:59+00:00",
+      "source": "Book Club Radio",
+      "genres": [
+        "DJ Setlist"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:50:58.053506+00:00"
+    },
+    {
+      "title": "Devotional Music from South Asia with Rohan Rakhit",
+      "link": "https://www.youtube.com/watch?v=bzGnJytF7Ks",
+      "published": "2026-06-21T08:34:32+00:00",
+      "published_iso": "2026-06-21T08:34:32+00:00",
+      "source": "MAJ",
+      "genres": [
+        "R&B/Soul",
+        "Electronic/Dance",
+        "Classical"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:50:41.570175+00:00"
+    },
+    {
+      "title": "Fiesta Colombiana: Salsa y Cumbia with miche",
+      "link": "https://www.youtube.com/watch?v=Gifl8dpbvZY",
+      "published": "2026-06-28T10:55:59+00:00",
+      "published_iso": "2026-06-28T10:55:59+00:00",
+      "source": "MAJ",
+      "genres": [
+        "R&B/Soul",
+        "Emo",
+        "Electronic/Dance",
+        "Jazz",
+        "Latin"
+      ],
+      "artist": "Fiesta Colombiana",
+      "scanned_at": "2026-07-16T04:50:41.461869+00:00"
+    },
+    {
+      "title": "Funk Around The World: A Sunday Morning With Mates’ Crates",
+      "link": "https://www.youtube.com/watch?v=EJD4zzJ_5qA",
+      "published": "2026-07-05T11:24:41+00:00",
+      "published_iso": "2026-07-05T11:24:41+00:00",
+      "source": "MAJ",
+      "genres": [
+        "R&B/Soul",
+        "Electronic/Dance"
+      ],
+      "artist": "Funk Around The World",
+      "scanned_at": "2026-07-16T04:50:41.346622+00:00"
+    },
+    {
+      "title": "1970s Italy: Afro-Inspired Jazz, Brazilian Rhythms & Library Grooves with Nicola Conte",
+      "link": "https://www.youtube.com/watch?v=7GDmhUdI9tc",
+      "published": "2026-07-12T07:54:52+00:00",
+      "published_iso": "2026-07-12T07:54:52+00:00",
+      "source": "MAJ",
+      "genres": [
+        "Electronic/Dance",
+        "Jazz",
+        "Classical",
+        "Latin",
+        "New Wave/Synth"
+      ],
+      "artist": "1970s Italy",
+      "scanned_at": "2026-07-16T04:50:41.247455+00:00"
+    },
+    {
+      "title": "yasiin bey - The Ecstatic - Deluxe Photo Book + Vinyl (Unboxing Video)",
+      "link": "https://www.youtube.com/watch?v=Lo9bQh9CxTo",
+      "published": "2026-06-22T16:01:27+00:00",
+      "published_iso": "2026-06-22T16:01:27+00:00",
+      "source": "Rhymesayers Entertainment",
+      "genres": [
+        "Rap/Hip-Hop"
+      ],
+      "artist": "yasiin bey",
+      "scanned_at": "2026-07-16T04:50:35.601455+00:00"
+    },
+    {
+      "title": "Polyphia - CAN YOU FEEL IT (Official Music Video)",
+      "link": "https://www.youtube.com/watch?v=rNDwpO1toCQ",
+      "published": "2026-06-16T13:00:34+00:00",
+      "published_iso": "2026-06-16T13:00:34+00:00",
+      "source": "Polyphia",
+      "genres": [
+        "Technical Metal"
+      ],
+      "artist": "Polyphia",
+      "scanned_at": "2026-07-16T04:50:28.345306+00:00"
+    },
+    {
+      "title": "Polyphia - CAN YOU FEEL IT (Jam Session)",
+      "link": "https://www.youtube.com/watch?v=xTHd-CU4-Yw",
+      "published": "2026-06-24T17:00:21+00:00",
+      "published_iso": "2026-06-24T17:00:21+00:00",
+      "source": "Polyphia",
+      "genres": [
+        "Technical Metal"
+      ],
+      "artist": "Polyphia",
+      "scanned_at": "2026-07-16T04:50:25.623020+00:00"
+    },
+    {
+      "title": "All Them Witches - Life On The Road - Nova Rock",
+      "link": "https://www.youtube.com/watch?v=PiFpMAiyfBU",
+      "published": "2026-06-24T16:34:49+00:00",
+      "published_iso": "2026-06-24T16:34:49+00:00",
+      "source": "All Them Witches",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "All Them Witches",
+      "scanned_at": "2026-07-16T04:50:02.659295+00:00"
+    },
+    {
+      "title": "Red Rocking Chair LIVE - The Blue Room Nashville, TN May 2026",
+      "link": "https://www.youtube.com/watch?v=RaxAT9JlH94",
+      "published": "2026-06-29T15:00:03+00:00",
+      "published_iso": "2026-06-29T15:00:03+00:00",
+      "source": "All Them Witches",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "Red Rocking Chair LIVE",
+      "scanned_at": "2026-07-16T04:50:01.558678+00:00"
+    },
+    {
+      "title": "Culling Line LIVE - The Blue Room Nashville, TN May 2026",
+      "link": "https://www.youtube.com/watch?v=HiCam4Jc_BI",
+      "published": "2026-06-29T15:00:06+00:00",
+      "published_iso": "2026-06-29T15:00:06+00:00",
+      "source": "All Them Witches",
+      "genres": [
+        "R&B/Soul"
+      ],
+      "artist": "Culling Line LIVE",
+      "scanned_at": "2026-07-16T04:50:01.468568+00:00"
+    },
+    {
+      "title": "Angel On The Wayside LIVE - The Blue Room Nashville, TN May 2026",
+      "link": "https://www.youtube.com/watch?v=wW6De5Ygi0Q",
+      "published": "2026-06-29T15:00:12+00:00",
+      "published_iso": "2026-06-29T15:00:12+00:00",
+      "source": "All Them Witches",
+      "genres": [
+        "Folk Rock"
+      ],
+      "artist": "Angel On The Wayside LIVE",
+      "scanned_at": "2026-07-16T04:50:01.362819+00:00"
+    },
+    {
+      "title": "Saturn Song LIVE - The Blue Room Nashville, TN May 2026",
+      "link": "https://www.youtube.com/watch?v=oiwszme_jv0",
+      "published": "2026-06-29T15:00:24+00:00",
+      "published_iso": "2026-06-29T15:00:24+00:00",
+      "source": "All Them Witches",
+      "genres": [
+        "Ambient/Experimental"
+      ],
+      "artist": "Saturn Song LIVE",
+      "scanned_at": "2026-07-16T04:50:01.261698+00:00"
+    },
+    {
+      "title": "All Them Witches - Rock Werchter 2026",
+      "link": "https://www.youtube.com/watch?v=C5pFUnv5Keo",
+      "published": "2026-07-07T18:49:42+00:00",
+      "published_iso": "2026-07-07T18:49:42+00:00",
+      "source": "All Them Witches",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "All Them Witches",
+      "scanned_at": "2026-07-16T04:50:01.162781+00:00"
+    },
+    {
+      "title": "Cardinals - St. Agnes (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=UDAdFMyPX3U",
+      "published": "2026-07-13T11:00:17+00:00",
+      "published_iso": "2026-07-13T11:00:17+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Reggae/Ska"
+      ],
+      "artist": "Cardinals",
+      "scanned_at": "2026-07-16T04:49:45.252658+00:00"
+    },
+    {
+      "title": "Cardinals - Full Performance (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=5w1XmBkmXSg",
+      "published": "2026-07-13T15:00:06+00:00",
+      "published_iso": "2026-07-13T15:00:06+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Reggae/Ska"
+      ],
+      "artist": "Cardinals",
+      "scanned_at": "2026-07-16T04:49:45.140845+00:00"
+    },
+    {
+      "title": "Al‐Qasar - Selma (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=gfRQsc4l4CU",
+      "published": "2026-07-14T11:00:04+00:00",
+      "published_iso": "2026-07-14T11:00:04+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:49:43.446324+00:00"
+    },
+    {
+      "title": "Al‐Qasar - Kişisel İsa (Personal Jesus) (Depeche Mode cover) (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=7vEYp_HDbCU",
+      "published": "2026-07-14T11:00:17+00:00",
+      "published_iso": "2026-07-14T11:00:17+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Al‐Qasar - Kişisel İsa (Personal Jesus) (Depeche Mode",
+      "scanned_at": "2026-07-16T04:49:43.352345+00:00"
+    },
+    {
+      "title": "Al‐Qasar - Sham System (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=Z4VcqBWfAHI",
+      "published": "2026-07-14T11:00:27+00:00",
+      "published_iso": "2026-07-14T11:00:27+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:49:43.249457+00:00"
+    },
+    {
+      "title": "Al‐Qasar - Tariqi (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=U4Qo1J9Q3Dg",
+      "published": "2026-07-14T11:00:36+00:00",
+      "published_iso": "2026-07-14T11:00:36+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:49:43.152466+00:00"
+    },
+    {
+      "title": "Al‐Qasar - Full Performance (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=vsbb_8EGbuM",
+      "published": "2026-07-14T15:00:12+00:00",
+      "published_iso": "2026-07-14T15:00:12+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:49:43.048171+00:00"
+    },
+    {
+      "title": "Ora Cogan - Honey (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=7vgUGLWwfAY",
+      "published": "2026-07-15T11:00:08+00:00",
+      "published_iso": "2026-07-15T11:00:08+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Ora Cogan",
+      "scanned_at": "2026-07-16T04:49:41.724342+00:00"
+    },
+    {
+      "title": "Ora Cogan - Bury Me (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=8YeaAz5dK9U",
+      "published": "2026-07-15T11:00:10+00:00",
+      "published_iso": "2026-07-15T11:00:10+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Ora Cogan",
+      "scanned_at": "2026-07-16T04:49:41.630095+00:00"
+    },
+    {
+      "title": "Ora Cogan - The Smoke (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=T399krdYquE",
+      "published": "2026-07-15T11:00:20+00:00",
+      "published_iso": "2026-07-15T11:00:20+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Ora Cogan",
+      "scanned_at": "2026-07-16T04:49:41.532985+00:00"
+    },
+    {
+      "title": "Ora Cogan - Division (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=xDxZGQNC_LI",
+      "published": "2026-07-15T11:00:40+00:00",
+      "published_iso": "2026-07-15T11:00:40+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Ora Cogan",
+      "scanned_at": "2026-07-16T04:49:41.435991+00:00"
+    },
+    {
+      "title": "Ora Cogan - Full Performance (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=fNDPoOWBaTk",
+      "published": "2026-07-15T15:00:13+00:00",
+      "published_iso": "2026-07-15T15:00:13+00:00",
+      "source": "KEXP (YouTube)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Ora Cogan",
+      "scanned_at": "2026-07-16T04:49:41.340192+00:00"
+    },
+    {
+      "title": "Phoebe Bridgers Returns to ‘Fallon,’ This Time for ‘Lost Boys (Acoustic)’",
+      "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-jimmy-fallon-lost-boys-acoustic-1235594000/",
+      "published": "Thu, 16 Jul 2026 04:36:27 +0000",
+      "published_iso": "2026-07-16T04:36:27+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:49.349315+00:00"
+    },
+    {
+      "title": "Rylo Rodriguez free-associates for better and worse on “Eliza (Bless Me Up)”",
+      "link": "https://www.thefader.com/2026/07/09/rylo-rodriguez-skate-eliza-track-review",
+      "published": "Thu, 09 Jul 2026 13:16:55 -0400",
+      "published_iso": "2026-07-09T17:16:55+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "Rylo Rodriguez free",
+      "scanned_at": "2026-07-16T04:48:45.525040+00:00"
+    },
+    {
+      "title": "Gen F: Absolutely’s stirring pop fantasy",
+      "link": "https://www.thefader.com/2026/07/09/absolutely-raye-paracosm-gen-f-interview",
+      "published": "Thu, 09 Jul 2026 14:22:33 -0400",
+      "published_iso": "2026-07-09T18:22:33+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Folk/Americana",
+        "Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524986+00:00"
+    },
+    {
+      "title": "Frost Children on Tweaker Poem, Frost Fest, and working with Kim Petras",
+      "link": "https://www.thefader.com/2026/07/10/frost-children-tweaker-poem-frost-fest-kim-petras-interview",
+      "published": "Fri, 10 Jul 2026 10:50:14 -0400",
+      "published_iso": "2026-07-10T14:50:14+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Electronic/Dance"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524941+00:00"
+    },
+    {
+      "title": "Michael Cloud Duguay is creating beauty with disappearing church organs",
+      "link": "https://www.thefader.com/2026/07/10/michael-cloud-duguay-kingdom-come-kingdom-go-newfoundland-disappearing-church-organs-interview",
+      "published": "Fri, 10 Jul 2026 13:22:59 -0400",
+      "published_iso": "2026-07-10T17:22:59+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524893+00:00"
+    },
+    {
+      "title": "Catch the 47th annual BRIC Celebrate Brooklyn!",
+      "link": "https://www.thefader.com/2026/07/10/bric-celebrate-brooklyn-2026-lineup-jadakiss-sleater-kinney-liz-phair",
+      "published": "Fri, 10 Jul 2026 13:24:38 -0400",
+      "published_iso": "2026-07-10T17:24:38+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524838+00:00"
+    },
+    {
+      "title": "Inside underscores and FADER’s packed out sunset rave",
+      "link": "https://www.thefader.com/2026/07/10/underscores-fader-elsewhere-dj-set-photos",
+      "published": "Fri, 10 Jul 2026 15:22:35 -0400",
+      "published_iso": "2026-07-10T19:22:35+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524792+00:00"
+    },
+    {
+      "title": "Loe Shimmy unlocks new flows on his next album",
+      "link": "https://www.thefader.com/2026/07/10/loe-shimmy-interview-pretty-girlz-run-the-world-album",
+      "published": "Fri, 10 Jul 2026 16:21:09 -0400",
+      "published_iso": "2026-07-10T20:21:09+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524743+00:00"
+    },
+    {
+      "title": "JAŸ-Z’s Yankee Stadium performances: Guests, setlists, and everything that happened",
+      "link": "https://www.thefader.com/2026/07/13/jay-z-30-yankee-stadium-performances-guests-setlists-details",
+      "published": "Mon, 13 Jul 2026 12:44:25 -0400",
+      "published_iso": "2026-07-13T16:44:25+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "JAŸ",
+      "scanned_at": "2026-07-16T04:48:45.524696+00:00"
+    },
+    {
+      "title": "Thirteendegrees says new album GHETTO HIPSTER is for “literally everyone”",
+      "link": "https://www.thefader.com/2026/07/13/thirteendegrees-interview-young-world-ghetto-hipster-trippie-redd",
+      "published": "Mon, 13 Jul 2026 15:50:31 -0400",
+      "published_iso": "2026-07-13T19:50:31+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524643+00:00"
+    },
+    {
+      "title": "Cover Story: underscores, underground hero",
+      "link": "https://www.thefader.com/2026/07/14/cover-story-underscores-underground-hero",
+      "published": "Tue, 14 Jul 2026 09:00:03 -0400",
+      "published_iso": "2026-07-14T13:00:03+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524585+00:00"
+    },
+    {
+      "title": "underscores talks opening for Charli xcx, personas, and K-pop",
+      "link": "https://www.thefader.com/2026/07/14/underscores-fader-cover-story-video-interview",
+      "published": "Tue, 14 Jul 2026 09:00:14 -0400",
+      "published_iso": "2026-07-14T13:00:14+00:00",
+      "source": "The Fader",
+      "genres": [
+        "K-Pop/J-Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524536+00:00"
+    },
+    {
+      "title": "9 takeaways from underscores’s FADER cover story",
+      "link": "https://www.thefader.com/2026/07/14/9-takeaways-from-underscoress-fader-cover-story",
+      "published": "Tue, 14 Jul 2026 09:00:35 -0400",
+      "published_iso": "2026-07-14T13:00:35+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Electronic/Dance",
+        "K-Pop/J-Pop"
+      ],
+      "artist": "9 takeaways from underscores’s FADER",
+      "scanned_at": "2026-07-16T04:48:45.524490+00:00"
+    },
+    {
+      "title": "9 underscores songs you need in your life",
+      "link": "https://www.thefader.com/2026/07/14/underscores-songs-you-need-in-your-life",
+      "published": "Tue, 14 Jul 2026 10:01:19 -0400",
+      "published_iso": "2026-07-14T14:01:19+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524440+00:00"
+    },
+    {
+      "title": "xaviersobased and Skrillex rage together in “Party At My Place” music video",
+      "link": "https://www.thefader.com/2026/07/14/xaviersobased-skrillex-party-at-my-place-music-video",
+      "published": "Tue, 14 Jul 2026 14:02:04 -0400",
+      "published_iso": "2026-07-14T18:02:04+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524357+00:00"
+    },
+    {
+      "title": "The Femcels search for treasure in “She Seems Kind Of Stupid” video",
+      "link": "https://www.thefader.com/2026/07/14/the-femcels-search-for-treasure-in-she-seems-kind-of-stupid-video",
+      "published": "Tue, 14 Jul 2026 15:37:13 -0400",
+      "published_iso": "2026-07-14T19:37:13+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524303+00:00"
+    },
+    {
+      "title": "AlphaTheta’s new XDJ-AN supports music streaming now",
+      "link": "https://www.thefader.com/2026/07/15/alphathetas-new-xdj-an-music-streaming",
+      "published": "Wed, 15 Jul 2026 10:49:39 -0400",
+      "published_iso": "2026-07-15T14:49:39+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "AlphaTheta’s new XDJ",
+      "scanned_at": "2026-07-16T04:48:45.524244+00:00"
+    },
+    {
+      "title": "Kim Petras’s “Pop Sound” is now on streaming",
+      "link": "https://www.thefader.com/2026/07/15/kim-petras-pop-sound-streaming-spotify-apple-music",
+      "published": "Wed, 15 Jul 2026 13:01:53 -0400",
+      "published_iso": "2026-07-15T17:01:53+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524188+00:00"
+    },
+    {
+      "title": "Slayr’s “Promise” and other songs you need right now.",
+      "link": "https://www.thefader.com/2026/07/15/songs-you-need-in-your-life-july-15-2026",
+      "published": "Wed, 15 Jul 2026 13:20:50 -0400",
+      "published_iso": "2026-07-15T17:20:50+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524134+00:00"
+    },
+    {
+      "title": "Kappa FuturFestival is Italy’s most stylish rave",
+      "link": "https://www.thefader.com/2026/07/15/kappa-futurfestival-italy-most-fashionable-rave-recap",
+      "published": "Wed, 15 Jul 2026 15:41:02 -0400",
+      "published_iso": "2026-07-15T19:41:02+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Electronic/Dance"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524081+00:00"
+    },
+    {
+      "title": "Eartheater explores motherhood without going pronatalist on “Wasp In The Fig”",
+      "link": "https://www.thefader.com/2026/07/15/eartheater-explores-motherhood-without-going-pronatalist-on-wasp-in-the-fig",
+      "published": "Wed, 15 Jul 2026 18:04:11 -0400",
+      "published_iso": "2026-07-15T22:04:11+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "Unknown",
+      "scanned_at": "2026-07-16T04:48:45.524020+00:00"
+    },
     {
       "title": "Naomi Greene | A Take Away Show",
       "link": "https://www.youtube.com/watch?v=VwvFYt9Wrzw",
