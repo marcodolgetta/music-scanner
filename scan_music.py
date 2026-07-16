@@ -419,6 +419,20 @@ def scan() -> dict:
 
         parsed = feedparser.parse(feed_url)
 
+        # YouTube's videos.xml endpoint has a well-documented, unresolved
+        # habit of returning 404/500 for completely valid, active channels
+        # — a known server-side quirk (see
+        # https://discuss.ai.google.dev/t/youtube-rss-feed-endpoint-returns-404-errors/113379),
+        # not a sign of a bad channel_id. It tends to clear up within
+        # minutes, so a couple of retries with a short pause is worth it
+        # before giving up on a YouTube feed for this run.
+        if feed.get("style") == "youtube":
+            attempts = 1
+            while len(parsed.entries) == 0 and attempts < 3:
+                time.sleep(5)
+                parsed = feedparser.parse(feed_url)
+                attempts += 1
+
         status = getattr(parsed, "status", None)
         raw_count = len(parsed.entries)
         if parsed.get("bozo") and raw_count == 0:
