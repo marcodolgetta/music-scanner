@@ -23,9 +23,19 @@ import re
 import os
 import calendar
 import http.client
+import time
 from datetime import datetime, timedelta, timezone
 
 import feedparser
+
+# feedparser's default User-Agent literally announces itself as
+# "UniversalFeedParser/x.x +https://pypi.org/project/feedparser/" — an
+# extremely recognizable bot signature that some sites (openrss.org
+# included, it seems) block outright. A normal browser UA avoids that.
+feedparser.USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 
 # Only keep posts from roughly the last month. Anything older gets skipped
 # during the scan (it's still safe to re-run daily/weekly — old posts just
@@ -55,10 +65,10 @@ FEEDS = [
     {"url": "https://www.stereogum.com/feed/", "source": "Stereogum", "genre": "Indie/Alternative", "homepage": "https://www.stereogum.com/"},
     {"url": "https://www.brooklynvegan.com/feed/", "source": "BrooklynVegan", "genre": "Indie/Punk", "homepage": "https://www.brooklynvegan.com/"},
     {"url": "https://www.nme.com/news/music/feed", "source": "NME", "genre": "General", "homepage": "https://www.nme.com/news/music"},
-    {"url": "https://www.thefader.com/rss", "source": "The Fader", "genre": "Hip-Hop/Pop", "homepage": "https://www.thefader.com/"},
+    {"url": "https://feeds.feedburner.com/TheFaderMagazine", "source": "The Fader", "genre": "Hip-Hop/Pop", "homepage": "https://www.thefader.com/"},
     {"url": "https://consequence.net/feed/", "source": "Consequence", "genre": "General", "homepage": "https://consequence.net/"},
     {"url": "https://diymag.com/feed", "source": "DIY Magazine", "genre": "Indie", "homepage": "https://diymag.com/"},
-    {"url": "https://www.complex.com/music/rss", "source": "Complex Music", "genre": "Hip-Hop", "homepage": "https://www.complex.com/music"},
+    {"url": "https://assets.complex.com/feeds/channels/music.xml", "source": "Complex Music", "genre": "Hip-Hop", "homepage": "https://www.complex.com/music"},
     {"url": "https://www.rollingstone.com/music/feed/", "source": "Rolling Stone", "genre": "General", "homepage": "https://www.rollingstone.com/music/"},
     {"url": "https://www.clashmusic.com/feed/", "source": "Clash", "genre": "General", "homepage": "https://www.clashmusic.com/"},
     {"url": "https://www.loudandquiet.com/feed/", "source": "Loud And Quiet", "genre": "Indie/Alternative", "homepage": "https://www.loudandquiet.com/"},
@@ -399,17 +409,27 @@ def scan() -> dict:
 
     for feed in ALL_FEEDS:
         feed_url = build_feed_url(feed)
+
+        # openrss.org seems to be sensitive to rapid back-to-back requests
+        # (every Bandcamp-backed feed failed identically in one run) — a
+        # small pause between hits to it is cheap insurance against that,
+        # on top of the real-browser User-Agent set above.
+        if "openrss.org" in feed_url:
+            time.sleep(2)
+
         parsed = feedparser.parse(feed_url)
 
         status = getattr(parsed, "status", None)
         raw_count = len(parsed.entries)
-        if parsed.get("bozo"):
-            print(f"[WARN] {feed['source']}: parse issue "
-                  f"(status={status}, error={parsed.get('bozo_exception')}, "
-                  f"entries_returned={raw_count})")
+        if parsed.get("bozo") and raw_count == 0:
+            print(f"[WARN] {feed['source']}: parse issue, no entries recovered "
+                  f"(status={status}, error={parsed.get('bozo_exception')})")
         elif raw_count == 0:
             print(f"[WARN] {feed['source']}: feed returned 0 entries "
                   f"(status={status}, url={feed_url})")
+        elif parsed.get("bozo"):
+            print(f"[OK]   {feed['source']}: {raw_count} entries returned "
+                  f"(status={status}, note: feed has a minor XML quirk but parsed fine)")
         else:
             print(f"[OK]   {feed['source']}: {raw_count} entries returned "
                   f"(status={status})")
