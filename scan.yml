@@ -1,0 +1,37 @@
+name: Scan Music
+
+on:
+  schedule:
+    # Runs daily at 8am UTC. Adjust the cron expression to change timing —
+    # crontab.guru is handy for building these.
+    - cron: '0 8 * * *'
+  workflow_dispatch: {}  # lets you trigger a scan manually from the Actions tab
+
+permissions:
+  contents: write  # needed so this workflow can commit output.json back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run scanner
+        run: python scan_music.py
+
+      - name: Commit updated output.json
+        run: |
+          git config user.name "music-scanner-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add output.json
+          git diff --quiet --cached || git commit -m "Scan: update output.json"
+          git push

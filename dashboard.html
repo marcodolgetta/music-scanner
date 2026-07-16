@@ -1,0 +1,423 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --bg: #14110f;
+    --lane-bg: #1d1815;
+    --lane-bg-hover: #241e19;
+    --wood-line: #322a23;
+    --cream-solid: #ede7dd;
+    --mustard: #d8a93b;
+    --mustard-dim: #a3813a;
+    --teal: #3e7c74;
+    --ink: #1a1613;
+    --muted: #9a8f82;
+  }
+
+  * { box-sizing: border-box; }
+
+  #root-crate {
+    background: var(--bg);
+    color: var(--cream-solid);
+    font-family: 'Inter', sans-serif;
+    min-height: 100%;
+    padding: 28px 24px 48px;
+    border-radius: 14px;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 22px;
+    border-bottom: 1px solid var(--wood-line);
+    padding-bottom: 18px;
+  }
+
+  .header h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 34px;
+    margin: 0 0 4px 0;
+    letter-spacing: -0.01em;
+  }
+
+  .header .sub {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--muted);
+    letter-spacing: 0.02em;
+  }
+
+  .controls {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .search {
+    background: var(--lane-bg);
+    border: 1px solid var(--wood-line);
+    color: var(--cream-solid);
+    padding: 9px 12px;
+    border-radius: 7px;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    width: 200px;
+  }
+  .search::placeholder { color: var(--muted); }
+  .search:focus { outline: none; border-color: var(--mustard-dim); }
+
+  .file-btn {
+    background: var(--mustard);
+    color: var(--ink);
+    border: none;
+    padding: 9px 14px;
+    border-radius: 7px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    letter-spacing: 0.02em;
+  }
+  .file-btn:hover { background: #e6b64a; }
+  #file-input { display: none; }
+
+  .stats {
+    display: flex;
+    gap: 18px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    margin-bottom: 20px;
+  }
+  .stats b { color: var(--teal); font-weight: 500; }
+
+  .lane {
+    margin-bottom: 22px;
+  }
+
+  .lane-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--wood-line);
+    color: var(--cream-solid);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 5px 12px 5px 10px;
+    border-radius: 0 0 6px 6px;
+    margin-bottom: 0;
+  }
+  .lane-label .count {
+    background: var(--mustard);
+    color: var(--ink);
+    border-radius: 10px;
+    padding: 1px 7px;
+    font-size: 10px;
+  }
+
+  .lane-body {
+    background: var(--lane-bg);
+    border: 1px solid var(--wood-line);
+    border-radius: 4px 10px 10px 10px;
+    padding: 14px;
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    scrollbar-width: thin;
+  }
+  .lane-body::-webkit-scrollbar { height: 6px; }
+  .lane-body::-webkit-scrollbar-thumb { background: var(--wood-line); border-radius: 3px; }
+
+  .sleeve {
+    flex: 0 0 190px;
+    background: var(--cream-solid);
+    color: var(--ink);
+    border-radius: 4px;
+    padding: 13px 13px 11px;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    box-shadow: 2px 2px 0 rgba(0,0,0,0.25);
+  }
+  .sleeve:hover {
+    transform: translateY(-4px) rotate(-1deg);
+    box-shadow: 4px 6px 0 rgba(0,0,0,0.3);
+  }
+
+  .sleeve .artist {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.15;
+    margin-bottom: 6px;
+  }
+  .sleeve .title {
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    color: #4a4238;
+    line-height: 1.35;
+    margin-bottom: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .sleeve .meta {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: var(--mustard-dim);
+    border-top: 1px dashed #cfc7b8;
+    padding-top: 7px;
+  }
+
+  .empty {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--muted);
+    text-align: center;
+    padding: 60px 20px;
+    border: 1px dashed var(--wood-line);
+    border-radius: 10px;
+  }
+  .empty b { color: var(--mustard); }
+
+  .toast {
+    position: fixed;
+    left: 50%;
+    bottom: 24px;
+    transform: translateX(-50%) translateY(20px);
+    background: var(--cream-solid);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    line-height: 1.4;
+    padding: 12px 18px;
+    border-radius: 8px;
+    max-width: 360px;
+    text-align: center;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    z-index: 50;
+  }
+  .toast.visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+</style>
+
+<div id="root-crate">
+  <div class="header">
+    <div>
+      <h1>The Rack</h1>
+      <div class="sub" id="last-run">no scan loaded yet</div>
+    </div>
+    <div class="controls">
+      <input class="search" id="search" placeholder="filter by artist or title..." />
+      <label class="file-btn" for="file-input">LOAD SCAN.JSON</label>
+      <input type="file" id="file-input" accept="application/json" />
+    </div>
+  </div>
+  <div class="stats" id="stats"></div>
+  <div id="lanes"></div>
+</div>
+
+<script>
+  const SAMPLE = {
+    "last_run": "2026-07-13T08:00:00+00:00",
+    "entries": [
+      {"title":"Overmono Shares New Single \"Skyline\"","link":"https://example.com/1","published":"Sun, 12 Jul 2026 14:00:00 GMT","source":"Pitchfork","genres":["Electronic","Dance"],"artist":"Overmono","scanned_at":"2026-07-13T08:00:00+00:00"},
+      {"title":"Wednesday Announces New Album, Shares Lead Single","link":"https://example.com/2","published":"Sun, 12 Jul 2026 10:00:00 GMT","source":"Stereogum","genres":["Indie Rock"],"artist":"Wednesday","scanned_at":"2026-07-13T08:00:00+00:00"},
+      {"title":"Little Simz Drops Surprise Track","link":"https://example.com/3","published":"Sat, 11 Jul 2026 19:30:00 GMT","source":"The Fader","genres":["Hip-Hop"],"artist":"Little Simz","scanned_at":"2026-07-13T08:00:00+00:00"},
+      {"title":"Fontaines D.C. Premieres Video For New Song","link":"https://example.com/4","published":"Sat, 11 Jul 2026 09:00:00 GMT","source":"DIY Magazine","genres":["Indie/Punk"],"artist":"Fontaines D.C.","scanned_at":"2026-07-13T07:00:00+00:00"},
+      {"title":"Jamie xx Unveils Collaborative EP","link":"https://example.com/5","published":"Fri, 10 Jul 2026 15:00:00 GMT","source":"Pitchfork","genres":["Electronic"],"artist":"Jamie xx","scanned_at":"2026-07-12T08:00:00+00:00"}
+    ]
+  };
+
+  let currentData = SAMPLE;
+  let filterText = "";
+
+  function timeAgo(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    if (isNaN(d)) return iso;
+    const diffMin = Math.round((Date.now() - d.getTime()) / 60000);
+    if (diffMin < 60) return diffMin + "m ago";
+    const diffH = Math.round(diffMin / 60);
+    if (diffH < 24) return diffH + "h ago";
+    return Math.round(diffH / 24) + "d ago";
+  }
+
+  function postTime(e) {
+    // Prefer the normalized timestamp scan_music.py stores, fall back to
+    // the feed's raw published string, and only use scan time as a last
+    // resort if a post genuinely has no date at all.
+    return e.published_iso || e.published || e.scanned_at;
+  }
+
+  function render() {
+    const entries = currentData.entries || [];
+    const q = filterText.trim().toLowerCase();
+    const filtered = q
+      ? entries.filter(e => (e.artist + " " + e.title).toLowerCase().includes(q))
+      : entries;
+
+    document.getElementById("last-run").textContent = currentData.last_run
+      ? "last scan " + timeAgo(currentData.last_run) + " · " + entries.length + " tracks in the crate"
+      : "no scan loaded yet";
+
+    const artistSet = new Set(entries.map(e => e.artist));
+    const genreSet = new Set();
+    entries.forEach(e => (e.genres || ["Uncategorized"]).forEach(g => genreSet.add(g)));
+    document.getElementById("stats").innerHTML =
+      `<span><b>${entries.length}</b> tracks</span><span><b>${artistSet.size}</b> artists</span><span><b>${genreSet.size}</b> genres</span>`;
+
+    const laneContainer = document.getElementById("lanes");
+    laneContainer.innerHTML = "";
+
+    if (!filtered.length) {
+      laneContainer.innerHTML = `<div class="empty">No tracks match. Try clearing the search, or hit <b>LOAD SCAN.JSON</b> to load real results from scan_music.py.</div>`;
+      return;
+    }
+
+    const byGenre = {};
+    filtered.forEach(e => {
+      const genres = (e.genres && e.genres.length) ? e.genres : ["Uncategorized"];
+      const primary = genres[0];
+      if (!byGenre[primary]) byGenre[primary] = [];
+      byGenre[primary].push(e);
+    });
+
+    Object.keys(byGenre)
+      .sort((a, b) => byGenre[b].length - byGenre[a].length)
+      .forEach(genre => {
+        const items = byGenre[genre].slice().sort((a, b) =>
+          new Date(postTime(b)) - new Date(postTime(a))
+        );
+
+        const lane = document.createElement("div");
+        lane.className = "lane";
+
+        const label = document.createElement("div");
+        label.className = "lane-label";
+        label.innerHTML = `${genre} <span class="count">${items.length}</span>`;
+        lane.appendChild(label);
+
+        const body = document.createElement("div");
+        body.className = "lane-body";
+
+        items.forEach(e => {
+          const card = document.createElement("a");
+          card.className = "sleeve";
+          card.href = e.link || "#";
+          card.rel = "noopener noreferrer";
+          card.innerHTML = `
+            <div class="artist">${escapeHtml(e.artist || "Unknown")}</div>
+            <div class="title">${escapeHtml(e.title || "")}</div>
+            <div class="meta"><span>${escapeHtml(e.source || "")}</span><span>${timeAgo(postTime(e))}</span></div>
+          `;
+          card.addEventListener("click", (ev) => {
+            ev.preventDefault();
+            openLink(e.link);
+          });
+          body.appendChild(card);
+        });
+
+        lane.appendChild(body);
+        laneContainer.appendChild(lane);
+      });
+  }
+
+  function escapeHtml(str) {
+    return String(str).replace(/[&<>"']/g, s => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    }[s]));
+  }
+
+  function openLink(url) {
+    if (!url) return;
+    let win;
+    try {
+      win = window.open(url, "_blank", "noopener,noreferrer");
+    } catch (err) {
+      win = null;
+    }
+    if (win) return;
+
+    // Popup was blocked (common inside a sandboxed preview). Fall back to
+    // copying the link so the person can paste it into a real browser tab.
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(
+        () => showToast("Link copied — this preview blocks new tabs. Paste it into your browser, or open dashboard.html directly to click through."),
+        () => showToast(url)
+      );
+    } else {
+      showToast(url);
+    }
+  }
+
+  let toastTimer = null;
+  function showToast(message) {
+    let toast = document.getElementById("toast");
+    if (!toast) {
+      toast = document.createElement("div");
+      toast.id = "toast";
+      toast.className = "toast";
+      document.getElementById("root-crate").appendChild(toast);
+    }
+    toast.textContent = message;
+    toast.classList.add("visible");
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => toast.classList.remove("visible"), 4500);
+  }
+
+  document.getElementById("search").addEventListener("input", (ev) => {
+    filterText = ev.target.value;
+    render();
+  });
+
+  document.getElementById("file-input").addEventListener("change", (ev) => {
+    const file = ev.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+      try {
+        const parsed = JSON.parse(reader.result);
+        currentData = parsed;
+        render();
+      } catch (err) {
+        alert("Couldn't parse that file as JSON: " + err.message);
+      }
+    };
+  render();
+
+  // When this page is actually hosted (e.g. GitHub Pages) rather than
+  // opened as a local file, output.json sits right next to it — load it
+  // automatically instead of making you click "LOAD SCAN.JSON" every time.
+  // Opening dashboard.html directly from disk (file://) blocks fetch() for
+  // security reasons, so this just quietly fails there and you fall back
+  // to the manual button, same as before.
+  fetch("./output.json", { cache: "no-store" })
+    .then((res) => (res.ok ? res.json() : Promise.reject()))
+    .then((parsed) => {
+      currentData = parsed;
+      render();
+    })
+    .catch(() => {
+      // Not hosted, or output.json isn't there yet — sample data stays up.
+    });
+
+</script>
