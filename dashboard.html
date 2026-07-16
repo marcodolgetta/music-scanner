@@ -389,35 +389,38 @@
     render();
   });
 
-document.getElementById("file-input").addEventListener("change", (ev) => {
-  const file = ev.target.files[0];
-  if (!file) return;
+  document.getElementById("file-input").addEventListener("change", (ev) => {
+    const file = ev.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+      try {
+        const parsed = JSON.parse(reader.result);
+        currentData = parsed;
+        render();
+      } catch (err) {
+        alert("Couldn't parse that file as JSON: " + err.message);
+      }
+    };
+    reader.readAsText(file);
+  });
 
-  const reader = new FileReader();
+  render();
 
-  reader.onload = () => {
-    try {
-      const parsed = JSON.parse(reader.result);
+  // When this page is actually hosted (e.g. GitHub Pages) rather than
+  // opened as a local file, output.json sits right next to it — load it
+  // automatically instead of making you click "LOAD SCAN.JSON" every time.
+  // Opening dashboard.html directly from disk (file://) blocks fetch() for
+  // security reasons, so this just quietly fails there and you fall back
+  // to the manual button, same as before.
+  fetch("./output.json", { cache: "no-store" })
+    .then((res) => (res.ok ? res.json() : Promise.reject()))
+    .then((parsed) => {
       currentData = parsed;
       render();
-    } catch (err) {
-      alert("Couldn't parse that file as JSON: " + err.message);
-    }
-  };
-
-  reader.readAsText(file);
-});
-
-render();
-
-fetch("./output.json", { cache: "no-store" })
-  .then((res) => (res.ok ? res.json() : Promise.reject()))
-  .then((parsed) => {
-    currentData = parsed;
-    render();
-  })
-  .catch(() => {
-    // Not hosted, or output.json isn't there yet.
-  });
+    })
+    .catch(() => {
+      // Not hosted, or output.json isn't there yet — sample data stays up.
+    });
 
 </script>

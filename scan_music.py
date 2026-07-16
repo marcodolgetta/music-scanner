@@ -400,6 +400,20 @@ def scan() -> dict:
     for feed in ALL_FEEDS:
         feed_url = build_feed_url(feed)
         parsed = feedparser.parse(feed_url)
+
+        status = getattr(parsed, "status", None)
+        raw_count = len(parsed.entries)
+        if parsed.get("bozo"):
+            print(f"[WARN] {feed['source']}: parse issue "
+                  f"(status={status}, error={parsed.get('bozo_exception')}, "
+                  f"entries_returned={raw_count})")
+        elif raw_count == 0:
+            print(f"[WARN] {feed['source']}: feed returned 0 entries "
+                  f"(status={status}, url={feed_url})")
+        else:
+            print(f"[OK]   {feed['source']}: {raw_count} entries returned "
+                  f"(status={status})")
+
         max_items = feed.get("max_items")
         entries = parsed.entries[:max_items] if max_items else parsed.entries
         for entry in entries:
