@@ -167,6 +167,16 @@ def build_feed_url(feed: dict) -> str:
 
 ALL_FEEDS = FEEDS + [f for f in YOUTUBE_FEEDS if f.get("channel_id")]
 
+# Which feeds link straight to something playable (a Bandcamp release page,
+# a YouTube video, a podcast episode) versus a written article/news post
+# about music. Based on "style" rather than per-feed config, since every
+# feed using one of these styles already points at a direct listen.
+DIRECT_LISTEN_STYLES = {"bandcamp", "kexp", "ra_podcast", "youtube"}
+
+
+def get_link_type(feed: dict) -> str:
+    return "music" if feed.get("style") in DIRECT_LISTEN_STYLES else "article"
+
 # Verbs music blogs use in headlines when announcing a new release, e.g.
 # "Artist Name Shares New Single 'Title'". Used to guess the artist.
 RELEASE_VERBS = (
@@ -410,10 +420,15 @@ def scan() -> dict:
     for feed in ALL_FEEDS:
         feed_url = build_feed_url(feed)
 
-        # openrss.org seems to be sensitive to rapid back-to-back requests
-        # (every Bandcamp-backed feed failed identically in one run) — a
-        # small pause between hits to it is cheap insurance against that,
-        # on top of the real-browser User-Agent set above.
+        # KNOWN LIMITATION, accepted as-is: openrss.org (and Bandcamp itself)
+        # are known to block/rate-limit shared cloud IPs like GitHub
+        # Actions runners — confirmed via openrss.org's own issue tracker
+        # and unrelated reports against Bandcamp scrapers hitting 429s from
+        # CI infrastructure. This is IP-level blocking upstream of anything
+        # this script controls, so these Bandcamp-backed feeds (Daily +
+        # every label) may legitimately return 0 entries on any given run.
+        # The small delay below is cheap insurance but won't fix a block
+        # that's already in place for the runner's current IP.
         if "openrss.org" in feed_url:
             time.sleep(2)
 
@@ -474,6 +489,7 @@ def scan() -> dict:
                 "source": feed["source"],
                 "genres": guess_genres(entry, feed["genre"]),
                 "artist": artist,
+                "link_type": get_link_type(feed),
                 "scanned_at": datetime.now(timezone.utc).isoformat(),
             }
             data["entries"].append(record)
