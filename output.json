@@ -1,6 +1,493 @@
 {
-  "last_run": "2026-07-16T20:34:35.734645+00:00",
+  "last_run": "2026-07-17T09:44:26.310760+00:00",
   "entries": [
+    {
+      "title": "Kelela - new avatar ALBUM REVIEW",
+      "link": "https://www.youtube.com/watch?v=p6IIpUVB17Q",
+      "published": "2026-07-17T05:02:55+00:00",
+      "published_iso": "2026-07-17T05:02:55+00:00",
+      "source": "theneedledrop",
+      "genres": [
+        "Shoegaze/Dream Pop",
+        "Pop",
+        "Alternative/Indie"
+      ],
+      "artist": "Kelela",
+      "link_type": "music",
+      "scanned_at": "2026-07-17T09:43:59.497480+00:00"
+    },
+    {
+      "title": "Lorde Lashes Out At Spotify – “We Don’t Want This”",
+      "link": "https://www.clashmusic.com/news/lorde-lashes-out-at-spotify-we-dont-want-this/",
+      "published": "Fri, 17 Jul 2026 08:01:46 +0000",
+      "published_iso": "2026-07-17T08:01:46+00:00",
+      "source": "Clash",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Lorde Lashes Out At Spotify",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:42.008915+00:00"
+    },
+    {
+      "title": "Yard Act – You’re Gonna Need A Little Music",
+      "link": "https://www.clashmusic.com/reviews/yard-act-youre-gonna-need-a-little-music/",
+      "published": "Fri, 17 Jul 2026 08:14:10 +0000",
+      "published_iso": "2026-07-17T08:14:10+00:00",
+      "source": "Clash",
+      "genres": [
+        "Alternative/Indie"
+      ],
+      "artist": "Yard Act",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:42.008835+00:00"
+    },
+    {
+      "title": "Syd – Beard",
+      "link": "https://www.clashmusic.com/reviews/syd-beard/",
+      "published": "Fri, 17 Jul 2026 08:40:19 +0000",
+      "published_iso": "2026-07-17T08:40:19+00:00",
+      "source": "Clash",
+      "genres": [
+        "General"
+      ],
+      "artist": "Syd",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:42.008753+00:00"
+    },
+    {
+      "title": "Leon Bridges Announces New Album ‘Happiness Anytime’",
+      "link": "https://www.clashmusic.com/news/leon-bridges-announces-new-album-happiness-anytime/",
+      "published": "Fri, 17 Jul 2026 09:00:51 +0000",
+      "published_iso": "2026-07-17T09:00:51+00:00",
+      "source": "Clash",
+      "genres": [
+        "R&B/Soul",
+        "Jazz"
+      ],
+      "artist": "Leon Bridges",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:42.008684+00:00"
+    },
+    {
+      "title": "Steve Lacy – Oh yeah?",
+      "link": "https://www.clashmusic.com/reviews/steve-lacy-oh-yeah/",
+      "published": "Fri, 17 Jul 2026 09:35:32 +0000",
+      "published_iso": "2026-07-17T09:35:32+00:00",
+      "source": "Clash",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "Steve Lacy",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:42.008605+00:00"
+    },
+    {
+      "title": "Nia Archives – Emotional Junglist",
+      "link": "https://www.clashmusic.com/reviews/nia-archives-emotional-junglist/",
+      "published": "Fri, 17 Jul 2026 09:40:56 +0000",
+      "published_iso": "2026-07-17T09:40:56+00:00",
+      "source": "Clash",
+      "genres": [
+        "Emo",
+        "New Wave/Synth"
+      ],
+      "artist": "Nia Archives",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:42.008525+00:00"
+    },
+    {
+      "title": "Steve Lacy Proves He’s One of His Era’s Defining Pop Auteurs With ‘Oh Yeah?’",
+      "link": "https://www.rollingstone.com/music/music-album-reviews/steve-lacy-oh-yeah-album-review-1235594783/",
+      "published": "Thu, 16 Jul 2026 22:56:42 +0000",
+      "published_iso": "2026-07-16T22:56:42+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Folk/Americana",
+        "Pop"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:37.598269+00:00"
+    },
+    {
+      "title": "Lorde Slams Spotify Over Sloppy AI-Generated Song Descriptions",
+      "link": "https://www.rollingstone.com/music/music-news/lorde-slams-spotify-ai-generated-song-descriptions-1235594882/",
+      "published": "Thu, 16 Jul 2026 23:02:30 +0000",
+      "published_iso": "2026-07-16T23:02:30+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Lorde Slams Spotify Over Sloppy AI",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:37.598210+00:00"
+    },
+    {
+      "title": "Wildfire Smoke Forces the Black Keys, Creed, and More to Postpone Concerts",
+      "link": "https://www.rollingstone.com/music/music-news/wildfire-concerts-postponed-black-keys-john-mellencamp-1235594945/",
+      "published": "Fri, 17 Jul 2026 00:56:14 +0000",
+      "published_iso": "2026-07-17T00:56:14+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:37.598160+00:00"
+    },
+    {
+      "title": "Annie Leibovitz Sues Observer Over Justin and Hailey Bieber Photo: ‘Exploitation’",
+      "link": "https://www.rollingstone.com/music/music-news/annie-leibovitz-sues-observer-justin-bieber-hailey-photo-1235594944/",
+      "published": "Fri, 17 Jul 2026 01:17:59 +0000",
+      "published_iso": "2026-07-17T01:17:59+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:37.598100+00:00"
+    },
+    {
+      "title": "Gracie Abrams’ ‘Daughter From Hell’ Has Arrived",
+      "link": "https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-album-release-1235594838/",
+      "published": "Fri, 17 Jul 2026 04:00:48 +0000",
+      "published_iso": "2026-07-17T04:00:48+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:37.598044+00:00"
+    },
+    {
+      "title": "BTS Invite Fans to Look Beyond the Spotlight in ‘Normal’ Video",
+      "link": "https://www.rollingstone.com/music/music-news/bts-normal-music-video-arirang-album-1235594976/",
+      "published": "Fri, 17 Jul 2026 04:02:35 +0000",
+      "published_iso": "2026-07-17T04:02:35+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:37.597993+00:00"
+    },
+    {
+      "title": "Watch Gracie Abrams Showcase Evocative Song ‘Minibar’ on ‘Fallon’",
+      "link": "https://www.rollingstone.com/music/music-news/gracie-abrams-minibar-performance-fallon-1235595016/",
+      "published": "Fri, 17 Jul 2026 06:50:37 +0000",
+      "published_iso": "2026-07-17T06:50:37+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:37.597914+00:00"
+    },
+    {
+      "title": "Lil Baby Drops Pharrell Williams-Produced Single ‘Dead Fresh’",
+      "link": "https://www.rollingstone.com/music/music-news/lil-baby-pharrell-williams-dead-fresh-single-1235595020/",
+      "published": "Fri, 17 Jul 2026 07:30:17 +0000",
+      "published_iso": "2026-07-17T07:30:17+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "Lil Baby",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:37.597851+00:00"
+    },
+    {
+      "title": "Nia Archives — Emotional Junglist&nbsp;",
+      "link": "https://diymag.com/review/album/nia-archives-emotional-junglist",
+      "published": "Fri, 17 Jul 2026 08:00:00 +0100",
+      "published_iso": "2026-07-17T07:00:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Nia Archives",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:37.253476+00:00"
+    },
+    {
+      "title": "Yard Act — You’re Gonna Need A Little Music",
+      "link": "https://diymag.com/review/album/yard-act-youre-gonna-need-a-little-music",
+      "published": "Fri, 17 Jul 2026 08:01:00 +0100",
+      "published_iso": "2026-07-17T07:01:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Indie"
+      ],
+      "artist": "Yard Act",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:37.253425+00:00"
+    },
+    {
+      "title": "Rosie O’Donnell Remembers Michelle Trachtenberg: “I Wish I Could Have Done More”",
+      "link": "https://consequence.net/2026/07/rosie-odonnell-michelle-trachtenberg-i-wish-i-could-have-done-more/",
+      "published": "Thu, 16 Jul 2026 20:44:37 +0000",
+      "published_iso": "2026-07-16T20:44:37+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:36.174914+00:00"
+    },
+    {
+      "title": "William Shatner’s Riot Fest Rider Demands Are Out of This World",
+      "link": "https://consequence.net/2026/07/william-shatner-riot-fest-rider/",
+      "published": "Thu, 16 Jul 2026 20:58:24 +0000",
+      "published_iso": "2026-07-16T20:58:24+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:36.174830+00:00"
+    },
+    {
+      "title": "Madison Square Garden Sues WIRED for Defamation After Article About Tracking Gay Celebrities",
+      "link": "https://consequence.net/2026/07/madison-square-garden-sues-wired/",
+      "published": "Thu, 16 Jul 2026 23:54:41 +0000",
+      "published_iso": "2026-07-16T23:54:41+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:36.174747+00:00"
+    },
+    {
+      "title": "Netflix Used Generative AI in Almost 300 Titles",
+      "link": "https://consequence.net/2026/07/netflix-use-of-ai/",
+      "published": "Fri, 17 Jul 2026 01:08:56 +0000",
+      "published_iso": "2026-07-17T01:08:56+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:36.174657+00:00"
+    },
+    {
+      "title": "The Internet confirms new album coming in early 2027",
+      "link": "https://www.thefader.com/2026/07/16/the-internet-new-album-2027",
+      "published": "Thu, 16 Jul 2026 16:19:32 -0400",
+      "published_iso": "2026-07-16T20:19:32+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "The Internet",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:36.075655+00:00"
+    },
+    {
+      "title": "I talked to a New Yorker from every World Cup country",
+      "link": "https://www.thefader.com/2026/07/16/world-cup-2026-soccer-fans-photos-interviews",
+      "published": "Thu, 16 Jul 2026 17:39:39 -0400",
+      "published_iso": "2026-07-16T21:39:39+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Country"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:36.075604+00:00"
+    },
+    {
+      "title": "The Cure’s Robert Smith is not looking forward to Chris Martin’s World Cup halftime show",
+      "link": "https://www.nme.com/news/music/the-cures-robert-smith-is-not-looking-forward-to-chris-martins-world-cup-halftime-show-3957397?utm_source=rss&utm_medium=rss&utm_campaign=the-cures-robert-smith-is-not-looking-forward-to-chris-martins-world-cup-halftime-show",
+      "published": "Thu, 16 Jul 2026 20:40:34 +0000",
+      "published_iso": "2026-07-16T20:40:34+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.695804+00:00"
+    },
+    {
+      "title": "Watch Matty Healy sing with The 1975 tribute band on his Malibu stag do",
+      "link": "https://www.nme.com/news/music/watch-matty-healy-sing-with-the-1975-tribute-band-on-his-malibu-stag-do-3957231?utm_source=rss&utm_medium=rss&utm_campaign=watch-matty-healy-sing-with-the-1975-tribute-band-on-his-malibu-stag-do",
+      "published": "Fri, 17 Jul 2026 01:24:24 +0000",
+      "published_iso": "2026-07-17T01:24:24+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.695711+00:00"
+    },
+    {
+      "title": "Ed O’Brien on Radiohead attracting younger fans and why they can’t play more than 20 shows per year",
+      "link": "https://www.nme.com/news/music/ed-obrien-on-radiohead-attracting-younger-fans-and-why-they-cant-play-more-than-20-shows-per-year-3957410?utm_source=rss&utm_medium=rss&utm_campaign=ed-obrien-on-radiohead-attracting-younger-fans-and-why-they-cant-play-more-than-20-shows-per-year",
+      "published": "Fri, 17 Jul 2026 06:26:18 +0000",
+      "published_iso": "2026-07-17T06:26:18+00:00",
+      "source": "NME",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.695630+00:00"
+    },
+    {
+      "title": "CMAT will not be playing live in 2027",
+      "link": "https://www.nme.com/news/music/cmat-will-not-be-playing-live-in-2027-3957421?utm_source=rss&utm_medium=rss&utm_campaign=cmat-will-not-be-playing-live-in-2027",
+      "published": "Fri, 17 Jul 2026 06:54:53 +0000",
+      "published_iso": "2026-07-17T06:54:53+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.695529+00:00"
+    },
+    {
+      "title": "Razorlight share previously unheard ‘America’ demo from 20th anniversary edition of self-titled album",
+      "link": "https://www.nme.com/news/music/razorlight-share-previously-unheard-america-demo-from-20th-anniversary-edition-of-self-titled-album-3950374?utm_source=rss&utm_medium=rss&utm_campaign=razorlight-share-previously-unheard-america-demo-from-20th-anniversary-edition-of-self-titled-album",
+      "published": "Fri, 17 Jul 2026 08:00:04 +0000",
+      "published_iso": "2026-07-17T08:00:04+00:00",
+      "source": "NME",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Razorlight",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.695450+00:00"
+    },
+    {
+      "title": "Lorde hits out at AI-generated Spotify feature: “We don’t want this”",
+      "link": "https://www.nme.com/news/music/lorde-hits-out-at-ai-generated-spotify-feature-we-dont-want-this-3957437?utm_source=rss&utm_medium=rss&utm_campaign=lorde-hits-out-at-ai-generated-spotify-feature-we-dont-want-this",
+      "published": "Fri, 17 Jul 2026 08:44:57 +0000",
+      "published_iso": "2026-07-17T08:44:57+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Lorde hits out at AI",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.695362+00:00"
+    },
+    {
+      "title": "Listen to Brandon Flowers’ jaunty new single ‘Paradise’",
+      "link": "https://www.nme.com/news/music/brandon-flowers-shares-new-solo-single-paradise-listen-3957432?utm_source=rss&utm_medium=rss&utm_campaign=brandon-flowers-shares-new-solo-single-paradise-listen",
+      "published": "Fri, 17 Jul 2026 08:45:40 +0000",
+      "published_iso": "2026-07-17T08:45:40+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.695267+00:00"
+    },
+    {
+      "title": "Check out William Shatner and his metal band’s outrageous Riot Fest rider demands",
+      "link": "https://www.nme.com/news/music/check-out-william-shatner-and-his-metal-bands-outrageous-riot-fest-rider-demands-3957439?utm_source=rss&utm_medium=rss&utm_campaign=check-out-william-shatner-and-his-metal-bands-outrageous-riot-fest-rider-demands",
+      "published": "Fri, 17 Jul 2026 09:08:04 +0000",
+      "published_iso": "2026-07-17T09:08:04+00:00",
+      "source": "NME",
+      "genres": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.695172+00:00"
+    },
+    {
+      "title": "David Byrne announces intimate UK book tour",
+      "link": "https://www.nme.com/news/music/david-byrne-announces-intimate-uk-book-tour-3957458?utm_source=rss&utm_medium=rss&utm_campaign=david-byrne-announces-intimate-uk-book-tour",
+      "published": "Fri, 17 Jul 2026 09:39:40 +0000",
+      "published_iso": "2026-07-17T09:39:40+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "David Byrne",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.695076+00:00"
+    },
+    {
+      "title": "Addison Rae ‘Fortnite’ collaboration teased",
+      "link": "https://www.nme.com/news/music/addison-rae-fortnite-collaboration-teased-3957461?utm_source=rss&utm_medium=rss&utm_campaign=addison-rae-fortnite-collaboration-teased",
+      "published": "Fri, 17 Jul 2026 09:39:52 +0000",
+      "published_iso": "2026-07-17T09:39:52+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.694989+00:00"
+    },
+    {
+      "title": "13 New Songs Out Today",
+      "link": "https://www.brooklynvegan.com/13-new-songs-out-today-70/",
+      "published": "Thu, 16 Jul 2026 21:59:29 +0000",
+      "published_iso": "2026-07-16T21:59:29+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.527539+00:00"
+    },
+    {
+      "title": "Perennial – “Modernism”",
+      "link": "https://stereogum.com/2505414/perennial-modernism/music/",
+      "published": "Thu, 16 Jul 2026 14:24:01 +0000",
+      "published_iso": "2026-07-16T14:24:01+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Punk",
+        "Rock"
+      ],
+      "artist": "Perennial",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.376965+00:00"
+    },
+    {
+      "title": "MSG Suing Wired Over Article Alleging Company Kept Database Of LGBTQIA Celebrities",
+      "link": "https://stereogum.com/2505492/msg-suing-wired-over-article-alleging-company-kept-database-of-lgbtqia-celebrities/news/",
+      "published": "Thu, 16 Jul 2026 21:35:27 +0000",
+      "published_iso": "2026-07-16T21:35:27+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:35.376802+00:00"
+    },
+    {
+      "title": "Lorde on Spotify’s AI Song Descriptions: “We Don’t Want This”",
+      "link": "https://pitchfork.com/story/lorde-on-spotifys-ai-song-descriptions/",
+      "published": "Thu, 16 Jul 2026 23:34:07 +0000",
+      "published_iso": "2026-07-16T23:34:07+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "scanned_at": "2026-07-17T09:42:34.988369+00:00"
+    },
     {
       "title": "MÒZÂMBÎQÚE - Sede",
       "link": "https://www.youtube.com/watch?v=SX52PI0P41I",
