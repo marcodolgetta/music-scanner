@@ -259,9 +259,9 @@
     </div>
   </div>
   <div class="view-toggle" id="view-toggle">
-    <button class="toggle-btn active" data-view="all">All</button>
-    <button class="toggle-btn" data-view="music">🎧 Direct Listens</button>
+    <button class="toggle-btn active" data-view="music">🎧 Direct Listens</button>
     <button class="toggle-btn" data-view="article">📰 Articles &amp; News</button>
+    <button class="toggle-btn" data-view="all">All</button>
   </div>
   <div class="stats" id="stats"></div>
   <div id="lanes"></div>
@@ -281,7 +281,7 @@
 
   let currentData = SAMPLE;
   let filterText = "";
-  let currentView = "all"; // "all" | "music" | "article"
+  let currentView = "music"; // "all" | "music" | "article"
 
   function timeAgo(iso) {
     if (!iso) return "";
@@ -333,7 +333,16 @@
     laneContainer.innerHTML = "";
 
     if (!filtered.length) {
-      laneContainer.innerHTML = `<div class="empty">No tracks match. Try clearing the search, or hit <b>LOAD SCAN.JSON</b> to load real results from scan_music.py.</div>`;
+      let message;
+      if (currentView !== "all" && untagged === entries.length && entries.length > 0) {
+        const viewLabel = currentView === "music" ? "Direct Listens" : "Articles & News";
+        message = `None of your ${entries.length} tracks are tagged as <b>${viewLabel}</b> yet — this data predates that feature. Rerun scan_music.py to classify new entries going forward, or check <b>All</b> to see everything you've got so far.`;
+      } else if (q) {
+        message = `No tracks match "${escapeHtml(filterText)}". Try clearing the search.`;
+      } else {
+        message = `No tracks here yet. Hit <b>LOAD SCAN.JSON</b> to load real results from scan_music.py.`;
+      }
+      laneContainer.innerHTML = `<div class="empty">${message}</div>`;
       return;
     }
 
