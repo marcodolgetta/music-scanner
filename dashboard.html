@@ -254,6 +254,8 @@
     </div>
     <div class="controls">
       <input class="search" id="search" placeholder="filter by artist or title..." />
+      <input class="search" id="suggestion-input" placeholder="suggest an artist/label/channel..." maxlength="200" />
+      <button class="file-btn" id="suggestion-submit">SUGGEST</button>
       <label class="file-btn" for="file-input">LOAD SCAN.JSON</label>
       <input type="file" id="file-input" accept="application/json" />
     </div>
@@ -449,6 +451,46 @@
     filterText = ev.target.value;
     render();
   });
+
+  // Points at the Cloudflare Worker that safely creates a GitHub issue on
+  // your behalf — see suggestion-worker.js for what runs on the other end.
+  const SUGGESTION_ENDPOINT = "https://music-scanner-suggestions.allfatherarts.workers.dev/";
+
+  document.getElementById("suggestion-submit").addEventListener("click", submitSuggestion);
+  document.getElementById("suggestion-input").addEventListener("keydown", (ev) => {
+    if (ev.key === "Enter") submitSuggestion();
+  });
+
+  async function submitSuggestion() {
+    const input = document.getElementById("suggestion-input");
+    const btn = document.getElementById("suggestion-submit");
+    const suggestion = input.value.trim();
+    if (!suggestion) return;
+
+    btn.disabled = true;
+    btn.textContent = "SENDING...";
+
+    try {
+      const res = await fetch(SUGGESTION_ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ suggestion }),
+      });
+      const data = await res.json();
+
+      if (res.ok && data.success) {
+        showToast("Thanks! Your suggestion was submitted.");
+        input.value = "";
+      } else {
+        showToast("Couldn't submit that — try again in a bit.");
+      }
+    } catch (err) {
+      showToast("Couldn't reach the suggestion box — check your connection.");
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "SUGGEST";
+    }
+  }
 
   document.getElementById("file-input").addEventListener("change", (ev) => {
     const file = ev.target.files[0];
