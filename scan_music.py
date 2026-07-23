@@ -68,7 +68,6 @@ FEEDS = [
     {"url": "https://feeds.feedburner.com/TheFaderMagazine", "source": "The Fader", "genre": "Hip-Hop/Pop", "homepage": "https://www.thefader.com/"},
     {"url": "https://consequence.net/feed/", "source": "Consequence", "genre": "General", "homepage": "https://consequence.net/"},
     {"url": "https://diymag.com/feed", "source": "DIY Magazine", "genre": "Indie", "homepage": "https://diymag.com/"},
-    {"url": "https://assets.complex.com/feeds/channels/music.xml", "source": "Complex Music", "genre": "Hip-Hop", "homepage": "https://www.complex.com/music"},
     {"url": "https://www.rollingstone.com/music/feed/", "source": "Rolling Stone", "genre": "General", "homepage": "https://www.rollingstone.com/music/"},
     {"url": "https://www.clashmusic.com/feed/", "source": "Clash", "genre": "General", "homepage": "https://www.clashmusic.com/"},
     {"url": "https://www.loudandquiet.com/feed/", "source": "Loud And Quiet", "genre": "Indie/Alternative", "homepage": "https://www.loudandquiet.com/"},
@@ -147,61 +146,70 @@ YOUTUBE_FEEDS = [
     # {"channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx", "source": "Some Artist", "genre": "General", "style": "youtube"},
     # {"channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx", "source": "Some Artist", "genre": "General", "style": "youtube"},
     # {"channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx", "source": "Some Artist", "genre": "General", "style": "youtube"},
-     {"channel_id": "UC-loLE2aGx__-R8LGK_qs9Q", "source": "LOST IN THE SAUCE", "genre": "General", "style": "youtube"},
-     {"channel_id": "UC0L0PDO9kUS46JC1wEjLEbg", "source": "Stones Throw", "genre": "Hip-Hop/Label", "style": "youtube"},
-     {"channel_id": "UC0ixDRQmVUvsKr_aiMBoD8Q", "source": "FeuChatterton", "genre": "French", "style": "youtube"},
-     {"channel_id": "UC3lBXcrKFnFAFkfVk5WuKcQ", "source": "Kendrick Lamar", "genre": "Hip-Hop/Rap", "style": "youtube"},
-     {"channel_id": "UC4X7J9D6VbTIwnFDFNkfQ1A", "source": "Ambition", "genre": "lo-fi", "style": "youtube"},
-     {"channel_id": "UC4hfA78X-lqiRERBZLTnLBw", "source": "Aphex Twin", "genre": "Electronic", "style": "youtube"},
-     {"channel_id": "UC4w5l9jyqursG7wSEdNv3bQ", "source": "blanc", "genre": "lo-fi", "style": "youtube"},
-     {"channel_id": "UC558DKaGpw4K3JqaWDNyREA", "source": "ë°”ì¹´ë¼ ë‹¬ë¦¬ 64", "genre": "lo-fi", "style": "youtube"},
-     {"channel_id": "UC66ZJMxR_fv8QXc8YZydCUA", "source": "Saib", "genre": "lo-fi", "style": "youtube"},
-     {"channel_id": "UC6UYX1TEitlMeP88-i0zkFg", "source": "Danger Mouse", "genre": "Hip-Hop/Producer", "style": "youtube"},
-     {"channel_id": "UC6xZZUuXbyeQQppJ9XDGyMg", "source": "CRX", "genre": "Rock", "style": "youtube"},
-     {"channel_id": "UC7JDBUzkcwRGtQGia3_mMgQ", "source": "weezer", "genre": "Rock", "style": "youtube"},
-     {"channel_id": "UC7sWZmgBRVqvn-kO0p1CPVg", "source": "Justice Der", "genre": "Rock", "style": "youtube"},
-     {"channel_id": "UC8HQ1Us0QsSb1i3UW6dJ26g", "source": "MASS OF THE FERMENTING DREGS", "genre": "Shogaze", "style": "youtube"},
-     {"channel_id": "UC8jilbu-zFcknaZ5ah3C8NA", "source": "Noga Erez", "genre": "Electronic/Pop", "style": "youtube"},
-     {"channel_id": "UC9FueWZzCO2-XXzlKZXKbzw", "source": "Brother Ali", "genre": "Hip-Hop/Rap", "style": "youtube"},
-     {"channel_id": "UCAZ77vdqYbuGbCAWB62WbqQ", "source": "NRW Records", "genre": "General", "style": "youtube"},
-     {"channel_id": "UCApPPpJ4d3ueW38lArwiWoA", "source": "Kenny Beats", "genre": "Hip-Hop/Rap", "style": "youtube"},
-     {"channel_id": "UCAxylzB43zb-5vESDQv9QxQ", "source": "The Comet Is Coming", "genre": "Jazz/Electronic", "style": "youtube"},
-     {"channel_id": "UCBw6Q0TYdZYq8px2RRhVD5A", "source": "shangelina", "genre": "General", "style": "youtube"},
-     {"channel_id": "UCC4koWMMOg0-VchMgsYkFUg", "source": "Delta Heavy", "genre": "Electronic/Dance", "style": "youtube"},
-     {"channel_id": "UCC5YdqbvQA5KoltDL7X2olw", "source": "DARKSIDE", "genre": "Electronic", "style": "youtube"},
-     {"channel_id": "UCDBdeEaSnlu-AU-ITBTRkeQ", "source": "TriangleMusic", "genre": "General", "style": "youtube"},
-     {"channel_id": "UCEhZ6SRUf8w343z9M0sQKZA", "source": "Matejcar98", "genre": "General", "style": "youtube"},
-     {"channel_id": "UCEkffl1UuuFG3J5mh4-BCSA", "source": "Blockhead", "genre": "Hip-Hop/Rap", "style": "youtube"},
-     {"channel_id": "UCFckK8Zj2k6e6Qz8H95M4QA", "source": "JACO'S HAT RECORDS", "genre": "Live", "style": "youtube"},
-     {"channel_id": "UCG4DQ_C2eWFrl3sdeNrQH4Q", "source": "Takuya Nakamura Official", "genre": "Rock", "style": "youtube"},
-     {"channel_id": "UCGEkvEO_z3ncFPOeTIIf-TQ", "source": "clipping.", "genre": "Hip-Hop/Experimental", "style": "youtube"},
-     {"channel_id": "UCGSg3iQgRQ5M9CpluqkMAZg", "source": "Digging The Greats", "genre": "General", "style": "youtube"},
-     {"channel_id": "UCInOR_Jhe-MH-IDSJ2BSOVA", "source": "Signified B Sides", "genre": "Music Review", "style": "youtube"},
-     {"channel_id": "UCJFJuYpd7mMeC9mZVdTqV1g", "source": "the pillows", "genre": "J-Rock", "style": "youtube"},
-     {"channel_id": "UCKHvQqJdl2cyPUmcXLFUeaQ", "source": "slowthai", "genre": "Hip-Hop/Rap", "style": "youtube"},
-     {"channel_id": "UCLZXODAwFtHpqsjqRmv8w2g", "source": "El-P", "genre": "Hip-Hop/Rap", "style": "youtube"},
-     {"channel_id": "UCM09HhHpr0YiLdCIPj2LtEQ", "source": "Music Ward", "genre": "Electronic", "style": "youtube"},
-     {"channel_id": "UCMQZn39xU3eU5pWK_gjxjxQ", "source": "Man Man", "genre": "Indie", "style": "youtube"},
-     {"channel_id": "UCOTYXAQ0g5cKdr1mFJRPy2g", "source": "Ms. Monica", "genre": "General", "style": "youtube"},
-     {"channel_id": "UCRiwfqktaeTb-fkj1Ps3dCQ", "source": "DATTBOIIAJ", "genre": "General", "style": "youtube"},
-     {"channel_id": "UCRrug-Un76Tsuy5T6Q7YBHA", "source": "OTHERPEOPLE", "genre": "General", "style": "youtube"},
-     {"channel_id": "UCSCIeZFgWF5ZNmvNVG16WHQ", "source": "In Love With A Ghost (InLoveWithAGhost)", "genre": "General", "style": "youtube"},
-     {"channel_id": "UCSdX8vt4nM1Su_cJXXOQ7mA", "source": "Aimé Leon Dore", "genre": "General", "style": "youtube"},
-     {"channel_id": "UCUXfRsEIJ9xO1DT7TbEWksw", "source": "Eve", "genre": "Hip-Hop/Rap", "style": "youtube"},
+    {"channel_id": "UC-loLE2aGx__-R8LGK_qs9Q", "source": "LOST IN THE SAUCE", "genre": "General", "style": "youtube"},
+    {"channel_id": "UC0L0PDO9kUS46JC1wEjLEbg", "source": "Stones Throw", "genre": "Hip-Hop/Label", "style": "youtube"},
+    {"channel_id": "UC0ixDRQmVUvsKr_aiMBoD8Q", "source": "FeuChatterton", "genre": "General", "style": "youtube"},
+    {"channel_id": "UC3lBXcrKFnFAFkfVk5WuKcQ", "source": "Kendrick Lamar", "genre": "Hip-Hop/Rap", "style": "youtube"},
+    {"channel_id": "UC4X7J9D6VbTIwnFDFNkfQ1A", "source": "Ambition", "genre": "General", "style": "youtube"},
+    {"channel_id": "UC4hfA78X-lqiRERBZLTnLBw", "source": "Aphex Twin", "genre": "Electronic", "style": "youtube"},
+    {"channel_id": "UC4w5l9jyqursG7wSEdNv3bQ", "source": "blanc", "genre": "General", "style": "youtube"},
+    {"channel_id": "UC558DKaGpw4K3JqaWDNyREA", "source": "ë°”ì¹´ë¼ ë‹¬ë¦¬ 64", "genre": "General", "style": "youtube"},
+    {"channel_id": "UC66ZJMxR_fv8QXc8YZydCUA", "source": "Saib", "genre": "General", "style": "youtube"},
+    {"channel_id": "UC6DicDItkLQ7N4ag1JS5mqg", "source": "Die Antwoord", "genre": "Electronic/Rap", "style": "youtube"},
+    {"channel_id": "UC6UYX1TEitlMeP88-i0zkFg", "source": "Danger Mouse", "genre": "Hip-Hop/Producer", "style": "youtube"},
+    {"channel_id": "UC6xZZUuXbyeQQppJ9XDGyMg", "source": "CRX", "genre": "General", "style": "youtube"},
+    {"channel_id": "UC7JDBUzkcwRGtQGia3_mMgQ", "source": "weezer", "genre": "Rock", "style": "youtube"},
+    {"channel_id": "UC7sWZmgBRVqvn-kO0p1CPVg", "source": "Justice Der", "genre": "General", "style": "youtube"},
+    {"channel_id": "UC8HQ1Us0QsSb1i3UW6dJ26g", "source": "MASS OF THE FERMENTING DREGS", "genre": "General", "style": "youtube"},
+    {"channel_id": "UC8h8NJG9gacZ5lAJJvhD0fQ", "source": "NardwuarServiette", "genre": "General", "style": "youtube"},
+    {"channel_id": "UC8jilbu-zFcknaZ5ah3C8NA", "source": "Noga Erez", "genre": "Electronic/Pop", "style": "youtube"},
+    {"channel_id": "UC9FueWZzCO2-XXzlKZXKbzw", "source": "Brother Ali", "genre": "Hip-Hop/Rap", "style": "youtube"},
+    {"channel_id": "UCAZ77vdqYbuGbCAWB62WbqQ", "source": "NRW Records", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCApPPpJ4d3ueW38lArwiWoA", "source": "Kenny Beats", "genre": "Hip-Hop/Rap", "style": "youtube"},
+    {"channel_id": "UCAxylzB43zb-5vESDQv9QxQ", "source": "The Comet Is Coming", "genre": "Jazz/Electronic", "style": "youtube"},
+    {"channel_id": "UCBw6Q0TYdZYq8px2RRhVD5A", "source": "shangelina", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCC4koWMMOg0-VchMgsYkFUg", "source": "Delta Heavy", "genre": "Electronic/Dance", "style": "youtube"},
+    {"channel_id": "UCC5YdqbvQA5KoltDL7X2olw", "source": "DARKSIDE", "genre": "Electronic", "style": "youtube"},
+    {"channel_id": "UCCgnARZFAYaBSf22_HvYDMQ", "source": "Sareem Poems - Topic", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCD4UMQ7oryQQq5gqZStJQ6g", "source": "Azealia Banks", "genre": "Hip-Hop/Rap", "style": "youtube"},
+    {"channel_id": "UCDBdeEaSnlu-AU-ITBTRkeQ", "source": "TriangleMusic", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCE3zaVqkAGE3h0-rEcu4LyA", "source": "Drum & Bass Bootlegs", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCEhZ6SRUf8w343z9M0sQKZA", "source": "Matejcar98", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCEkffl1UuuFG3J5mh4-BCSA", "source": "Blockhead", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCFckK8Zj2k6e6Qz8H95M4QA", "source": "JACO'S HAT RECORDS", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCG4DQ_C2eWFrl3sdeNrQH4Q", "source": "Takuya Nakamura Official", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCGEkvEO_z3ncFPOeTIIf-TQ", "source": "clipping.", "genre": "Hip-Hop/Experimental", "style": "youtube"},
+    {"channel_id": "UCGM9j3wMbMwGIwrSprT_rbA", "source": "- Topic", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCGSg3iQgRQ5M9CpluqkMAZg", "source": "Digging The Greats", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCInOR_Jhe-MH-IDSJ2BSOVA", "source": "Signified B Sides", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCJFJuYpd7mMeC9mZVdTqV1g", "source": "the pillows", "genre": "J-Rock", "style": "youtube"},
+    {"channel_id": "UCJcy1UahHDpuHgumv1Al6xQ", "source": "Axis:Bold As Boognish", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCKHvQqJdl2cyPUmcXLFUeaQ", "source": "slowthai", "genre": "Hip-Hop/Rap", "style": "youtube"},
+    {"channel_id": "UCLZXODAwFtHpqsjqRmv8w2g", "source": "El-P", "genre": "Hip-Hop/Rap", "style": "youtube"},
+    {"channel_id": "UCLeYcQ4Pb9BOBiXVJQslwPg", "source": "COMPANY FLOW - Topic", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCM09HhHpr0YiLdCIPj2LtEQ", "source": "Music Ward", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCMQZn39xU3eU5pWK_gjxjxQ", "source": "Man Man", "genre": "Indie", "style": "youtube"},
+    {"channel_id": "UCOTYXAQ0g5cKdr1mFJRPy2g", "source": "Ms. Monica", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCRiwfqktaeTb-fkj1Ps3dCQ", "source": "DATTBOIIAJ", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCRrug-Un76Tsuy5T6Q7YBHA", "source": "OTHERPEOPLE", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCSCIeZFgWF5ZNmvNVG16WHQ", "source": "In Love With A Ghost (InLoveWithAGhost)", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCSdX8vt4nM1Su_cJXXOQ7mA", "source": "Aimé Leon Dore", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCUXfRsEIJ9xO1DT7TbEWksw", "source": "Eve", "genre": "Hip-Hop/Rap", "style": "youtube"},
     {"channel_id": "UCUklgkEp4cEUbnTXuTHdK9g", "source": "Fairusemotherfuckers", "genre": "General", "style": "youtube"},
     {"channel_id": "UCVHeqpJWysWdIevel7_znyQ", "source": "The Most Unruly", "genre": "General", "style": "youtube"},
     {"channel_id": "UCVlOUVuzEmaDHG81PeuKnsA", "source": "samsa", "genre": "General", "style": "youtube"},
     {"channel_id": "UCVuG15mrDK86CYrpYabEJAg", "source": "Tkay Maidza", "genre": "Hip-Hop/Pop", "style": "youtube"},
     {"channel_id": "UCYEc2Mf-2qr1XWVVovwP3RQ", "source": "P.O.S", "genre": "Hip-Hop/Rap", "style": "youtube"},
+    {"channel_id": "UCZ4yRm-r8r_jYFTOH9OUfPA", "source": "Handsome Boy Modeling School - Topic", "genre": "General", "style": "youtube"},
     {"channel_id": "UCZ9P6qKZRbBOSaKYPjokp0Q", "source": "Le Mellotron", "genre": "General", "style": "youtube"},
     {"channel_id": "UCZkisDBkq-dmfuedeOiglpA", "source": "iHipHopDistribution", "genre": "General", "style": "youtube"},
     {"channel_id": "UCZqu2qNltpvZxuPr2w3BzSA", "source": "STUCK IN THE SOUND", "genre": "Indie Rock", "style": "youtube"},
-    {"channel_id": "UCaFYkTAL8ykusTQR6FrZLfg", "source": "Cookin Soul", "genre": "Hip-Hop/Rap", "style": "youtube"},
+    {"channel_id": "UCaFYkTAL8ykusTQR6FrZLfg", "source": "Cookin Soul", "genre": "General", "style": "youtube"},
     {"channel_id": "UCatDoyZBxEI5ym-Z1R9XZ6g", "source": "BD", "genre": "General", "style": "youtube"},
     {"channel_id": "UCdJ1EsawSS1YegcaVMCevQg", "source": "Urine Denial", "genre": "General", "style": "youtube"},
-    {"channel_id": "UCdKj0VzVR0Af0wzd7-68Avw", "source": "Tim Henson", "genre": "Rock", "style": "youtube"},
+    {"channel_id": "UCdKj0VzVR0Af0wzd7-68Avw", "source": "Tim Henson", "genre": "General", "style": "youtube"},
     {"channel_id": "UCeveumRTn2o--9j1Xz2KUCQ", "source": "RunTheJewels", "genre": "Hip-Hop/Rap", "style": "youtube"},
-    {"channel_id": "UCg-Q5pXrTKYOm5kOgAPaxPQ", "source": "Cuffed Up", "genre": "rock", "style": "youtube"},
+    {"channel_id": "UCg-Q5pXrTKYOm5kOgAPaxPQ", "source": "Cuffed Up", "genre": "General", "style": "youtube"},
     {"channel_id": "UCg2MHicgOLGnQqSHZ5glwCQ", "source": "Kingsland Ites", "genre": "General", "style": "youtube"},
     {"channel_id": "UCguiKZmCdLaXRHYodNdCdMA", "source": "Kilertune", "genre": "General", "style": "youtube"},
     {"channel_id": "UCkQXSwp780Kp8XcegVOpfSQ", "source": "A-OK All Day", "genre": "General", "style": "youtube"},
@@ -212,9 +220,10 @@ YOUTUBE_FEEDS = [
     {"channel_id": "UCngimeRWT1E9ZlasMs-eQSg", "source": "WeAreDeLaSoul", "genre": "Hip-Hop/Rap", "style": "youtube"},
     {"channel_id": "UCnkdF0aNzdW26J4JdrqrqbA", "source": "Chill Masters", "genre": "General", "style": "youtube"},
     {"channel_id": "UCnxQ8o9RpqxGF2oLHcCn9VQ", "source": "fantano", "genre": "General", "style": "youtube"},
-    {"channel_id": "UCoemw2YA4B2DIfJhntjG7pQ", "source": "The Stevedores - Topic", "indie": "General", "style": "youtube"},
+    {"channel_id": "UCoemw2YA4B2DIfJhntjG7pQ", "source": "The Stevedores - Topic", "genre": "General", "style": "youtube"},
     {"channel_id": "UCq3Wpi10SyZkzVeS7vzB5Lw", "source": "Ichika Nito", "genre": "General", "style": "youtube"},
-    {"channel_id": "UCriuZdLnpO65paC80Vo4VjA", "source": "Larry Fisherman", "genre": "Hip-Hop/Rap", "style": "youtube"},
+    {"channel_id": "UCriuZdLnpO65paC80Vo4VjA", "source": "Larry Fisherman", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCs7K3QOtZPT2L-Z9i0DHyuQ", "source": "The Good, The Bad & The Queen", "genre": "General", "style": "youtube"},
     {"channel_id": "UCsIg9WMfxjZZvwROleiVsQg", "source": "STEEZYASFUCK", "genre": "General", "style": "youtube"},
     {"channel_id": "UCsObT2rCuM4f9ABCmHCEVBw", "source": "Tom Morello", "genre": "Rock", "style": "youtube"},
     {"channel_id": "UCsqffkpc-dfAFS8mLDq9Iag", "source": "ë„ê¸°ì½”ê¸° Doggie Corgi", "genre": "General", "style": "youtube"},
@@ -226,14 +235,7 @@ YOUTUBE_FEEDS = [
     {"channel_id": "UCw7RrKdqIMddn-JpnOtnWPg", "source": "YEAR OF THE OX", "genre": "General", "style": "youtube"},
     {"channel_id": "UCwQ6zYvTNqxh5l5yhFgZLPg", "source": "DOMi & JD BECK", "genre": "Jazz/Fusion", "style": "youtube"},
     {"channel_id": "UCxzmUXqGSkeDPvUbd42m2Hg", "source": "annatempura", "genre": "General", "style": "youtube"},
-    {"channel_id": "UCy6yzFvZL3BwbnHzK31WCmg", "source": "neon//rust", "genre": "General", "style": "youtube"},    
-    # {"channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx", "source": "Some Artist", "genre": "General", "style": "youtube"},
-    # {"channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx", "source": "Some Artist", "genre": "General", "style": "youtube"},
-    # {"channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx", "source": "Some Artist", "genre": "General", "style": "youtube"},
-    # {"channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx", "source": "Some Artist", "genre": "General", "style": "youtube"},
-    # {"channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx", "source": "Some Artist", "genre": "General", "style": "youtube"},
-    # {"channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx", "source": "Some Artist", "genre": "General", "style": "youtube"},
-    # {"channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx", "source": "Some Artist", "genre": "General", "style": "youtube"},
+    {"channel_id": "UCy6yzFvZL3BwbnHzK31WCmg", "source": "neon//rust", "genre": "General", "style": "youtube"},
 ]
 
 
@@ -441,6 +443,39 @@ def extract_youtube_video_id(entry) -> str:
     return m.group(1) if m else ""
 
 
+def extract_audio_enclosure(entry) -> str:
+    """Podcast-style RSS feeds (KEXP, RA Podcast) attach the actual playable
+    audio file as an <enclosure> tag — feedparser exposes these under
+    entry.enclosures, separately from the human-readable <link>. This is
+    free data already sitting in the feed, no extra requests needed."""
+    for enc in getattr(entry, "enclosures", []) or []:
+        etype = enc.get("type", "")
+        href = enc.get("href", "")
+        if href and ("audio" in etype or _is_audio_url(href)):
+            return href
+    return ""
+
+
+def build_preview(feed: dict, entry) -> dict:
+    """Returns a small dict describing how the dashboard can offer an
+    inline preview for this entry, or None if there isn't a clean way to
+    do that (e.g. Bandcamp — see the comment in FEEDS about why we don't
+    attempt per-release scraping there)."""
+    style = feed.get("style")
+
+    if style == "youtube":
+        video_id = extract_youtube_video_id(entry)
+        if video_id:
+            return {"type": "youtube", "video_id": video_id}
+
+    if style in ("kexp", "ra_podcast"):
+        audio_url = extract_audio_enclosure(entry)
+        if audio_url:
+            return {"type": "audio", "url": audio_url}
+
+    return None
+
+
 def is_youtube_short(video_id: str, timeout: int = 6) -> bool:
     """YouTube's /shorts/{id} URL loads normally (200) if the video really
     is a Short, but redirects to the regular /watch page otherwise. That
@@ -570,6 +605,7 @@ def scan() -> dict:
                 "genres": guess_genres(entry, feed["genre"]),
                 "artist": artist,
                 "link_type": get_link_type(feed),
+                "preview": build_preview(feed, entry),
                 "scanned_at": datetime.now(timezone.utc).isoformat(),
             }
             data["entries"].append(record)

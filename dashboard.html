@@ -130,6 +130,7 @@
     border-radius: 4px 10px 10px 10px;
     padding: 14px;
     display: flex;
+    align-items: flex-start;
     gap: 12px;
     overflow-x: auto;
     scrollbar-width: thin;
@@ -146,12 +147,64 @@
     cursor: pointer;
     text-decoration: none;
     display: block;
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, flex-basis 0.15s ease;
     box-shadow: 2px 2px 0 rgba(0,0,0,0.25);
   }
   .sleeve:hover {
     transform: translateY(-4px) rotate(-1deg);
     box-shadow: 4px 6px 0 rgba(0,0,0,0.3);
+  }
+  .sleeve.expanded {
+    flex-basis: 320px;
+  }
+  .sleeve.expanded:hover {
+    transform: none;
+  }
+
+  .expand-panel {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px dashed #cfc7b8;
+    font-family: 'Inter', sans-serif;
+  }
+  .expand-row {
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: #4a4238;
+  }
+  .expand-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: var(--mustard-dim);
+    margin-right: 5px;
+  }
+  .preview-embed {
+    width: 100%;
+    height: 170px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    display: block;
+  }
+  .preview-audio {
+    width: 100%;
+    margin-bottom: 10px;
+    display: block;
+  }
+  .open-btn {
+    background: var(--teal);
+    color: var(--cream-solid);
+    border: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    cursor: pointer;
+    margin-top: 4px;
+  }
+  .open-btn:hover {
+    background: #4a9188;
   }
 
   .sleeve .artist {
@@ -284,6 +337,7 @@
   let currentData = SAMPLE;
   let filterText = "";
   let currentView = "music"; // "all" | "music" | "article"
+  let expandedLink = null; // link of the currently tap-expanded card, or null
 
   function timeAgo(iso) {
     if (!iso) return "";
@@ -375,18 +429,22 @@
         body.className = "lane-body";
 
         items.forEach(e => {
-          const card = document.createElement("a");
-          card.className = "sleeve";
-          card.href = e.link || "#";
-          card.rel = "noopener noreferrer";
+          const card = document.createElement("div");
+          const isExpanded = expandedLink === e.link;
+          card.className = "sleeve" + (isExpanded ? " expanded" : "");
           card.innerHTML = `
             <div class="artist">${escapeHtml(e.artist || "Unknown")}</div>
             <div class="title">${escapeHtml(e.title || "")}</div>
             <div class="meta"><span>${escapeHtml(e.source || "")}</span><span>${timeAgo(postTime(e))}</span></div>
+            ${isExpanded ? buildExpandedPanel(e) : ""}
           `;
           card.addEventListener("click", (ev) => {
-            ev.preventDefault();
-            openLink(e.link);
+            // Clicks inside the expanded panel (the Open button, an audio
+            // player's controls) shouldn't re-collapse the card — only the
+            // card's own body should toggle it.
+            if (ev.target.closest(".expand-panel")) return;
+            expandedLink = isExpanded ? null : e.link;
+            render();
           });
           body.appendChild(card);
         });
@@ -394,6 +452,31 @@
         lane.appendChild(body);
         laneContainer.appendChild(lane);
       });
+  }
+
+  function buildExpandedPanel(e) {
+    const genres = (e.genres && e.genres.length) ? e.genres.join(", ") : "Uncategorized";
+    const fullDate = (() => {
+      const d = new Date(postTime(e));
+      return isNaN(d) ? "" : d.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+    })();
+
+    let player = "";
+    if (e.preview && e.preview.type === "youtube") {
+      player = `<iframe class="preview-embed" src="https://www.youtube.com/embed/${encodeURIComponent(e.preview.video_id)}"
+                  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+    } else if (e.preview && e.preview.type === "audio") {
+      player = `<audio class="preview-audio" controls src="${escapeHtml(e.preview.url)}"></audio>`;
+    }
+
+    return `
+      <div class="expand-panel">
+        ${player}
+        <div class="expand-row"><span class="expand-label">Genres</span> ${escapeHtml(genres)}</div>
+        <div class="expand-row"><span class="expand-label">Posted</span> ${escapeHtml(fullDate)}</div>
+        <button class="open-btn" data-link="${escapeHtml(e.link || "")}">Open ↗</button>
+      </div>
+    `;
   }
 
   function escapeHtml(str) {
@@ -445,6 +528,17 @@
     currentView = btn.dataset.view;
     document.querySelectorAll(".toggle-btn").forEach(b => b.classList.toggle("active", b === btn));
     render();
+  });
+
+  // Cards (and their "Open" buttons) get rebuilt every render(), so we
+  // can't attach a listener to each button directly — it'd be gone by the
+  // time someone clicks it. Instead, one listener sits on #lanes (which
+  // itself never gets replaced) and checks what was actually clicked.
+  document.getElementById("lanes").addEventListener("click", (ev) => {
+    const btn = ev.target.closest(".open-btn");
+    if (!btn) return;
+    ev.stopPropagation(); // don't also trigger the card's own expand/collapse
+    openLink(btn.dataset.link);
   });
 
   document.getElementById("search").addEventListener("input", (ev) => {
