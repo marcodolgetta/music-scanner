@@ -1,6 +1,272 @@
 {
-  "last_run": "2026-07-23T03:17:24.284132+00:00",
+  "last_run": "2026-07-23T10:12:42.110218+00:00",
   "entries": [
+    {
+      "title": "The War and Treaty: Tiny Desk Concert",
+      "link": "https://www.youtube.com/watch?v=2Szdo6fRc5c",
+      "published": "2026-07-23T09:00:00+00:00",
+      "published_iso": "2026-07-23T09:00:00+00:00",
+      "source": "NPR Music (Tiny Desk)",
+      "genres": [
+        "R&B/Soul",
+        "Emo",
+        "Folk/Americana",
+        "Country",
+        "Rock"
+      ],
+      "artist": "The War and Treaty",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "2Szdo6fRc5c"
+      },
+      "scanned_at": "2026-07-23T10:10:00.251628+00:00"
+    },
+    {
+      "title": "Gelli Haha on Experimental Optimism of Nymphlord",
+      "link": "https://omny.fm/shows/kexp-song-of-the-day/gelli-haha-on-experimental-optimism-of-nymphlord",
+      "published": "Thu, 23 Jul 2026 07:00:00 +0000",
+      "published_iso": "2026-07-23T07:00:00+00:00",
+      "source": "KEXP (In Our Headphones)",
+      "genres": [
+        "Ambient/Experimental",
+        "Pop",
+        "Alternative/Indie"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "audio",
+        "url": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/92050c4e-649c-450a-aa91-b48f014175ef/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4"
+      },
+      "scanned_at": "2026-07-23T10:09:48.162124+00:00"
+    },
+    {
+      "title": "Protomartyr Announce New Album ‘Hotel Usona’",
+      "link": "https://www.clashmusic.com/news/protomartyr-announce-new-album-hotel-usona/",
+      "published": "Thu, 23 Jul 2026 08:01:10 +0000",
+      "published_iso": "2026-07-23T08:01:10+00:00",
+      "source": "Clash",
+      "genres": [
+        "Electronic/Dance"
+      ],
+      "artist": "Protomartyr",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:48.766363+00:00"
+    },
+    {
+      "title": "Gotts Street Park Announce New Album ‘Somewhere Between’",
+      "link": "https://www.clashmusic.com/news/gotts-street-park-announce-new-album-somewhere-between/",
+      "published": "Thu, 23 Jul 2026 08:20:23 +0000",
+      "published_iso": "2026-07-23T08:20:23+00:00",
+      "source": "Clash",
+      "genres": [
+        "R&B/Soul"
+      ],
+      "artist": "Gotts Street Park",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:48.766284+00:00"
+    },
+    {
+      "title": "Murex Lays Out Plans For Debut Album ‘Inventio’",
+      "link": "https://www.clashmusic.com/news/murex-lays-out-plans-for-debut-album-inventio/",
+      "published": "Thu, 23 Jul 2026 08:41:01 +0000",
+      "published_iso": "2026-07-23T08:41:01+00:00",
+      "source": "Clash",
+      "genres": [
+        "General"
+      ],
+      "artist": "Murex Lays Out Plans For",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:48.766197+00:00"
+    },
+    {
+      "title": "Teenage Fanclub Announce New Album ‘Do Not Dare To Dream’",
+      "link": "https://www.clashmusic.com/news/teenage-fanclub-announce-new-album-do-not-dare-to-dream/",
+      "published": "Thu, 23 Jul 2026 09:13:49 +0000",
+      "published_iso": "2026-07-23T09:13:49+00:00",
+      "source": "Clash",
+      "genres": [
+        "General"
+      ],
+      "artist": "Teenage Fanclub",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:48.766111+00:00"
+    },
+    {
+      "title": "Phoebe Green’s ‘Polluting You With Me’ Offers Warped Electronic Pop",
+      "link": "https://www.clashmusic.com/news/phoebe-greens-polluting-you-with-me-offers-warped-electronic-pop/",
+      "published": "Thu, 23 Jul 2026 10:02:45 +0000",
+      "published_iso": "2026-07-23T10:02:45+00:00",
+      "source": "Clash",
+      "genres": [
+        "Electronic/Dance",
+        "Pop"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:48.766016+00:00"
+    },
+    {
+      "title": "Sharon Osbourne Reveals Advice Ozzy Gave Her to Remember Him",
+      "link": "https://www.rollingstone.com/music/music-news/sharon-osbourne-ozzy-death-anniversary-remember-him-1235597623/",
+      "published": "Thu, 23 Jul 2026 03:41:59 +0000",
+      "published_iso": "2026-07-23T03:41:59+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Sharon Osbourne",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:44.465359+00:00"
+    },
+    {
+      "title": "Shania Twain Performs Rousing Single ‘Dirty Rosie’ on ‘Fallon’",
+      "link": "https://www.rollingstone.com/music/music-news/shania-twain-dirty-rosie-performance-fallon-1235597635/",
+      "published": "Thu, 23 Jul 2026 06:17:40 +0000",
+      "published_iso": "2026-07-23T06:17:40+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Country"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:44.465309+00:00"
+    },
+    {
+      "title": "Militarie Gun announce deluxe edition of ‘God Save The Gun’ with Mannequin Pussy collab ‘World’s Always Burning’",
+      "link": "https://diymag.com/news/militarie-gun-announce-deluxe-edition-of-god-save-the-gun-with-mannequin-pussy-collaboration-worlds-always-burning",
+      "published": "Wed, 22 Jul 2026 17:48:00 +0100",
+      "published_iso": "2026-07-22T16:48:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Indie"
+      ],
+      "artist": "Militarie Gun",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:43.781145+00:00"
+    },
+    {
+      "title": "Nick Cave, Foo Fighters&nbsp;&amp;&nbsp;Florence + The Machine&nbsp;set the stage alight at 2026’s diverse edition of NOS Alive",
+      "link": "https://diymag.com/review/live/nos-alive-2026",
+      "published": "Wed, 22 Jul 2026 19:36:00 +0100",
+      "published_iso": "2026-07-22T18:36:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Indie"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:43.781087+00:00"
+    },
+    {
+      "title": "Chad Hugo Breaks Out With “Jumpupw!nya” Featuring Tierra Whack and Leikeli47: Stream",
+      "link": "https://consequence.net/2026/07/chad-hugo-single-jumpupwinya-tierra-whack-leikeli47/",
+      "published": "Thu, 23 Jul 2026 04:00:18 +0000",
+      "published_iso": "2026-07-23T04:00:18+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:42.532847+00:00"
+    },
+    {
+      "title": "Charli XCX shares brooding B-side ‘If You Take Away The Music Then What Has She Got?’",
+      "link": "https://www.nme.com/news/music/charli-xcx-shares-brooding-b-side-if-you-take-away-the-music-then-what-has-she-got-3958539?utm_source=rss&utm_medium=rss&utm_campaign=charli-xcx-shares-brooding-b-side-if-you-take-away-the-music-then-what-has-she-got",
+      "published": "Thu, 23 Jul 2026 07:02:30 +0000",
+      "published_iso": "2026-07-23T07:02:30+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Charli XCX",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:42.069080+00:00"
+    },
+    {
+      "title": "Travis Scott says Oasis helped inspire his next album",
+      "link": "https://www.nme.com/news/music/travis-scott-says-oasis-helped-inspire-his-next-album-3958542?utm_source=rss&utm_medium=rss&utm_campaign=travis-scott-says-oasis-helped-inspire-his-next-album",
+      "published": "Thu, 23 Jul 2026 07:58:56 +0000",
+      "published_iso": "2026-07-23T07:58:56+00:00",
+      "source": "NME",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:42.069003+00:00"
+    },
+    {
+      "title": "Andy Burnham to cut tax for music venues, clubs and pubs in England and make vape shops pay more",
+      "link": "https://www.nme.com/news/music/andy-burnham-to-cut-tax-for-music-venues-clubs-and-pubs-in-england-and-make-vape-shops-pay-more-3958549?utm_source=rss&utm_medium=rss&utm_campaign=andy-burnham-to-cut-tax-for-music-venues-clubs-and-pubs-in-england-and-make-vape-shops-pay-more",
+      "published": "Thu, 23 Jul 2026 08:56:56 +0000",
+      "published_iso": "2026-07-23T08:56:56+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:42.068923+00:00"
+    },
+    {
+      "title": "Fatboy Slim invests in ‘The National Trust for Music Venues’ purchasing “lifeblood” space The Pipeline in Brighton: “Rooms like this are where dreams come true”",
+      "link": "https://www.nme.com/news/music/fatboy-slim-invests-in-the-national-trust-for-music-venues-purchasing-lifeblood-space-the-pipeline-in-brighton-rooms-like-this-are-where-dreams-come-true-3958545?utm_source=rss&utm_medium=rss&utm_campaign=fatboy-slim-invests-in-the-national-trust-for-music-venues-purchasing-lifeblood-space-the-pipeline-in-brighton-rooms-like-this-are-where-dreams-come-true",
+      "published": "Thu, 23 Jul 2026 08:58:45 +0000",
+      "published_iso": "2026-07-23T08:58:45+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:42.068794+00:00"
+    },
+    {
+      "title": "Teenage Fanclub announce new album ‘Do Not Dare To Dream’ with atmospheric single ‘Day In The Sun’",
+      "link": "https://www.nme.com/news/music/teenage-fanclub-announce-new-album-do-not-dare-to-dream-with-atmospheric-single-day-in-the-sun-3958562?utm_source=rss&utm_medium=rss&utm_campaign=teenage-fanclub-announce-new-album-do-not-dare-to-dream-with-atmospheric-single-day-in-the-sun",
+      "published": "Thu, 23 Jul 2026 09:43:26 +0000",
+      "published_iso": "2026-07-23T09:43:26+00:00",
+      "source": "NME",
+      "genres": [
+        "Alternative/Indie"
+      ],
+      "artist": "Teenage Fanclub",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:42.068666+00:00"
+    },
+    {
+      "title": "The National’s Aaron Dessner speaks out on if Gracie Abrams’ ‘Death Wish’ is about Taylor Swift",
+      "link": "https://www.nme.com/news/music/the-nationals-aaron-dessner-speaks-out-on-if-gracie-abrams-death-wish-is-about-taylor-swift-3958555?utm_source=rss&utm_medium=rss&utm_campaign=the-nationals-aaron-dessner-speaks-out-on-if-gracie-abrams-death-wish-is-about-taylor-swift",
+      "published": "Thu, 23 Jul 2026 09:56:28 +0000",
+      "published_iso": "2026-07-23T09:56:28+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-23T10:08:42.068567+00:00"
+    },
     {
       "title": "Flight Facilities - Dope Tool (Oliver Dollar x Busta Rhymes Bootleg)",
       "link": "https://www.youtube.com/watch?v=4E14PDRNEHk",
@@ -2982,23 +3248,6 @@
       "scanned_at": "2026-07-23T03:12:50.372194+00:00"
     },
     {
-      "title": "Fred Hammond: Tiny Desk Concert",
-      "link": "https://www.youtube.com/watch?v=ClFp8yqfokk",
-      "published": "2026-06-23T09:00:16+00:00",
-      "published_iso": "2026-06-23T09:00:16+00:00",
-      "source": "NPR Music (Tiny Desk)",
-      "genres": [
-        "Various/Live Session"
-      ],
-      "artist": "Fred Hammond",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "ClFp8yqfokk"
-      },
-      "scanned_at": "2026-07-23T03:12:48.225906+00:00"
-    },
-    {
       "title": "Shaboozey: Tiny Desk Concert",
       "link": "https://www.youtube.com/watch?v=fEqGjypP5qY",
       "published": "2026-06-25T09:00:12+00:00",
@@ -3159,23 +3408,6 @@
         "video_id": "N4Eys5UWd_Q"
       },
       "scanned_at": "2026-07-23T03:12:30.099772+00:00"
-    },
-    {
-      "title": "Ripley Johnson on the Trippy Sounds of BCMC",
-      "link": "https://omny.fm/shows/kexp-song-of-the-day/ripley-johnson-on-the-trippy-sounds-of-bcmc",
-      "published": "Tue, 23 Jun 2026 07:00:00 +0000",
-      "published_iso": "2026-06-23T07:00:00+00:00",
-      "source": "KEXP (In Our Headphones)",
-      "genres": [
-        "Eclectic/Radio Pick"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "audio",
-        "url": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/ac12c8da-64a2-4140-ba3b-b46d012da8b3/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4"
-      },
-      "scanned_at": "2026-07-23T03:12:28.349663+00:00"
     },
     {
       "title": "Ripley Johnson on the Jazz Magic of The MerKaBa Brotherhood",
