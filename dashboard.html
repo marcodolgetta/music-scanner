@@ -357,6 +357,17 @@
     return e.published_iso || e.published || e.scanned_at;
   }
 
+  function displayArtist(e) {
+    // scan_music.py stores the literal string "Unknown" when guess_artist()
+    // can't figure it out — not an empty value — so a plain `e.artist ||
+    // fallback` never actually triggers (a non-empty string is truthy).
+    // We need an explicit check against that specific string instead.
+    if (!e.artist || e.artist === "Unknown") {
+      return e.source || "Unknown";
+    }
+    return e.artist;
+  }
+
   function render() {
     const entries = currentData.entries || [];
     const q = filterText.trim().toLowerCase();
@@ -433,7 +444,7 @@
           const isExpanded = expandedLink === e.link;
           card.className = "sleeve" + (isExpanded ? " expanded" : "");
           card.innerHTML = `
-            <div class="artist">${escapeHtml(e.artist || "Unknown")}</div>
+            <div class="artist">${escapeHtml(displayArtist(e))}</div>
             <div class="title">${escapeHtml(e.title || "")}</div>
             <div class="meta"><span>${escapeHtml(e.source || "")}</span><span>${timeAgo(postTime(e))}</span></div>
             ${isExpanded ? buildExpandedPanel(e) : ""}
