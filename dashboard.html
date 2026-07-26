@@ -357,12 +357,16 @@
     return e.published_iso || e.published || e.scanned_at;
   }
 
+  function hasUnknownArtist(e) {
+    return !e.artist || e.artist === "Unknown";
+  }
+
   function displayArtist(e) {
     // scan_music.py stores the literal string "Unknown" when guess_artist()
     // can't figure it out — not an empty value — so a plain `e.artist ||
     // fallback` never actually triggers (a non-empty string is truthy).
     // We need an explicit check against that specific string instead.
-    if (!e.artist || e.artist === "Unknown") {
+    if (hasUnknownArtist(e)) {
       return e.source || "Unknown";
     }
     return e.artist;
@@ -415,8 +419,13 @@
 
     const byGenre = {};
     filtered.forEach(e => {
-      const genres = (e.genres && e.genres.length) ? e.genres : ["Uncategorized"];
-      const primary = genres[0];
+      let primary;
+      if (hasUnknownArtist(e)) {
+        primary = e.source || "Unknown Source";
+      } else {
+        const genres = (e.genres && e.genres.length) ? e.genres : ["Uncategorized"];
+        primary = genres[0];
+      }
       if (!byGenre[primary]) byGenre[primary] = [];
       byGenre[primary].push(e);
     });
