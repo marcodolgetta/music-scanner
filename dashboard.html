@@ -131,7 +131,7 @@
     padding: 14px;
     display: flex;
     align-items: flex-start;
-    gap: 12px;
+    gap: 40px;
     overflow-x: auto;
     scrollbar-width: thin;
   }
@@ -142,11 +142,12 @@
     flex: 0 0 190px;
     background: var(--cream-solid);
     color: var(--ink);
-    border-radius: 4px;
-    padding: 13px 13px 11px;
+    border-radius: 3px;
+    padding: 0;
     cursor: pointer;
-    text-decoration: none;
     display: block;
+    position: relative;
+    overflow: visible;
     transition: transform 0.15s ease, box-shadow 0.15s ease, flex-basis 0.15s ease;
     box-shadow: 2px 2px 0 rgba(0,0,0,0.25);
   }
@@ -161,8 +162,141 @@
     transform: none;
   }
 
+  /* The vinyl disc: sits behind the cover art, poking out past the jacket's
+     right edge, like a record half-pulled out of its sleeve. Sized big
+     enough to actually read as a record, not a decorative sliver. */
+  .vinyl-peek {
+    position: absolute;
+    top: 4%;
+    right: -22%;
+    width: 82%;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    background:
+      repeating-radial-gradient(circle at center,
+        #1c1a18 0px, #1c1a18 3px, #2e2a26 3px, #2e2a26 6px);
+    box-shadow: -4px 3px 12px rgba(0,0,0,0.5);
+    z-index: 1;
+  }
+  .vinyl-peek::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 14%;
+    height: 14%;
+    background: var(--lane-bg);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  /* The cover art itself: no real album art to show, so each lane gets a
+     consistent gradient derived from its own name (see hashColor() in the
+     script) — different lanes look visually distinct, same lane stays
+     recognizable card to card. ::before adds a diagonal grain texture and
+     ::after adds a vignette, so it reads as printed cardboard rather than
+     a flat color swatch. */
+  .jacket-art {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 3px 3px 0 0;
+    overflow: hidden;
+  }
+  .jacket-art::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: repeating-linear-gradient(
+      135deg,
+      rgba(255,255,255,0.07) 0px, rgba(255,255,255,0.07) 1px,
+      transparent 1px, transparent 5px
+    );
+    pointer-events: none;
+  }
+  .jacket-art::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    box-shadow: inset 0 0 8px rgba(0,0,0,0.35), inset 0 0 34px rgba(0,0,0,0.4);
+    pointer-events: none;
+  }
+
+  /* Artist/title/meta printed directly on the cover, like real sleeve
+     typography — anchored to the bottom, with a dark scrim behind the
+     text so it stays legible no matter what hue the art happens to be. */
+  .jacket-text {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3;
+    padding: 18px 12px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(to top,
+      rgba(0,0,0,0.88) 0%, rgba(0,0,0,0.6) 50%, transparent 100%);
+  }
+  .jacket-text .artist {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 10.5px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: rgba(255,255,255,0.72);
+    margin-bottom: 7px;
+    position: relative;
+    padding-bottom: 7px;
+  }
+  .jacket-text .artist::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 26px;
+    height: 1px;
+    background: rgba(255,255,255,0.4);
+  }
+  .jacket-text .title {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0.005em;
+    line-height: 1.1;
+    color: #fff;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.75);
+    margin-bottom: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .jacket-text .meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 8px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.6);
+    border-top: 1px solid rgba(255,255,255,0.22);
+    padding-top: 6px;
+    width: 100%;
+  }
+  .jacket-text .meta .dot {
+    opacity: 0.5;
+  }
+
   .expand-panel {
-    margin-top: 10px;
+    margin: 10px 13px 0;
     padding-top: 10px;
     border-top: 1px dashed #cfc7b8;
     font-family: 'Inter', sans-serif;
@@ -207,33 +341,7 @@
     background: #4a9188;
   }
 
-  .sleeve .artist {
-    font-family: 'Fraunces', serif;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 1.15;
-    margin-bottom: 6px;
-  }
-  .sleeve .title {
-    font-family: 'Inter', sans-serif;
-    font-size: 12px;
-    color: #4a4238;
-    line-height: 1.35;
-    margin-bottom: 10px;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .sleeve .meta {
-    display: flex;
-    justify-content: space-between;
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 10px;
-    color: var(--mustard-dim);
-    border-top: 1px dashed #cfc7b8;
-    padding-top: 7px;
-  }
+
 
   .empty {
     font-family: 'IBM Plex Mono', monospace;
@@ -357,6 +465,22 @@
     return e.published_iso || e.published || e.scanned_at;
   }
 
+  function hashColor(str) {
+    // Same string always produces the same color (a stable "identity" per
+    // lane), different strings spread out across the color wheel. This is
+    // just a simple string hash turned into a hue, not real album art —
+    // there's no image data to work with, so this is the honest substitute.
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+      hash = str.charCodeAt(i) + ((hash << 5) - hash);
+    }
+    const hue = Math.abs(hash) % 360;
+    return {
+      a: `hsl(${hue}, 55%, 42%)`,
+      b: `hsl(${(hue + 45) % 360}, 60%, 28%)`,
+    };
+  }
+
   function hasUnknownArtist(e) {
     return !e.artist || e.artist === "Unknown";
   }
@@ -448,14 +572,21 @@
         const body = document.createElement("div");
         body.className = "lane-body";
 
+        const laneColor = hashColor(genre);
+
         items.forEach(e => {
           const card = document.createElement("div");
           const isExpanded = expandedLink === e.link;
           card.className = "sleeve" + (isExpanded ? " expanded" : "");
           card.innerHTML = `
-            <div class="artist">${escapeHtml(displayArtist(e))}</div>
-            <div class="title">${escapeHtml(e.title || "")}</div>
-            <div class="meta"><span>${escapeHtml(e.source || "")}</span><span>${timeAgo(postTime(e))}</span></div>
+            <div class="vinyl-peek"></div>
+            <div class="jacket-art" style="background: linear-gradient(135deg, ${laneColor.a}, ${laneColor.b});">
+              <div class="jacket-text">
+                <div class="artist">${escapeHtml(displayArtist(e))}</div>
+                <div class="title">${escapeHtml(e.title || "")}</div>
+                <div class="meta"><span>${escapeHtml(e.source || "")}</span><span class="dot">·</span><span>${timeAgo(postTime(e))}</span></div>
+              </div>
+            </div>
             ${isExpanded ? buildExpandedPanel(e) : ""}
           `;
           card.addEventListener("click", (ev) => {
