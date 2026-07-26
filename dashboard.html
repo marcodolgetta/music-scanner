@@ -149,7 +149,11 @@
     position: relative;
     overflow: visible;
     transition: transform 0.15s ease, box-shadow 0.15s ease, flex-basis 0.15s ease;
-    box-shadow: 2px 2px 0 rgba(0,0,0,0.25);
+    box-shadow:
+      1px 1px 0 rgba(0,0,0,0.35),
+      2px 2px 0 rgba(0,0,0,0.28),
+      3px 3px 0 rgba(0,0,0,0.2),
+      4px 5px 10px rgba(0,0,0,0.35);
   }
   .sleeve:hover {
     transform: translateY(-4px) rotate(-1deg);
@@ -266,7 +270,7 @@
   .jacket-text .title {
     font-family: 'Fraunces', serif;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 18px;
     letter-spacing: 0.005em;
     line-height: 1.1;
     color: #fff;
