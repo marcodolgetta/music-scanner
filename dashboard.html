@@ -131,7 +131,7 @@
     padding: 14px;
     display: flex;
     align-items: flex-start;
-    gap: 40px;
+    gap: 16px;
     overflow-x: auto;
     scrollbar-width: thin;
   }
@@ -145,10 +145,11 @@
     border-radius: 3px;
     padding: 0;
     cursor: pointer;
-    display: block;
+    display: flex;
+    align-items: flex-start;
     position: relative;
     overflow: visible;
-    transition: transform 0.15s ease, box-shadow 0.15s ease, flex-basis 0.15s ease;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
     box-shadow:
       1px 1px 0 rgba(0,0,0,0.35),
       2px 2px 0 rgba(0,0,0,0.28),
@@ -157,41 +158,17 @@
   }
   .sleeve:hover {
     transform: translateY(-4px) rotate(-1deg);
-    box-shadow: 4px 6px 0 rgba(0,0,0,0.3);
+    box-shadow:
+      1px 1px 0 rgba(0,0,0,0.35),
+      2px 2px 0 rgba(0,0,0,0.28),
+      3px 3px 0 rgba(0,0,0,0.2),
+      6px 9px 16px rgba(0,0,0,0.4);
   }
   .sleeve.expanded {
-    flex-basis: 320px;
+    flex-basis: 336px;
   }
   .sleeve.expanded:hover {
     transform: none;
-  }
-
-  /* The vinyl disc: sits behind the cover art, poking out past the jacket's
-     right edge, like a record half-pulled out of its sleeve. Sized big
-     enough to actually read as a record, not a decorative sliver. */
-  .vinyl-peek {
-    position: absolute;
-    top: 4%;
-    right: -22%;
-    width: 82%;
-    aspect-ratio: 1 / 1;
-    border-radius: 50%;
-    background:
-      repeating-radial-gradient(circle at center,
-        #1c1a18 0px, #1c1a18 3px, #2e2a26 3px, #2e2a26 6px);
-    box-shadow: -4px 3px 12px rgba(0,0,0,0.5);
-    z-index: 1;
-  }
-  .vinyl-peek::after {
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 14%;
-    height: 14%;
-    background: var(--lane-bg);
-    border-radius: 50%;
-    transform: translate(-50%, -50%);
   }
 
   /* The cover art itself: no real album art to show, so each lane gets a
@@ -203,15 +180,26 @@
   .jacket-art {
     position: relative;
     z-index: 2;
-    width: 100%;
+    flex: 0 0 190px;
+    width: 190px;
     aspect-ratio: 1 / 1;
     border-radius: 3px 3px 0 0;
     overflow: hidden;
+    box-shadow: inset 0 0 0 1px rgba(255,255,255,0.12);
+  }
+  .jacket-photo {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
   }
   .jacket-art::before {
     content: "";
     position: absolute;
     inset: 0;
+    z-index: 2;
     background-image: repeating-linear-gradient(
       135deg,
       rgba(255,255,255,0.07) 0px, rgba(255,255,255,0.07) 1px,
@@ -223,6 +211,7 @@
     content: "";
     position: absolute;
     inset: 0;
+    z-index: 3;
     box-shadow: inset 0 0 8px rgba(0,0,0,0.35), inset 0 0 34px rgba(0,0,0,0.4);
     pointer-events: none;
   }
@@ -235,7 +224,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    z-index: 3;
+    z-index: 4;
     padding: 18px 12px 10px;
     display: flex;
     flex-direction: column;
@@ -299,47 +288,63 @@
     opacity: 0.5;
   }
 
-  .expand-panel {
-    margin: 10px 13px 0;
-    padding-top: 10px;
-    border-top: 1px dashed #cfc7b8;
-    font-family: 'Inter', sans-serif;
+  .sleeve-reveal {
+    width: 142px;
+    height: 190px;
+    flex: 0 0 142px;
+    overflow: hidden;
+    background: var(--lane-bg);
+    border-radius: 0 3px 3px 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    animation: revealSlideIn 0.35s ease-out;
   }
-  .expand-row {
-    font-size: 12px;
-    margin-bottom: 5px;
-    color: #4a4238;
+  @keyframes revealSlideIn {
+    from { transform: translateX(-24px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
   }
-  .expand-label {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 10px;
-    text-transform: uppercase;
-    color: var(--mustard-dim);
-    margin-right: 5px;
-  }
-  .preview-embed {
+  .reveal-embed {
     width: 100%;
-    height: 170px;
+    height: 92px;
     border: none;
     border-radius: 3px;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     display: block;
   }
-  .preview-audio {
+  .reveal-audio {
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     display: block;
+  }
+  .reveal-row {
+    font-size: 10.5px;
+    line-height: 1.35;
+    margin-bottom: 5px;
+    color: var(--cream-solid);
+    font-family: 'Inter', sans-serif;
+  }
+  .reveal-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9px;
+    text-transform: uppercase;
+    color: var(--mustard);
+    display: block;
+    margin-bottom: 1px;
   }
   .open-btn {
     background: var(--teal);
     color: var(--cream-solid);
     border: none;
-    padding: 6px 12px;
+    padding: 6px 10px;
     border-radius: 6px;
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 11px;
+    font-size: 10px;
     cursor: pointer;
-    margin-top: 4px;
+    margin-top: 6px;
+    width: 100%;
   }
   .open-btn:hover {
     background: #4a9188;
@@ -469,6 +474,15 @@
     return e.published_iso || e.published || e.scanned_at;
   }
 
+  function screenshotUrl(link) {
+    // thum.io: free, no API key, no signup — just an image URL. Screenshots
+    // the entry's *own* page (not just the source's homepage), so a
+    // Bandcamp release shows its real album art, a blog post shows its
+    // actual header photo, a YouTube video shows its real thumbnail.
+    if (!link) return "";
+    return `https://image.thum.io/get/width/450/crop/450/${link}`;
+  }
+
   function hashColor(str) {
     // Same string always produces the same color (a stable "identity" per
     // lane), different strings spread out across the color wheel. This is
@@ -583,21 +597,22 @@
           const isExpanded = expandedLink === e.link;
           card.className = "sleeve" + (isExpanded ? " expanded" : "");
           card.innerHTML = `
-            <div class="vinyl-peek"></div>
             <div class="jacket-art" style="background: linear-gradient(135deg, ${laneColor.a}, ${laneColor.b});">
+              <img class="jacket-photo" src="${escapeHtml(screenshotUrl(e.link))}" loading="lazy"
+                   alt="" onerror="this.style.display='none'" />
               <div class="jacket-text">
                 <div class="artist">${escapeHtml(displayArtist(e))}</div>
                 <div class="title">${escapeHtml(e.title || "")}</div>
                 <div class="meta"><span>${escapeHtml(e.source || "")}</span><span class="dot">·</span><span>${timeAgo(postTime(e))}</span></div>
               </div>
             </div>
-            ${isExpanded ? buildExpandedPanel(e) : ""}
+            ${isExpanded ? buildRevealPanel(e) : ""}
           `;
           card.addEventListener("click", (ev) => {
-            // Clicks inside the expanded panel (the Open button, an audio
+            // Clicks inside the reveal panel (the Open button, an audio
             // player's controls) shouldn't re-collapse the card — only the
             // card's own body should toggle it.
-            if (ev.target.closest(".expand-panel")) return;
+            if (ev.target.closest(".sleeve-reveal")) return;
             expandedLink = isExpanded ? null : e.link;
             render();
           });
@@ -609,7 +624,7 @@
       });
   }
 
-  function buildExpandedPanel(e) {
+  function buildRevealPanel(e) {
     const genres = (e.genres && e.genres.length) ? e.genres.join(", ") : "Uncategorized";
     const fullDate = (() => {
       const d = new Date(postTime(e));
@@ -618,17 +633,17 @@
 
     let player = "";
     if (e.preview && e.preview.type === "youtube") {
-      player = `<iframe class="preview-embed" src="https://www.youtube.com/embed/${encodeURIComponent(e.preview.video_id)}"
+      player = `<iframe class="reveal-embed" src="https://www.youtube.com/embed/${encodeURIComponent(e.preview.video_id)}"
                   allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
     } else if (e.preview && e.preview.type === "audio") {
-      player = `<audio class="preview-audio" controls src="${escapeHtml(e.preview.url)}"></audio>`;
+      player = `<audio class="reveal-audio" controls src="${escapeHtml(e.preview.url)}"></audio>`;
     }
 
     return `
-      <div class="expand-panel">
+      <div class="sleeve-reveal">
         ${player}
-        <div class="expand-row"><span class="expand-label">Genres</span> ${escapeHtml(genres)}</div>
-        <div class="expand-row"><span class="expand-label">Posted</span> ${escapeHtml(fullDate)}</div>
+        <div class="reveal-row"><span class="reveal-label">Genres</span>${escapeHtml(genres)}</div>
+        <div class="reveal-row"><span class="reveal-label">Posted</span>${escapeHtml(fullDate)}</div>
         <button class="open-btn" data-link="${escapeHtml(e.link || "")}">Open ↗</button>
       </div>
     `;
