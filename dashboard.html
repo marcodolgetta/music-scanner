@@ -187,13 +187,21 @@
     overflow: hidden;
     box-shadow: inset 0 0 0 1px rgba(255,255,255,0.12);
   }
-  .jacket-photo {
+  .jacket-icon {
     position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
     z-index: 1;
+    height: 34%;
+    display: flex;
+    align-items: flex-end;
+    gap: 7px;
+  }
+  .jacket-icon .bar {
+    width: 9px;
+    background: rgba(255,255,255,0.4);
+    border-radius: 3px;
   }
   .jacket-art::before {
     content: "";
@@ -474,13 +482,18 @@
     return e.published_iso || e.published || e.scanned_at;
   }
 
-  function screenshotUrl(link) {
-    // thum.io: free, no API key, no signup — just an image URL. Screenshots
-    // the entry's *own* page (not just the source's homepage), so a
-    // Bandcamp release shows its real album art, a blog post shows its
-    // actual header photo, a YouTube video shows its real thumbnail.
-    if (!link) return "";
-    return `https://image.thum.io/get/width/450/crop/450/${link}`;
+  function buildIconBars(str) {
+    // Same hashing idea as hashColor — deterministic per lane, not random —
+    // just used to vary bar heights instead of a color.
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+      hash = str.charCodeAt(i) + ((hash << 5) - hash);
+    }
+    const heights = [0, 1, 2, 3, 4].map(i => {
+      const v = Math.abs((hash >> (i * 4)) % 100);
+      return 35 + (v % 65); // keep every bar reasonably visible, 35-100%
+    });
+    return heights.map(h => `<div class="bar" style="height: ${h}%;"></div>`).join("");
   }
 
   function hashColor(str) {
@@ -598,8 +611,7 @@
           card.className = "sleeve" + (isExpanded ? " expanded" : "");
           card.innerHTML = `
             <div class="jacket-art" style="background: linear-gradient(135deg, ${laneColor.a}, ${laneColor.b});">
-              <img class="jacket-photo" src="${escapeHtml(screenshotUrl(e.link))}" loading="lazy"
-                   alt="" onerror="this.style.display='none'" />
+              <div class="jacket-icon">${buildIconBars(genre)}</div>
               <div class="jacket-text">
                 <div class="artist">${escapeHtml(displayArtist(e))}</div>
                 <div class="title">${escapeHtml(e.title || "")}</div>
