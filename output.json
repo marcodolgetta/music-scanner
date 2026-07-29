@@ -1,6 +1,1692 @@
 {
-  "last_run": "2026-07-28T10:22:41.544630+00:00",
+  "last_run": "2026-07-29T10:28:01.369481+00:00",
   "entries": [
+    {
+      "title": "Tom Morello - Date Night",
+      "link": "https://www.youtube.com/watch?v=QANNQIspgFs",
+      "published": "2026-07-28T15:08:49+00:00",
+      "published_iso": "2026-07-28T15:08:49+00:00",
+      "source": "Tom Morello",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "Tom Morello",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "QANNQIspgFs"
+      },
+      "scanned_at": "2026-07-29T10:27:37.629593+00:00"
+    },
+    {
+      "title": "Noga Erez - I LOVE YOU [feat. Armani White] - \"Against The Machine\" [LIVE]",
+      "link": "https://www.youtube.com/watch?v=jw9X0uNVXBw",
+      "published": "2026-07-28T14:28:12+00:00",
+      "published_iso": "2026-07-28T14:28:12+00:00",
+      "source": "Noga Erez",
+      "genres": [
+        "Electronic/Pop"
+      ],
+      "artist": "Noga Erez",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "jw9X0uNVXBw"
+      },
+      "scanned_at": "2026-07-29T10:25:59.595511+00:00"
+    },
+    {
+      "title": "Kolter - Hey Everybody (Back In The Dance)",
+      "link": "https://www.youtube.com/watch?v=3seSZSOfChQ",
+      "published": "2026-07-28T17:00:02+00:00",
+      "published_iso": "2026-07-28T17:00:02+00:00",
+      "source": "blanc",
+      "genres": [
+        "Electronic/Dance"
+      ],
+      "artist": "Kolter",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "3seSZSOfChQ"
+      },
+      "scanned_at": "2026-07-29T10:25:51.385075+00:00"
+    },
+    {
+      "title": "Catherine Moan - Fabric",
+      "link": "https://www.youtube.com/watch?v=ZjgM-90Guf0",
+      "published": "2026-07-28T21:38:08+00:00",
+      "published_iso": "2026-07-28T21:38:08+00:00",
+      "source": "NewRetroWave",
+      "genres": [
+        "Emo",
+        "Pop"
+      ],
+      "artist": "Catherine Moan",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "ZjgM-90Guf0"
+      },
+      "scanned_at": "2026-07-29T10:25:25.954696+00:00"
+    },
+    {
+      "title": "Charli xcx - Music, Fashion, Film ALBUM REVIEW",
+      "link": "https://www.youtube.com/watch?v=jWfzsLPasJY",
+      "published": "2026-07-29T02:34:16+00:00",
+      "published_iso": "2026-07-29T02:34:16+00:00",
+      "source": "theneedledrop",
+      "genres": [
+        "Alternative/Indie",
+        "Rock"
+      ],
+      "artist": "Charli xcx",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "jWfzsLPasJY"
+      },
+      "scanned_at": "2026-07-29T10:25:23.714492+00:00"
+    },
+    {
+      "title": "Chloë Robinson | Boiler Room: Nottingham",
+      "link": "https://www.youtube.com/watch?v=LthSHee0sMc",
+      "published": "2026-07-28T13:53:53+00:00",
+      "published_iso": "2026-07-28T13:53:53+00:00",
+      "source": "Boiler Room",
+      "genres": [
+        "Reggae/Ska"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "LthSHee0sMc"
+      },
+      "scanned_at": "2026-07-29T10:25:14.120599+00:00"
+    },
+    {
+      "title": "Guizmo | A COLORS SHOW",
+      "link": "https://www.youtube.com/watch?v=QyuBEUEflyE",
+      "published": "2026-07-28T15:52:04+00:00",
+      "published_iso": "2026-07-28T15:52:04+00:00",
+      "source": "COLORS",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "QyuBEUEflyE"
+      },
+      "scanned_at": "2026-07-29T10:24:56.435364+00:00"
+    },
+    {
+      "title": "Snail Mail on Loving Her Tour Mates Armlock",
+      "link": "https://omny.fm/shows/kexp-song-of-the-day/snail-mail-on-loving-her-tour-mates-armlock",
+      "published": "Tue, 28 Jul 2026 16:04:29 +0000",
+      "published_iso": "2026-07-28T16:04:29+00:00",
+      "source": "KEXP (In Our Headphones)",
+      "genres": [
+        "Eclectic/Radio Pick"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "audio",
+        "url": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/120fa78a-0f82-48ef-9bf5-b4930163f692/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4"
+      },
+      "scanned_at": "2026-07-29T10:24:54.126359+00:00"
+    },
+    {
+      "title": "HAAi Links With Echonomist For New Single ‘Ignition’",
+      "link": "https://www.clashmusic.com/news/haai-links-with-echonomist-for-new-single-ignition/",
+      "published": "Tue, 28 Jul 2026 14:00:09 +0000",
+      "published_iso": "2026-07-28T14:00:09+00:00",
+      "source": "Clash",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:59.562623+00:00"
+    },
+    {
+      "title": "Laura Veirs Announces New Album ‘Temple Songs’",
+      "link": "https://www.clashmusic.com/news/laura-viers-announces-new-album-temple-songs/",
+      "published": "Tue, 28 Jul 2026 14:26:53 +0000",
+      "published_iso": "2026-07-28T14:26:53+00:00",
+      "source": "Clash",
+      "genres": [
+        "General"
+      ],
+      "artist": "Laura Veirs",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:59.562541+00:00"
+    },
+    {
+      "title": "Karol G Drops New Sizzler ‘MATADORA’",
+      "link": "https://www.clashmusic.com/news/karol-g-drops-new-sizzler-matadora/",
+      "published": "Tue, 28 Jul 2026 14:48:17 +0000",
+      "published_iso": "2026-07-28T14:48:17+00:00",
+      "source": "Clash",
+      "genres": [
+        "Latin"
+      ],
+      "artist": "Karol G",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:59.562467+00:00"
+    },
+    {
+      "title": "Alice Coltrane’s Ashram Tapes To Be Issued In Full",
+      "link": "https://www.clashmusic.com/news/alice-coltranes-ashram-tapes-to-be-issued-in-full/",
+      "published": "Tue, 28 Jul 2026 16:13:05 +0000",
+      "published_iso": "2026-07-28T16:13:05+00:00",
+      "source": "Clash",
+      "genres": [
+        "Jazz"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:59.562396+00:00"
+    },
+    {
+      "title": "Fcukers Confirm Remix EP ‘nüyork’",
+      "link": "https://www.clashmusic.com/news/fcukers-confirm-remix-ep-nuyork/",
+      "published": "Tue, 28 Jul 2026 16:44:09 +0000",
+      "published_iso": "2026-07-28T16:44:09+00:00",
+      "source": "Clash",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Fcukers",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:59.562305+00:00"
+    },
+    {
+      "title": "Live Report: Festival d’été de Québec 2026",
+      "link": "https://www.clashmusic.com/live/live-report-festival-dete-de-quebec-2026/",
+      "published": "Wed, 29 Jul 2026 07:59:44 +0000",
+      "published_iso": "2026-07-29T07:59:44+00:00",
+      "source": "Clash",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:59.562232+00:00"
+    },
+    {
+      "title": "BTS Won’t Submit Music For Grammy Awards, Pushing Back Against Asian Categories",
+      "link": "https://www.clashmusic.com/news/bts-wont-submit-music-for-grammy-awards-pushing-back-against-asian-categories/",
+      "published": "Wed, 29 Jul 2026 08:28:31 +0000",
+      "published_iso": "2026-07-29T08:28:31+00:00",
+      "source": "Clash",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:59.562153+00:00"
+    },
+    {
+      "title": "Ninajirachi & Porter Robinson Link On ‘WannaCry’",
+      "link": "https://www.clashmusic.com/news/ninajirachi-porter-robinson-link-on-wannacry/",
+      "published": "Wed, 29 Jul 2026 08:46:41 +0000",
+      "published_iso": "2026-07-29T08:46:41+00:00",
+      "source": "Clash",
+      "genres": [
+        "Electronic/Dance"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:59.562056+00:00"
+    },
+    {
+      "title": "Sam Alfred Signs To Ninja Tune Imprint Technicolour",
+      "link": "https://www.clashmusic.com/news/sam-alfred-signs-to-ninja-tune-imprint-technicolour/",
+      "published": "Wed, 29 Jul 2026 08:54:20 +0000",
+      "published_iso": "2026-07-29T08:54:20+00:00",
+      "source": "Clash",
+      "genres": [
+        "Electronic/Dance"
+      ],
+      "artist": "Sam Alfred",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:59.561966+00:00"
+    },
+    {
+      "title": "French DJ And Producer Kavinsky Found Dead At Home",
+      "link": "https://www.clashmusic.com/news/french-dj-and-producer-kavinsky-found-dead-at-home/",
+      "published": "Wed, 29 Jul 2026 09:12:59 +0000",
+      "published_iso": "2026-07-29T09:12:59+00:00",
+      "source": "Clash",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:59.561896+00:00"
+    },
+    {
+      "title": "Arctic Monkeys Producer James Ford Battled Cancer to Emerge with a Life-Affirming Solo Album",
+      "link": "https://www.rollingstone.com/music/music-features/james-ellis-ford-cancer-solo-album-lost-in-another-world-1235599914/",
+      "published": "Tue, 28 Jul 2026 18:28:46 +0000",
+      "published_iso": "2026-07-28T18:28:46+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.775104+00:00"
+    },
+    {
+      "title": "Tyler Childers Looks Back on ‘Long Violent History’: ‘It’s Ruffled Some Feathers’",
+      "link": "https://www.rollingstone.com/music/music-country/tyler-childers-long-violent-history-interview-1235599961/",
+      "published": "Tue, 28 Jul 2026 19:16:26 +0000",
+      "published_iso": "2026-07-28T19:16:26+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.775043+00:00"
+    },
+    {
+      "title": "Carter Faith Partakes in a Country Music Tradition in New Video: Murder",
+      "link": "https://www.rollingstone.com/music/music-country/carter-faith-laci-kaye-booth-pearl-handled-pistol-video-1235600035/",
+      "published": "Tue, 28 Jul 2026 20:52:02 +0000",
+      "published_iso": "2026-07-28T20:52:02+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Country"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.774981+00:00"
+    },
+    {
+      "title": "Jim James Previews First Solo Album in Eight Years With Title Track ‘Wowed Out’",
+      "link": "https://www.rollingstone.com/music/music-news/jim-james-new-song-album-wowed-out-tour-dates-1235600120/",
+      "published": "Tue, 28 Jul 2026 21:57:11 +0000",
+      "published_iso": "2026-07-28T21:57:11+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Jim James",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.774918+00:00"
+    },
+    {
+      "title": "Phoebe Bridgers Reveals ‘Lost Weekend’ Track List",
+      "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-lost-weekend-track-list-1235600133/",
+      "published": "Tue, 28 Jul 2026 22:20:28 +0000",
+      "published_iso": "2026-07-28T22:20:28+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Phoebe Bridgers",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.774867+00:00"
+    },
+    {
+      "title": "Fred Again.. and Latin Mafia Are Making a Mixtape and Livestreaming the Entire Process",
+      "link": "https://www.rollingstone.com/music/music-latin/fred-again-latin-mafia-mixtape-livestream-youtube-1235600186/",
+      "published": "Wed, 29 Jul 2026 01:12:03 +0000",
+      "published_iso": "2026-07-29T01:12:03+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Latin"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.774808+00:00"
+    },
+    {
+      "title": "Noah Kahan Slams White House for Using His Song in Trump Promo Video",
+      "link": "https://www.rollingstone.com/music/music-news/noah-kahan-white-house-music-trump-video-1235600195/",
+      "published": "Wed, 29 Jul 2026 02:47:40 +0000",
+      "published_iso": "2026-07-29T02:47:40+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.774718+00:00"
+    },
+    {
+      "title": "Pearl Jam’s Early Years Revealed in New Intimate Photography Book",
+      "link": "https://www.rollingstone.com/music/music-news/pearl-jam-photography-book-jeff-ament-since-forever-1235600216/",
+      "published": "Wed, 29 Jul 2026 04:30:32 +0000",
+      "published_iso": "2026-07-29T04:30:32+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.774655+00:00"
+    },
+    {
+      "title": "Megan Moroney Ends Concert Early Due to Illness: ‘It Hurts Me So Much to Disappoint You All’",
+      "link": "https://www.rollingstone.com/music/music-news/megan-moroney-ends-denver-concert-early-illness-1235600223/",
+      "published": "Wed, 29 Jul 2026 05:14:04 +0000",
+      "published_iso": "2026-07-29T05:14:04+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.774594+00:00"
+    },
+    {
+      "title": "Willie Nelson Voices Concern About ‘Data Centers Invading Our Land’",
+      "link": "https://www.rollingstone.com/music/music-news/willie-nelson-data-centers-statement-1235600229/",
+      "published": "Wed, 29 Jul 2026 07:07:25 +0000",
+      "published_iso": "2026-07-29T07:07:25+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.774524+00:00"
+    },
+    {
+      "title": "The Cure, Zara Larsson, Florence + The Machine and JADE help Open’er 2026 flex its range",
+      "link": "https://diymag.com/review/live/opener-festival-2026",
+      "published": "Tue, 21 Jul 2026 11:01:00 +0100",
+      "published_iso": "2026-07-21T10:01:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Indie"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.600009+00:00"
+    },
+    {
+      "title": "All Points East completes lineup for Jorja Smith and Tems headliner",
+      "link": "https://diymag.com/news/all-points-east-festival-2026-completes-lineup-for-jorja-smith-and-tems-headliner",
+      "published": "Tue, 28 Jul 2026 11:26:00 +0100",
+      "published_iso": "2026-07-28T10:26:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Indie"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.599871+00:00"
+    },
+    {
+      "title": "Fat Dog unleash searing single ‘Shit Love’ from upcoming second album ‘Cancel Me (I’m Tired)’",
+      "link": "https://diymag.com/news/fat-dog-unleash-single-shit-love-from-upcoming-second-album-cancel-me-im-tired",
+      "published": "Tue, 28 Jul 2026 12:23:00 +0100",
+      "published_iso": "2026-07-28T11:23:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.599813+00:00"
+    },
+    {
+      "title": "Graham Coxon announces second drop of solo catalogue reissues",
+      "link": "https://diymag.com/news/graham-coxon-announces-second-drop-of-solo-catalogue-reissues",
+      "published": "Tue, 28 Jul 2026 13:10:00 +0100",
+      "published_iso": "2026-07-28T12:10:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Indie"
+      ],
+      "artist": "Graham Coxon",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.599731+00:00"
+    },
+    {
+      "title": "Bloc Party share new single ‘Now We Can’t Be Friends’",
+      "link": "https://diymag.com/news/bloc-party-share-new-single-now-we-cant-be-friends",
+      "published": "Tue, 28 Jul 2026 15:34:00 +0100",
+      "published_iso": "2026-07-28T14:34:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Indie"
+      ],
+      "artist": "Bloc Party",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.599685+00:00"
+    },
+    {
+      "title": "total tommy announces new album and shares title-track ‘Trapezoid’",
+      "link": "https://diymag.com/news/total-tommy-announces-new-album-and-shares-title-track-trapezoid",
+      "published": "Tue, 28 Jul 2026 16:33:00 +0100",
+      "published_iso": "2026-07-28T15:33:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "total tommy",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.599638+00:00"
+    },
+    {
+      "title": "King Gizzard &amp; The Lizard Wizard share title track from upcoming album ‘Alien Metal’",
+      "link": "https://diymag.com/news/king-gizzard-the-lizard-wizard-share-title-track-from-upcoming-album-alien-metal",
+      "published": "Tue, 28 Jul 2026 17:06:00 +0100",
+      "published_iso": "2026-07-28T16:06:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Metal"
+      ],
+      "artist": "King Gizzard &amp; The Lizard Wizard",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.599590+00:00"
+    },
+    {
+      "title": "Lucia &amp; The Best Boys — Picking Petals",
+      "link": "https://diymag.com/review/album/lucia-and-the-best-boys-picking-petals",
+      "published": "Wed, 29 Jul 2026 08:00:00 +0100",
+      "published_iso": "2026-07-29T07:00:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Indie"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.599534+00:00"
+    },
+    {
+      "title": "Opus Kink: “Take that step over the threshold and disrobe fully”",
+      "link": "https://diymag.com/interview/opus-kink-on",
+      "published": "Wed, 29 Jul 2026 11:00:00 +0100",
+      "published_iso": "2026-07-29T10:00:00+00:00",
+      "source": "DIY Magazine",
+      "genres": [
+        "Indie"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:53.599479+00:00"
+    },
+    {
+      "title": "Brendan Angelides and Serj Tankian Team Up on Cover of David Bowie’s “I’m Afraid of Americans”: Stream",
+      "link": "https://consequence.net/2026/07/brendan-angelides-serj-tankian-team-david-bowie-im-afraid-of-americans/",
+      "published": "Tue, 28 Jul 2026 15:34:59 +0000",
+      "published_iso": "2026-07-28T15:34:59+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Brendan Angelides and Serj Tankian",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.225584+00:00"
+    },
+    {
+      "title": "Silverstein and Story of the Year Announce “Camp Screamo 2” Tour",
+      "link": "https://consequence.net/2026/07/silverstein-story-of-the-year-camp-screamo-2-tour/",
+      "published": "Tue, 28 Jul 2026 16:08:11 +0000",
+      "published_iso": "2026-07-28T16:08:11+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Silverstein and Story of the Year",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.225511+00:00"
+    },
+    {
+      "title": "Jim James Announces 2026 Solo Acoustic Tour, Reveals New Song “Wowed Out”: Stream",
+      "link": "https://consequence.net/2026/07/jim-james-2026-tour-dates-wowed-out-new-single/",
+      "published": "Tue, 28 Jul 2026 16:38:47 +0000",
+      "published_iso": "2026-07-28T16:38:47+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Jim James",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.225443+00:00"
+    },
+    {
+      "title": "Aphex Twin Announces 25th Anniversary Reissue of Drukqs",
+      "link": "https://consequence.net/2026/07/aphex-twin-drukqs-25th-anniversary-reissue/",
+      "published": "Tue, 28 Jul 2026 17:14:05 +0000",
+      "published_iso": "2026-07-28T17:14:05+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Aphex Twin",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.225378+00:00"
+    },
+    {
+      "title": "Sunn O))) Showcase Wide Music Taste on Amoeba Records’ “What’s In My Bag?”: Watch",
+      "link": "https://consequence.net/2026/07/sunn-o-amoeba-whats-in-my-bag/",
+      "published": "Tue, 28 Jul 2026 17:50:26 +0000",
+      "published_iso": "2026-07-28T17:50:26+00:00",
+      "source": "Consequence",
+      "genres": [
+        "Jazz"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.225322+00:00"
+    },
+    {
+      "title": "Phoebe Bridgers Reveals Lost Weekend Tracklist",
+      "link": "https://consequence.net/2026/07/phoebe-bridgers-lost-weekend-tracklist/",
+      "published": "Tue, 28 Jul 2026 18:05:01 +0000",
+      "published_iso": "2026-07-28T18:05:01+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Phoebe Bridgers",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.225238+00:00"
+    },
+    {
+      "title": "The Faint Announce 2026 Fall US Tour",
+      "link": "https://consequence.net/2026/07/the-faint-announce-2026-tour/",
+      "published": "Tue, 28 Jul 2026 18:11:22 +0000",
+      "published_iso": "2026-07-28T18:11:22+00:00",
+      "source": "Consequence",
+      "genres": [
+        "Punk"
+      ],
+      "artist": "The Faint",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.225188+00:00"
+    },
+    {
+      "title": "Pearl Jam’s Jeff Ament Announces New Photo Book Since Forever",
+      "link": "https://consequence.net/2026/07/jeff-ament-pearl-jam-photo-book-since-forever/",
+      "published": "Tue, 28 Jul 2026 18:21:34 +0000",
+      "published_iso": "2026-07-28T18:21:34+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Pearl Jam’s Jeff Ament",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.225136+00:00"
+    },
+    {
+      "title": "Danzig’s Deth Red Sabaoth Gets Reissue on Multiple Formats",
+      "link": "https://consequence.net/2026/07/danzig-deth-red-sabaoth-reissue/",
+      "published": "Tue, 28 Jul 2026 18:23:34 +0000",
+      "published_iso": "2026-07-28T18:23:34+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.225067+00:00"
+    },
+    {
+      "title": "Joan Baez Had the Time of Her Life at Newport Folk",
+      "link": "https://consequence.net/2026/07/joan-baez-time-of-her-life-dave-matthews-newport/",
+      "published": "Tue, 28 Jul 2026 18:33:22 +0000",
+      "published_iso": "2026-07-28T18:33:22+00:00",
+      "source": "Consequence",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.224997+00:00"
+    },
+    {
+      "title": "Alice Coltrane’s Rare “Ashram” Recordings to Be Released in Full for First Time",
+      "link": "https://consequence.net/2026/07/matador-reissuing-alice-coltranes-ashram-recordings/",
+      "published": "Tue, 28 Jul 2026 19:11:22 +0000",
+      "published_iso": "2026-07-28T19:11:22+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.224930+00:00"
+    },
+    {
+      "title": "Eminem to Auction Rare Signed Sneakers from Personal Collection for Detroit Youth",
+      "link": "https://consequence.net/2026/07/eminem-signed-sneakers-charity-auction-marshall-mathers-foundation/",
+      "published": "Tue, 28 Jul 2026 20:17:29 +0000",
+      "published_iso": "2026-07-28T20:17:29+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.224846+00:00"
+    },
+    {
+      "title": "Willie Nelson Tells Communities to “Fight” Data Centers In Open Letter",
+      "link": "https://consequence.net/2026/07/willie-nelson-against-data-centers/",
+      "published": "Tue, 28 Jul 2026 21:09:04 +0000",
+      "published_iso": "2026-07-28T21:09:04+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.224750+00:00"
+    },
+    {
+      "title": "Foo Fighters’ 2026 American Stadium Tour: How to Get Last-Minute Tickets",
+      "link": "https://consequence.net/2026/07/foo-fighters-2026-tour-ticket-information/",
+      "published": "Tue, 28 Jul 2026 22:06:09 +0000",
+      "published_iso": "2026-07-28T22:06:09+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.224669+00:00"
+    },
+    {
+      "title": "Jodeci Announce 35th Anniversary Tour Celebrating Forever My Lady",
+      "link": "https://consequence.net/2026/07/jodeci-2026-us-tour-dates/",
+      "published": "Wed, 29 Jul 2026 02:04:31 +0000",
+      "published_iso": "2026-07-29T02:04:31+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Jodeci",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.224581+00:00"
+    },
+    {
+      "title": "Zara Larsson and Robyn’s “Talk To Me, Zara” remix is enchanting",
+      "link": "https://www.thefader.com/2026/07/28/robyn-zara-larsson-talk-to-me-zara-remix-video",
+      "published": "Tue, 28 Jul 2026 15:26:57 -0400",
+      "published_iso": "2026-07-28T19:26:57+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.083458+00:00"
+    },
+    {
+      "title": "Wisp is bringing her new era shoegaze to arenas",
+      "link": "https://www.thefader.com/2026/07/28/wisp-is-bringing-her-new-era-shoegaze-to-arenas",
+      "published": "Tue, 28 Jul 2026 17:41:31 -0400",
+      "published_iso": "2026-07-28T21:41:31+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Shoegaze/Dream Pop"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.083401+00:00"
+    },
+    {
+      "title": "Frost Children’s Frost Fest 2026 was an IYKYK-linkup",
+      "link": "https://www.thefader.com/2026/07/28/frost-fest-2026-review-deep-play-linkup",
+      "published": "Tue, 28 Jul 2026 18:10:58 -0400",
+      "published_iso": "2026-07-28T22:10:58+00:00",
+      "source": "The Fader",
+      "genres": [
+        "Hip-Hop/Pop"
+      ],
+      "artist": "Frost Children’s Frost Fest 2026 was an IYKYK",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:52.083336+00:00"
+    },
+    {
+      "title": "Latitude Festival signs new lease to stay at Henham Park for another 20 years",
+      "link": "https://www.nme.com/news/music/latitude-festival-signs-new-lease-to-stay-at-henham-park-for-another-20-years-3959485?utm_source=rss&utm_medium=rss&utm_campaign=latitude-festival-signs-new-lease-to-stay-at-henham-park-for-another-20-years",
+      "published": "Tue, 28 Jul 2026 15:44:39 +0000",
+      "published_iso": "2026-07-28T15:44:39+00:00",
+      "source": "NME",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Latitude Festival",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.940513+00:00"
+    },
+    {
+      "title": "Pearl Jam’s Jeff Ament to share hundreds of unseen photos and reflect on formation of band in new book ‘Since Forever’",
+      "link": "https://www.nme.com/news/music/pearl-jams-jeff-ament-to-share-hundreds-of-unseen-photos-and-reflect-on-formation-of-band-in-new-book-since-forever-3959494?utm_source=rss&utm_medium=rss&utm_campaign=pearl-jams-jeff-ament-to-share-hundreds-of-unseen-photos-and-reflect-on-formation-of-band-in-new-book-since-forever",
+      "published": "Tue, 28 Jul 2026 17:15:26 +0000",
+      "published_iso": "2026-07-28T17:15:26+00:00",
+      "source": "NME",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Pearl Jam’s Jeff Ament to",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.940450+00:00"
+    },
+    {
+      "title": "Tom Morello teams up with Kneecap and Beartooth for new album ‘Everyone Gets Everything They Want’ as he shares new single ‘Date Night’",
+      "link": "https://www.nme.com/news/music/tom-morello-teams-up-with-kneecap-and-beartooth-for-new-album-everyone-gets-everything-they-want-as-he-shares-new-single-date-night-3959504?utm_source=rss&utm_medium=rss&utm_campaign=tom-morello-teams-up-with-kneecap-and-beartooth-for-new-album-everyone-gets-everything-they-want-as-he-shares-new-single-date-night",
+      "published": "Tue, 28 Jul 2026 18:40:31 +0000",
+      "published_iso": "2026-07-28T18:40:31+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Tom Morello",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.940367+00:00"
+    },
+    {
+      "title": "Watch Fred again.. and LATIN MAFIA create new mixtape live on YouTube",
+      "link": "https://www.nme.com/news/music/watch-fred-again-and-latin-mafia-create-new-mixtape-live-on-youtube-3959513?utm_source=rss&utm_medium=rss&utm_campaign=watch-fred-again-and-latin-mafia-create-new-mixtape-live-on-youtube",
+      "published": "Tue, 28 Jul 2026 20:34:13 +0000",
+      "published_iso": "2026-07-28T20:34:13+00:00",
+      "source": "NME",
+      "genres": [
+        "Latin"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.940282+00:00"
+    },
+    {
+      "title": "Noah Kahan slams Trump administration for using ‘American Cars’: “Would never approve of my music being used”",
+      "link": "https://www.nme.com/news/music/noah-kahan-slams-trump-administration-for-using-american-cars-would-never-approve-of-my-music-being-used-3959531?utm_source=rss&utm_medium=rss&utm_campaign=noah-kahan-slams-trump-administration-for-using-american-cars-would-never-approve-of-my-music-being-used",
+      "published": "Wed, 29 Jul 2026 06:45:49 +0000",
+      "published_iso": "2026-07-29T06:45:49+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.940205+00:00"
+    },
+    {
+      "title": "Jared Leto accused of criminal sexual misconduct by four women",
+      "link": "https://www.nme.com/news/music/jared-leto-accused-of-criminal-sexual-misconduct-by-four-women-3959540?utm_source=rss&utm_medium=rss&utm_campaign=jared-leto-accused-of-criminal-sexual-misconduct-by-four-women",
+      "published": "Wed, 29 Jul 2026 08:45:04 +0000",
+      "published_iso": "2026-07-29T08:45:04+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.940107+00:00"
+    },
+    {
+      "title": "Dua Lipa reveals curated line-up for London Literature Festival with Patti Smith, Mustafa, Zadie Smith and more",
+      "link": "https://www.nme.com/news/music/dua-lipa-reveals-curated-line-up-for-london-literature-festival-with-patti-smith-mustafa-zadie-smith-and-more-3959553?utm_source=rss&utm_medium=rss&utm_campaign=dua-lipa-reveals-curated-line-up-for-london-literature-festival-with-patti-smith-mustafa-zadie-smith-and-more",
+      "published": "Wed, 29 Jul 2026 08:59:48 +0000",
+      "published_iso": "2026-07-29T08:59:48+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Dua Lipa",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.940026+00:00"
+    },
+    {
+      "title": "Phoebe Bridgers reveals tracklist for new album ‘Lost Weekend’",
+      "link": "https://www.nme.com/news/music/phoebe-bridgers-reveals-tracklist-for-new-album-lost-weekend-3959546?utm_source=rss&utm_medium=rss&utm_campaign=phoebe-bridgers-reveals-tracklist-for-new-album-lost-weekend",
+      "published": "Wed, 29 Jul 2026 09:21:00 +0000",
+      "published_iso": "2026-07-29T09:21:00+00:00",
+      "source": "NME",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Phoebe Bridgers",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.939933+00:00"
+    },
+    {
+      "title": "Watch Wunderhorse debut new songs ‘Kerosene’ and ‘Promises’ as they kick off 2026 North American tour",
+      "link": "https://www.nme.com/news/music/watch-wunderhorse-debut-new-songs-kerosene-and-promises-as-they-kick-off-2026-north-american-tour-3959580?utm_source=rss&utm_medium=rss&utm_campaign=watch-wunderhorse-debut-new-songs-kerosene-and-promises-as-they-kick-off-2026-north-american-tour",
+      "published": "Wed, 29 Jul 2026 09:59:53 +0000",
+      "published_iso": "2026-07-29T09:59:53+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Watch Wunderhorse",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.939848+00:00"
+    },
+    {
+      "title": "Steve Lacy accidentally spoils major ‘Spider-Man: Brand New Day’ character reveal in red carpet interview",
+      "link": "https://www.nme.com/news/film/steve-lacy-accidentally-spoils-major-spider-man-brand-new-day-character-reveal-in-red-carpet-interview-3959579?utm_source=rss&utm_medium=rss&utm_campaign=steve-lacy-accidentally-spoils-major-spider-man-brand-new-day-character-reveal-in-red-carpet-interview",
+      "published": "Wed, 29 Jul 2026 10:02:44 +0000",
+      "published_iso": "2026-07-29T10:02:44+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.939730+00:00"
+    },
+    {
+      "title": "Legendary folk singer Linda Perhacs reported missing",
+      "link": "https://www.brooklynvegan.com/legendary-folk-singer-linda-perhacs-reported-missing/",
+      "published": "Tue, 28 Jul 2026 12:28:58 +0000",
+      "published_iso": "2026-07-28T12:28:58+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.749370+00:00"
+    },
+    {
+      "title": "John Mulaney announces 9 NYC shows including Comedy Cellar, Madison Square Garden & more",
+      "link": "https://www.brooklynvegan.com/john-mulaney-announces-9-nyc-shows-including-comedy-cellar-madison-square-garden-more/",
+      "published": "Tue, 28 Jul 2026 12:41:13 +0000",
+      "published_iso": "2026-07-28T12:41:13+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "John Mulaney",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.749322+00:00"
+    },
+    {
+      "title": "Richard Thompson announces new album, shares “Cocaine Walking, Booze Talking”",
+      "link": "https://www.brooklynvegan.com/richard-thompson-announces-new-album-shares-cocaine-walking-booze-talking/",
+      "published": "Tue, 28 Jul 2026 13:31:36 +0000",
+      "published_iso": "2026-07-28T13:31:36+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "Richard Thompson",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.749275+00:00"
+    },
+    {
+      "title": "King Gizzard share title track from new rave album ‘Alien Metal’",
+      "link": "https://www.brooklynvegan.com/king-gizzard-share-title-track-from-new-rave-album-alien-metal/",
+      "published": "Tue, 28 Jul 2026 14:10:52 +0000",
+      "published_iso": "2026-07-28T14:10:52+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Metal"
+      ],
+      "artist": "King Gizzard",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.749232+00:00"
+    },
+    {
+      "title": "My Morning Jacket’s Jim James shares title track of new LP, announces solo acoustic tour",
+      "link": "https://www.brooklynvegan.com/my-morning-jackets-jim-james-shares-title-track-of-new-lp-announces-solo-acoustic-tour/",
+      "published": "Tue, 28 Jul 2026 14:40:32 +0000",
+      "published_iso": "2026-07-28T14:40:32+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "My Morning Jacket’s Jim James",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.749186+00:00"
+    },
+    {
+      "title": "Tom Morello of Rage Against the Machine announces new LP ft. Kneecap & more (new single & exclusive vinyl)",
+      "link": "https://www.brooklynvegan.com/tom-morello-of-rage-against-the-machine-announces-new-lp-ft-kneecap-more-new-single-exclusive-vinyl/",
+      "published": "Tue, 28 Jul 2026 15:01:19 +0000",
+      "published_iso": "2026-07-28T15:01:19+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "Tom Morello of Rage Against the Machine",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.749117+00:00"
+    },
+    {
+      "title": "Aphex Twins’ ‘Drukqs’ gets first-ever vinyl reissue",
+      "link": "https://www.brooklynvegan.com/aphex-twins-drukqs-gets-first-ever-vinyl-reissue/",
+      "published": "Tue, 28 Jul 2026 16:21:03 +0000",
+      "published_iso": "2026-07-28T16:21:03+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.749062+00:00"
+    },
+    {
+      "title": "Judiciary announce new EP ahead of Killswitch Engage/Machine Head tour, share “Wall of Skulls”",
+      "link": "https://www.brooklynvegan.com/judiciary-announce-new-ep-ahead-of-killswitch-engage-machine-head-tour-share-wall-of-skulls/",
+      "published": "Tue, 28 Jul 2026 16:36:29 +0000",
+      "published_iso": "2026-07-28T16:36:29+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Punk",
+        "Metal"
+      ],
+      "artist": "Judiciary",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.749011+00:00"
+    },
+    {
+      "title": "The Offspring add NJ “Just The Punk Stuff” show before Sea.Hear.Now",
+      "link": "https://www.brooklynvegan.com/the-offspring-add-nj-just-the-punk-stuff-show-before-sea-hear-now/",
+      "published": "Tue, 28 Jul 2026 17:03:48 +0000",
+      "published_iso": "2026-07-28T17:03:48+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.748964+00:00"
+    },
+    {
+      "title": "Fcukers announce ‘nüyork’ remix EP: hear “if you wanna party, come over to my house” (Eli Escobar Remix)”",
+      "link": "https://www.brooklynvegan.com/fcukers-announce-nuyork-remix-ep-hear-if-you-wanna-party-come-over-to-my-house-eli-escobar-remix/",
+      "published": "Tue, 28 Jul 2026 17:22:48 +0000",
+      "published_iso": "2026-07-28T17:22:48+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "Fcukers",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.748894+00:00"
+    },
+    {
+      "title": "Joyce Manor headlining an arena",
+      "link": "https://www.brooklynvegan.com/joyce-manor-headlining-an-arena/",
+      "published": "Tue, 28 Jul 2026 17:43:03 +0000",
+      "published_iso": "2026-07-28T17:43:03+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.748837+00:00"
+    },
+    {
+      "title": "Set Your Goals book ‘Mutiny!’ 20th anniversary tour with The Warriors, I Am The Avalanche, more",
+      "link": "https://www.brooklynvegan.com/set-your-goals-book-mutiny-20th-anniversary-tour-with-the-warriors-i-am-the-avalanche-more/",
+      "published": "Tue, 28 Jul 2026 18:32:11 +0000",
+      "published_iso": "2026-07-28T18:32:11+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.748753+00:00"
+    },
+    {
+      "title": "26 New Songs Out Today",
+      "link": "https://www.brooklynvegan.com/26-new-songs-out-today-64/",
+      "published": "Tue, 28 Jul 2026 21:27:56 +0000",
+      "published_iso": "2026-07-28T21:27:56+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.748684+00:00"
+    },
+    {
+      "title": "Tour news: The Faint, Rev Horton Heat, Bimbo, Immolation, Candybar, Aaliyah tribute at Celebrate Brooklyn!, more",
+      "link": "https://www.brooklynvegan.com/tour-news-the-faint-rev-horton-heat-bimbo-immolation-candybar-aaliyah-tribute-at-celebrate-brooklyn-more/",
+      "published": "Tue, 28 Jul 2026 22:37:02 +0000",
+      "published_iso": "2026-07-28T22:37:02+00:00",
+      "source": "BrooklynVegan",
+      "genres": [
+        "Indie/Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.748632+00:00"
+    },
+    {
+      "title": "Linda Perhacs Reported Missing",
+      "link": "https://stereogum.com/2506469/linda-perhacs-reported-missing/news/",
+      "published": "Tue, 28 Jul 2026 13:04:52 +0000",
+      "published_iso": "2026-07-28T13:04:52+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.537158+00:00"
+    },
+    {
+      "title": "King Gizzard & The Lizard Wizard – “Alien Metal”",
+      "link": "https://stereogum.com/2506472/king-gizzard-the-lizard-wizard-alien-metal/music/",
+      "published": "Tue, 28 Jul 2026 13:24:18 +0000",
+      "published_iso": "2026-07-28T13:24:18+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Metal",
+        "Electronic/Dance",
+        "Rock"
+      ],
+      "artist": "King Gizzard & The Lizard Wizard",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.537078+00:00"
+    },
+    {
+      "title": "Richard Thompson Announces New Album Hippies, Thugs And Heroes: Hear “Cocaine Walking, Booze Talking”",
+      "link": "https://stereogum.com/2506436/richard-thompson-announces-new-album-hippies-thugs-and-heroes-hear-cocaine-walking-booze-talking/music/",
+      "published": "Tue, 28 Jul 2026 13:35:06 +0000",
+      "published_iso": "2026-07-28T13:35:06+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Folk/Americana",
+        "Rock"
+      ],
+      "artist": "Richard Thompson",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536991+00:00"
+    },
+    {
+      "title": "Ariana Grande Sues To Unmask Hackers Who Stole Her Unreleased Music",
+      "link": "https://stereogum.com/2506478/ariana-grande-sues-to-unmask-hackers-who-stole-her-unreleased-music/news/",
+      "published": "Tue, 28 Jul 2026 13:49:04 +0000",
+      "published_iso": "2026-07-28T13:49:04+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536910+00:00"
+    },
+    {
+      "title": "Gracie Abrams’ Hell Is Other People’s Expectations",
+      "link": "https://stereogum.com/2506418/gracie-abrams-hell-is-other-peoples-expectations/columns/chained-to-the-rhythm/",
+      "published": "Tue, 28 Jul 2026 13:51:35 +0000",
+      "published_iso": "2026-07-28T13:51:35+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536806+00:00"
+    },
+    {
+      "title": "Steve Lacy Seemingly Spoils Spider-Man: Brand New Day On Red Carpet Livestream",
+      "link": "https://stereogum.com/2506477/steve-lacy-seemingly-spoils-spider-man-brand-new-day-on-red-carpet-livestream/news/",
+      "published": "Tue, 28 Jul 2026 14:26:03 +0000",
+      "published_iso": "2026-07-28T14:26:03+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Steve Lacy Seemingly Spoils Spider",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536694+00:00"
+    },
+    {
+      "title": "Bernie Taupin Announces First Solo Album In Nearly 40 Years",
+      "link": "https://stereogum.com/2506486/bernie-taupin-announces-first-solo-album-in-nearly-40-years/music/",
+      "published": "Tue, 28 Jul 2026 14:26:23 +0000",
+      "published_iso": "2026-07-28T14:26:23+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Bernie Taupin",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536622+00:00"
+    },
+    {
+      "title": "Winter Announces New EP Romantix Mixtape: Hear “Without You” (Feat. Soccer Mommy)",
+      "link": "https://stereogum.com/2506423/winter-announces-new-ep-romantix-mixtape-hear-without-feat-soccer-mommy/music/",
+      "published": "Tue, 28 Jul 2026 14:35:08 +0000",
+      "published_iso": "2026-07-28T14:35:08+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Shoegaze/Dream Pop"
+      ],
+      "artist": "Winter",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536527+00:00"
+    },
+    {
+      "title": "Ellis – “all that i’ve got”",
+      "link": "https://stereogum.com/2506494/ellis-all-that-ive-got/music/",
+      "published": "Tue, 28 Jul 2026 14:51:28 +0000",
+      "published_iso": "2026-07-28T14:51:28+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Ellis",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536425+00:00"
+    },
+    {
+      "title": "Judiciary Announce New EP Stalagmite Angels: Hear “Wall Of Skulls”",
+      "link": "https://stereogum.com/2506502/judiciary-announce-new-ep-stalagmite-angels-hear-wall-of-skulls/music/",
+      "published": "Tue, 28 Jul 2026 15:07:08 +0000",
+      "published_iso": "2026-07-28T15:07:08+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Judiciary",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536336+00:00"
+    },
+    {
+      "title": "2nd Grade – “Cellophane Girls”",
+      "link": "https://stereogum.com/2506505/2nd-grade-cellophane-girls/music/",
+      "published": "Tue, 28 Jul 2026 15:13:40 +0000",
+      "published_iso": "2026-07-28T15:13:40+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "2nd Grade",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536261+00:00"
+    },
+    {
+      "title": "Slayyyter Debuts Four New Songs At St. Louis Tour Opener",
+      "link": "https://stereogum.com/2506511/slayyyter-debuts-four-new-songs-at-st-louis-tour-opener/music/",
+      "published": "Tue, 28 Jul 2026 15:37:05 +0000",
+      "published_iso": "2026-07-28T15:37:05+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Slayyyter",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536174+00:00"
+    },
+    {
+      "title": "Tom Morello Announces New Album Everyone Gets Everything They Want: Hear “Date Night”",
+      "link": "https://stereogum.com/2506514/tom-morello-announces-new-album-everyone-gets-everything-they-want-hear-date-night/music/",
+      "published": "Tue, 28 Jul 2026 16:07:09 +0000",
+      "published_iso": "2026-07-28T16:07:09+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Tom Morello",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.536080+00:00"
+    },
+    {
+      "title": "Robyn Enlists Zara Larsson For “Talk To Me” Remix",
+      "link": "https://stereogum.com/2506519/robyn-enlists-zara-larsson-for-talk-to-me-remix/music/",
+      "published": "Tue, 28 Jul 2026 16:30:29 +0000",
+      "published_iso": "2026-07-28T16:30:29+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Robyn",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535960+00:00"
+    },
+    {
+      "title": "Purest Form Announce New EP Resistance: Hear “Animal”",
+      "link": "https://stereogum.com/2506459/purest-form-announce-new-ep-resistance-hear-animal/music/",
+      "published": "Tue, 28 Jul 2026 16:35:12 +0000",
+      "published_iso": "2026-07-28T16:35:12+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Purest",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535872+00:00"
+    },
+    {
+      "title": "Album Of The Week: Mallory Hawk Chinook",
+      "link": "https://stereogum.com/2506443/album-of-the-week-mallory-hawk-chinook/reviews/album-of-the-week/",
+      "published": "Tue, 28 Jul 2026 17:00:13 +0000",
+      "published_iso": "2026-07-28T17:00:13+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535787+00:00"
+    },
+    {
+      "title": "How Strange It Is Announce New Album There Is No Evil: Hear “Slime”",
+      "link": "https://stereogum.com/2506528/how-strange-it-is-announce-new-album-there-is-no-evil-hear-slime/music/",
+      "published": "Tue, 28 Jul 2026 17:32:35 +0000",
+      "published_iso": "2026-07-28T17:32:35+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Alternative/Indie",
+        "Rock"
+      ],
+      "artist": "How Strange It Is",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535717+00:00"
+    },
+    {
+      "title": "Bullion – “Roo”",
+      "link": "https://stereogum.com/2506530/bullion-roo/music/",
+      "published": "Tue, 28 Jul 2026 17:42:02 +0000",
+      "published_iso": "2026-07-28T17:42:02+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Bullion",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535642+00:00"
+    },
+    {
+      "title": "Anthony Green & Sweet Pill’s Zayna Youssef Cover Porno For Pyros’ “Pets”",
+      "link": "https://stereogum.com/2506531/anthony-green-sweet-pills-zayna-youssef-cover-porno-for-pyros-pets/music/",
+      "published": "Tue, 28 Jul 2026 17:43:17 +0000",
+      "published_iso": "2026-07-28T17:43:17+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Alternative/Indie",
+        "Rock"
+      ],
+      "artist": "Anthony Green & Sweet Pill’s Zayna Youssef",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535557+00:00"
+    },
+    {
+      "title": "Bruise Bath Announce New Self-Titled Album: Hear “Blood On My Tongue”",
+      "link": "https://stereogum.com/2506542/bruise-bath-announce-new-self-titled-album-hear-blood-on-my-tongue/music/",
+      "published": "Tue, 28 Jul 2026 18:07:54 +0000",
+      "published_iso": "2026-07-28T18:07:54+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Metal"
+      ],
+      "artist": "Bruise Bath",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535458+00:00"
+    },
+    {
+      "title": "New Shane MacGowan Tribute Album Reveals Tracklist Feat. Tom Waits, U2, The Jesus And Mary Chain, Primal Scream, & More",
+      "link": "https://stereogum.com/2506536/new-shane-macgowan-tribute-album-reveals-tracklist-feat-tom-waits-u2-the-jesus-and-mary-chain-primal-scream-more/news/",
+      "published": "Tue, 28 Jul 2026 18:13:56 +0000",
+      "published_iso": "2026-07-28T18:13:56+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "New Shane MacGowan Tribute Album",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535375+00:00"
+    },
+    {
+      "title": "Maripool – “Favourite”",
+      "link": "https://stereogum.com/2506550/maripool-favourite/music/",
+      "published": "Tue, 28 Jul 2026 18:50:14 +0000",
+      "published_iso": "2026-07-28T18:50:14+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Maripool",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535286+00:00"
+    },
+    {
+      "title": "Judy Announce New EP Death Of A Ladies’ Mutt: “Denim Girls”",
+      "link": "https://stereogum.com/2506564/judy-announce-new-ep-death-of-a-ladies-mutt-denim-girls/music/",
+      "published": "Tue, 28 Jul 2026 19:59:54 +0000",
+      "published_iso": "2026-07-28T19:59:54+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Judy",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535199+00:00"
+    },
+    {
+      "title": "Jim James – “Wowed Out”",
+      "link": "https://stereogum.com/2506575/jim-james-wowed-out/music/",
+      "published": "Tue, 28 Jul 2026 20:24:48 +0000",
+      "published_iso": "2026-07-28T20:24:48+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "R&B/Soul"
+      ],
+      "artist": "Jim James",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.535068+00:00"
+    },
+    {
+      "title": "Just Penelope Announce Debut EP Great Lake: Hear “After”",
+      "link": "https://stereogum.com/2506585/just-penelope-announce-debut-ep-great-lake-hear-after/music/",
+      "published": "Tue, 28 Jul 2026 20:48:17 +0000",
+      "published_iso": "2026-07-28T20:48:17+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Shoegaze/Dream Pop"
+      ],
+      "artist": "Just Penelope",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.534986+00:00"
+    },
+    {
+      "title": "Boy George Says He Used AI To Create His New Pro-Israel Reggae Song",
+      "link": "https://stereogum.com/2506586/boy-george-says-he-used-ai-to-create-his-new-pro-israel-song/news/",
+      "published": "Tue, 28 Jul 2026 20:56:13 +0000",
+      "published_iso": "2026-07-28T20:56:13+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Reggae/Ska"
+      ],
+      "artist": "Boy George Says He Used AI To Create His New Pro",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.534901+00:00"
+    },
+    {
+      "title": "Ninajirachi & Porter Robinson – “WannaCry”",
+      "link": "https://stereogum.com/2506597/ninajirachi-porter-robinson-wannacry/music/",
+      "published": "Wed, 29 Jul 2026 00:11:16 +0000",
+      "published_iso": "2026-07-29T00:11:16+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Electronic/Dance",
+        "Pop"
+      ],
+      "artist": "Ninajirachi & Porter Robinson",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.534809+00:00"
+    },
+    {
+      "title": "Aphex Twin’s Drukqs Gets First-Ever Vinyl Reissue",
+      "link": "https://pitchfork.com/story/aphex-twins-drukqs-gets-first-ever-vinyl-reissue/",
+      "published": "Tue, 28 Jul 2026 14:15:58 +0000",
+      "published_iso": "2026-07-28T14:15:58+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Aphex Twin’s Drukqs Gets First",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.219097+00:00"
+    },
+    {
+      "title": "Ariana Grande Is Taking on Her Hackers—Once She Figures Out Who They Are",
+      "link": "https://pitchfork.com/story/ariana-grande-is-suing-her-hackers-over-unreleased-music/",
+      "published": "Tue, 28 Jul 2026 14:35:01 +0000",
+      "published_iso": "2026-07-28T14:35:01+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Ariana Grande Is Taking on Her Hackers",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.219046+00:00"
+    },
+    {
+      "title": "Tom Morello Launches New Album With “Date Night”",
+      "link": "https://pitchfork.com/story/tom-morello-launches-new-album-with-date-night/",
+      "published": "Tue, 28 Jul 2026 15:15:01 +0000",
+      "published_iso": "2026-07-28T15:15:01+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Tom Morello",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.218985+00:00"
+    },
+    {
+      "title": "Modest Mouse Guitarist Simon O’Connor Apologizes for Inappropriate Messages to Minor",
+      "link": "https://pitchfork.com/story/modest-mouse-guitarist-simon-oconnor-apologizes-for-inappropriate-messages-to-minor/",
+      "published": "Tue, 28 Jul 2026 15:54:55 +0000",
+      "published_iso": "2026-07-28T15:54:55+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.218937+00:00"
+    },
+    {
+      "title": "Robyn Enlists Zara Larsson for “Talk to Me” Remix",
+      "link": "https://pitchfork.com/story/robyn-enlists-zara-larsson-for-talk-to-me-remix/",
+      "published": "Tue, 28 Jul 2026 16:03:27 +0000",
+      "published_iso": "2026-07-28T16:03:27+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Robyn",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.218874+00:00"
+    },
+    {
+      "title": "Alice Coltrane’s Ashram Tapes Are Finally Getting Released",
+      "link": "https://pitchfork.com/story/alice-coltranes-ashram-tapes-finally-get-authorized-release/",
+      "published": "Tue, 28 Jul 2026 16:31:46 +0000",
+      "published_iso": "2026-07-28T16:31:46+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.218810+00:00"
+    },
+    {
+      "title": "Fcukers Announce New Ö Remix EP NüYork",
+      "link": "https://pitchfork.com/story/fcukers-remix-ep-nuyork/",
+      "published": "Tue, 28 Jul 2026 16:31:50 +0000",
+      "published_iso": "2026-07-28T16:31:50+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Fcukers",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.218731+00:00"
+    },
+    {
+      "title": "Richard Thompson Readies 20th Solo Album",
+      "link": "https://pitchfork.com/story/richard-thompson-readies-20th-solo-album/",
+      "published": "Tue, 28 Jul 2026 16:41:23 +0000",
+      "published_iso": "2026-07-28T16:41:23+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "Richard Thompson",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.218686+00:00"
+    },
+    {
+      "title": "Phoebe Bridgers Returns With New Album Lost Weekend",
+      "link": "https://pitchfork.com/news/phoebe-bridgers-returns-with-new-album-lost-weekend/",
+      "published": "Tue, 28 Jul 2026 18:13:54 +0000",
+      "published_iso": "2026-07-28T18:13:54+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Phoebe Bridgers",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.218635+00:00"
+    },
+    {
+      "title": "Listen to King Gizzard & the Lizard Wizard’s New Song “Alien Metal”",
+      "link": "https://pitchfork.com/story/listen-to-king-gizzard-and-the-lizard-wizards-new-song-alien-metal/",
+      "published": "Tue, 28 Jul 2026 18:47:31 +0000",
+      "published_iso": "2026-07-28T18:47:31+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Metal",
+        "Electronic/Dance"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.218585+00:00"
+    },
+    {
+      "title": "Willie Nelson: Data Centers Suck",
+      "link": "https://pitchfork.com/story/willie-nelson-data-centers-suck/",
+      "published": "Tue, 28 Jul 2026 21:45:09 +0000",
+      "published_iso": "2026-07-28T21:45:09+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.218516+00:00"
+    },
+    {
+      "title": "Ninajirachi Teams Up With Porter Robinson for New Single “WannaCry”",
+      "link": "https://pitchfork.com/story/ninajirachi-teams-up-with-porter-robinson-for-new-single-wannacry/",
+      "published": "Tue, 28 Jul 2026 22:05:45 +0000",
+      "published_iso": "2026-07-28T22:05:45+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Ninajirachi",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-07-29T10:23:51.218442+00:00"
+    },
     {
       "title": "Delta Heavy - Set You Free",
       "link": "https://www.youtube.com/watch?v=O5BFglC9ABk",
@@ -8221,27 +9907,6 @@
       "scanned_at": "2026-07-23T03:13:21.292824+00:00"
     },
     {
-      "title": "Fiesta Colombiana: Salsa y Cumbia with miche",
-      "link": "https://www.youtube.com/watch?v=Gifl8dpbvZY",
-      "published": "2026-06-28T10:55:59+00:00",
-      "published_iso": "2026-06-28T10:55:59+00:00",
-      "source": "MAJ",
-      "genres": [
-        "R&B/Soul",
-        "Emo",
-        "Electronic/Dance",
-        "Jazz",
-        "Latin"
-      ],
-      "artist": "Fiesta Colombiana",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "Gifl8dpbvZY"
-      },
-      "scanned_at": "2026-07-23T03:13:20.610355+00:00"
-    },
-    {
       "title": "Funk Around The World: A Sunday Morning With Mates’ Crates",
       "link": "https://www.youtube.com/watch?v=EJD4zzJ_5qA",
       "published": "2026-07-05T11:24:41+00:00",
@@ -9073,24 +10738,6 @@
         "url": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/e6ac3650-b3ad-4f2a-9a05-b48d00520e7e/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4"
       },
       "scanned_at": "2026-07-23T03:12:28.348346+00:00"
-    },
-    {
-      "title": "RA.1045 Christian AB",
-      "link": "https://soundcloud.com/resident-advisor/ra-1046-christian-ab",
-      "published": "Sun, 28 Jun 2026 22:00:02 +0000",
-      "published_iso": "2026-06-28T22:00:02+00:00",
-      "source": "RA Podcast",
-      "genres": [
-        "Electronic/Dance",
-        "Ambient/Experimental"
-      ],
-      "artist": "Christian AB",
-      "link_type": "music",
-      "preview": {
-        "type": "audio",
-        "url": "https://feeds.soundcloud.com/stream/2339275214-resident-advisor-ra-1046-christian-ab.mp3"
-      },
-      "scanned_at": "2026-07-23T03:12:22.948058+00:00"
     },
     {
       "title": "RA.1046 Jennifer Loveless",
