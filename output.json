@@ -1,6 +1,529 @@
 {
-  "last_run": "2026-08-01T09:51:29.883067+00:00",
+  "last_run": "2026-08-02T09:51:06.646150+00:00",
   "entries": [
+    {
+      "title": "How Can I Play This?",
+      "link": "https://www.youtube.com/watch?v=rC2R70POgpU",
+      "published": "2026-08-01T13:00:04+00:00",
+      "published_iso": "2026-08-01T13:00:04+00:00",
+      "source": "Ichika Nito",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "rC2R70POgpU"
+      },
+      "scanned_at": "2026-08-02T09:50:32.095698+00:00"
+    },
+    {
+      "title": "Bald On Bald Violence",
+      "link": "https://www.youtube.com/watch?v=KE1HLtvcor0",
+      "published": "2026-08-02T01:10:23+00:00",
+      "published_iso": "2026-08-02T01:10:23+00:00",
+      "source": "fantano",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "KE1HLtvcor0"
+      },
+      "scanned_at": "2026-08-02T09:50:22.545053+00:00"
+    },
+    {
+      "title": "Brother Ali “Forest Whitaker” Live in San Francisco",
+      "link": "https://www.youtube.com/watch?v=WLGyhTY1IKY",
+      "published": "2026-08-01T21:08:23+00:00",
+      "published_iso": "2026-08-01T21:08:23+00:00",
+      "source": "Brother Ali",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "WLGyhTY1IKY"
+      },
+      "scanned_at": "2026-08-02T09:48:50.721301+00:00"
+    },
+    {
+      "title": "Bushbaby & Danny P - Back To Funk",
+      "link": "https://www.youtube.com/watch?v=GGUe82wYEQQ",
+      "published": "2026-08-01T17:00:34+00:00",
+      "published_iso": "2026-08-01T17:00:34+00:00",
+      "source": "blanc",
+      "genres": [
+        "Electronic/Dance"
+      ],
+      "artist": "Bushbaby & Danny P",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "GGUe82wYEQQ"
+      },
+      "scanned_at": "2026-08-02T09:48:26.342380+00:00"
+    },
+    {
+      "title": "GREAT ALBUMS: July 2026",
+      "link": "https://www.youtube.com/watch?v=wSo8BJ4rnKM",
+      "published": "2026-08-02T05:38:51+00:00",
+      "published_iso": "2026-08-02T05:38:51+00:00",
+      "source": "theneedledrop",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "GREAT ALBUMS",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "wSo8BJ4rnKM"
+      },
+      "scanned_at": "2026-08-02T09:47:44.427361+00:00"
+    },
+    {
+      "title": "Loe Shimmy | A COLORS SHOW",
+      "link": "https://www.youtube.com/watch?v=w-A-ZvcQotM",
+      "published": "2026-07-30T16:32:10+00:00",
+      "published_iso": "2026-07-30T16:32:10+00:00",
+      "source": "COLORS",
+      "genres": [
+        "Various/Live Session"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "w-A-ZvcQotM"
+      },
+      "scanned_at": "2026-08-02T09:47:12.633076+00:00"
+    },
+    {
+      "title": "Live Report: Nick Cave and the Bad Seeds’ Brighton Homecoming Show",
+      "link": "https://www.clashmusic.com/live/live-report-nick-cave-and-the-bad-seeds-brighton-homecoming-show/",
+      "published": "Sat, 01 Aug 2026 17:24:21 +0000",
+      "published_iso": "2026-08-01T17:24:21+00:00",
+      "source": "Clash",
+      "genres": [
+        "Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:35.126212+00:00"
+    },
+    {
+      "title": "50 Years Ago Today: An Exhausted Elvis Presley Plays a Lackluster Matinee in Virginia",
+      "link": "https://www.rollingstone.com/music/music-features/50-years-ago-today-elvis-presley-virginia-1235600565/",
+      "published": "Sat, 01 Aug 2026 13:00:00 +0000",
+      "published_iso": "2026-08-01T13:00:00+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:30.860615+00:00"
+    },
+    {
+      "title": "Patti Smith Meets Pope Leo XIV: ‘A Moment That Shall Forever Produce a Smile’",
+      "link": "https://www.rollingstone.com/music/music-news/patti-smith-pope-leo-xiv-vatican-meeting-1235602043/",
+      "published": "Sat, 01 Aug 2026 13:32:32 +0000",
+      "published_iso": "2026-08-01T13:32:32+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:30.860557+00:00"
+    },
+    {
+      "title": "Lollapalooza 2026 Day Two: Smashing Pumpkins, Charli XCX Deliver Rock Music to Massive Crowds",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/charli-xcx-smashing-pumpkins-performance-lollapalooza-2026-1235595213/",
+      "published": "Sat, 01 Aug 2026 14:02:35 +0000",
+      "published_iso": "2026-08-01T14:02:35+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "Lollapalooza 2026 Day Two: Smashing Pumpkins, Charli XCX",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:30.860458+00:00"
+    },
+    {
+      "title": "See Kylie Minogue Join Nick Cave and the Bad Seeds for ‘Where the Wild Roses Grow’ at Brighton Show",
+      "link": "https://www.rollingstone.com/music/music-news/kylie-minogue-nick-cave-where-the-wild-roses-grow-brighton-1235602142/",
+      "published": "Sat, 01 Aug 2026 15:32:07 +0000",
+      "published_iso": "2026-08-01T15:32:07+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "See Kylie Minogue",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:30.860402+00:00"
+    },
+    {
+      "title": "See Phish Bust Out XTC’s ‘Melt the Guns’ for First Time Since 1987",
+      "link": "https://www.rollingstone.com/music/music-news/phish-bust-out-xtc-melt-the-guns-first-time-since-1987-1235602147/",
+      "published": "Sat, 01 Aug 2026 18:00:29 +0000",
+      "published_iso": "2026-08-01T18:00:29+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:30.860343+00:00"
+    },
+    {
+      "title": "Slipknot Reportedly Fire Sid Wilson",
+      "link": "https://consequence.net/2026/08/slipknot-reportedly-fire-sid-wilson/",
+      "published": "Sat, 01 Aug 2026 13:35:18 +0000",
+      "published_iso": "2026-08-01T13:35:18+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.401270+00:00"
+    },
+    {
+      "title": "William Shatner Announces Spoken Word Album Love & Other Mysteries",
+      "link": "https://consequence.net/2026/08/william-shatner-brad-paisley-love-other-mysteries/",
+      "published": "Sat, 01 Aug 2026 16:02:26 +0000",
+      "published_iso": "2026-08-01T16:02:26+00:00",
+      "source": "Consequence",
+      "genres": [
+        "Metal"
+      ],
+      "artist": "William Shatner",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.401207+00:00"
+    },
+    {
+      "title": "Charli xcx’s Lollapalooza Set Made Me Think There Might Be a God",
+      "link": "https://consequence.net/2026/08/charli-xcxs-lollapalooza-set-made-me-think-there-might-be-a-god/",
+      "published": "Sat, 01 Aug 2026 16:30:42 +0000",
+      "published_iso": "2026-08-01T16:30:42+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Charli xcx’s Lollapalooza",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.401133+00:00"
+    },
+    {
+      "title": "Lollapalooza 2026 Friday Photo Gallery: Charli xcx, Smashing Pumpkins, Yungblud, Slayyyter",
+      "link": "https://consequence.net/2026/08/lollapalooza-2026-friday-photo-gallery-charli-xcx-slayyyter/",
+      "published": "Sat, 01 Aug 2026 18:50:20 +0000",
+      "published_iso": "2026-08-01T18:50:20+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.401055+00:00"
+    },
+    {
+      "title": "John Oliver Renews HBO Deal Through Late 2027",
+      "link": "https://consequence.net/2026/08/john-oliver-last-week-tonight-2027/",
+      "published": "Sat, 01 Aug 2026 19:00:09 +0000",
+      "published_iso": "2026-08-01T19:00:09+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.400989+00:00"
+    },
+    {
+      "title": "Metric, Broken Social Scene, and Stars Bring the Right Kind of Nostalgia to Brooklyn Paramount: Review",
+      "link": "https://consequence.net/2026/08/metric-broken-social-scene-stars-brooklyn-paramount/",
+      "published": "Sat, 01 Aug 2026 19:37:45 +0000",
+      "published_iso": "2026-08-01T19:37:45+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.400926+00:00"
+    },
+    {
+      "title": "Vincent Pastore, Star of The Sopranos, Dead at 80",
+      "link": "https://consequence.net/2026/08/vincent-pastore-sopranos-dead/",
+      "published": "Sat, 01 Aug 2026 21:47:54 +0000",
+      "published_iso": "2026-08-01T21:47:54+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.400841+00:00"
+    },
+    {
+      "title": "Food stall shut down after dozens fall ill at Truck Festival 2026",
+      "link": "https://www.nme.com/news/music/food-stall-shut-down-after-dozens-fall-ill-at-truck-festival-2026-3960231?utm_source=rss&utm_medium=rss&utm_campaign=food-stall-shut-down-after-dozens-fall-ill-at-truck-festival-2026",
+      "published": "Sat, 01 Aug 2026 15:35:02 +0000",
+      "published_iso": "2026-08-01T15:35:02+00:00",
+      "source": "NME",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.117554+00:00"
+    },
+    {
+      "title": "Patti Smith meets Pope Leo XIV at the Vatican: “A spark was lit”",
+      "link": "https://www.nme.com/news/music/patti-smith-meets-pope-leo-xiv-at-the-vatican-a-spark-was-lit-3960236?utm_source=rss&utm_medium=rss&utm_campaign=patti-smith-meets-pope-leo-xiv-at-the-vatican-a-spark-was-lit",
+      "published": "Sat, 01 Aug 2026 16:02:55 +0000",
+      "published_iso": "2026-08-01T16:02:55+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.117479+00:00"
+    },
+    {
+      "title": "Boy George parts ways with “gutless” record label manager who refused to release pro-Israel song",
+      "link": "https://www.nme.com/news/music/boy-george-parts-ways-with-gutless-record-label-manager-who-refused-to-release-pro-israel-song-3960240?utm_source=rss&utm_medium=rss&utm_campaign=boy-george-parts-ways-with-gutless-record-label-manager-who-refused-to-release-pro-israel-song",
+      "published": "Sat, 01 Aug 2026 16:39:50 +0000",
+      "published_iso": "2026-08-01T16:39:50+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.117381+00:00"
+    },
+    {
+      "title": "Warren Ellis shares story of guitar gifted to him by Glen Hansard: “Everyone Glen crossed in life was richer for the experience”",
+      "link": "https://www.nme.com/news/music/warren-ellis-shares-story-of-guitar-gifted-to-him-by-glen-hansard-everyone-glen-crossed-in-life-was-richer-for-the-experience-3960244?utm_source=rss&utm_medium=rss&utm_campaign=warren-ellis-shares-story-of-guitar-gifted-to-him-by-glen-hansard-everyone-glen-crossed-in-life-was-richer-for-the-experience",
+      "published": "Sat, 01 Aug 2026 17:46:09 +0000",
+      "published_iso": "2026-08-01T17:46:09+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Warren Ellis",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.117281+00:00"
+    },
+    {
+      "title": "William Shatner leaks that he and his metal band are on the line-up for Coachella 2027",
+      "link": "https://www.nme.com/news/music/william-shatner-leaks-that-he-and-his-metal-band-are-on-the-line-up-for-coachella-2027-3960252?utm_source=rss&utm_medium=rss&utm_campaign=william-shatner-leaks-that-he-and-his-metal-band-are-on-the-line-up-for-coachella-2027",
+      "published": "Sat, 01 Aug 2026 19:47:09 +0000",
+      "published_iso": "2026-08-01T19:47:09+00:00",
+      "source": "NME",
+      "genres": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.117194+00:00"
+    },
+    {
+      "title": "Watch Knocked Loose and Denzel Curry perform ‘Hive Mind’ at Brooklyn skatepark",
+      "link": "https://www.nme.com/news/music/watch-knocked-loose-and-denzel-curry-perform-hive-mind-at-brooklyn-skatepark-3960256?utm_source=rss&utm_medium=rss&utm_campaign=watch-knocked-loose-and-denzel-curry-perform-hive-mind-at-brooklyn-skatepark",
+      "published": "Sat, 01 Aug 2026 21:32:08 +0000",
+      "published_iso": "2026-08-01T21:32:08+00:00",
+      "source": "NME",
+      "genres": [
+        "Reggae/Ska"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.117111+00:00"
+    },
+    {
+      "title": "Lollapalooza shortens Wolf Alice and Cortis sets after severe flooding causes delays",
+      "link": "https://www.nme.com/news/music/lollapalooza-shortens-wolf-alice-and-cortis-sets-after-severe-flooding-causes-delays-3960263?utm_source=rss&utm_medium=rss&utm_campaign=lollapalooza-shortens-wolf-alice-and-cortis-sets-after-severe-flooding-causes-delays",
+      "published": "Sun, 02 Aug 2026 07:54:36 +0000",
+      "published_iso": "2026-08-02T07:54:36+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Lollapalooza shortens Wolf Alice and Cortis",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.117013+00:00"
+    },
+    {
+      "title": "Watch Tori Amos cover ‘Falling Slowly’ in tribute to Glen Hansard",
+      "link": "https://www.nme.com/news/music/watch-tori-amos-cover-falling-slowly-in-tribute-to-glen-hansard-3960279?utm_source=rss&utm_medium=rss&utm_campaign=watch-tori-amos-cover-falling-slowly-in-tribute-to-glen-hansard",
+      "published": "Sun, 02 Aug 2026 08:28:11 +0000",
+      "published_iso": "2026-08-02T08:28:11+00:00",
+      "source": "NME",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Watch Tori Amos",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.116925+00:00"
+    },
+    {
+      "title": "Watch Fiddlehead and Walter Schreifels cover Sick Of It All’s ‘It’s Clobberin’ Time’ in tribute to late Lou Koller",
+      "link": "https://www.nme.com/news/music/watch-fiddlehead-and-walter-schreifels-cover-sick-of-it-alls-its-clobberin-time-in-tribute-to-late-lou-koller-3960278?utm_source=rss&utm_medium=rss&utm_campaign=watch-fiddlehead-and-walter-schreifels-cover-sick-of-it-alls-its-clobberin-time-in-tribute-to-late-lou-koller",
+      "published": "Sun, 02 Aug 2026 08:37:55 +0000",
+      "published_iso": "2026-08-02T08:37:55+00:00",
+      "source": "NME",
+      "genres": [
+        "Punk"
+      ],
+      "artist": "Watch Fiddlehead and Walter Schreifels",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.116846+00:00"
+    },
+    {
+      "title": "Roger Waters shares “reimagined” version of Pink Floyd’s ‘Comfortably Numb’ with Palestinian singer Mona Miari, hopes it will be seen as “prophetic”",
+      "link": "https://www.nme.com/news/music/roger-waters-shares-reimagined-version-of-pink-floyds-comfortably-numb-with-palestinian-singer-mona-miari-hopes-it-will-be-seen-as-prophetic-3960294?utm_source=rss&utm_medium=rss&utm_campaign=roger-waters-shares-reimagined-version-of-pink-floyds-comfortably-numb-with-palestinian-singer-mona-miari-hopes-it-will-be-seen-as-prophetic",
+      "published": "Sun, 02 Aug 2026 09:29:30 +0000",
+      "published_iso": "2026-08-02T09:29:30+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Roger Waters",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:29.116747+00:00"
+    },
+    {
+      "title": "Slipknot Reportedly Fire Sid Wilson After 28 Years",
+      "link": "https://stereogum.com/2507059/slipknot-reportedly-fire-sid-wilson-after-28-years/news/",
+      "published": "Sat, 01 Aug 2026 12:59:03 +0000",
+      "published_iso": "2026-08-01T12:59:03+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:28.726333+00:00"
+    },
+    {
+      "title": "Olivia Rodrigo Joins The Smashing Pumpkins At Lollapalooza 2026",
+      "link": "https://stereogum.com/2507062/olivia-rodrigo-joins-the-smashing-pumpkins-at-lollapalooza-2026/news/",
+      "published": "Sat, 01 Aug 2026 13:10:32 +0000",
+      "published_iso": "2026-08-01T13:10:32+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Olivia Rodrigo",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:28.726262+00:00"
+    },
+    {
+      "title": "Phish Set 2,051-Show Bustout Record With XTC Cover",
+      "link": "https://stereogum.com/2507066/phish-set-2051-show-bustout-record-with-xtc-cover/news/",
+      "published": "Sat, 01 Aug 2026 13:44:48 +0000",
+      "published_iso": "2026-08-01T13:44:48+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Phish",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:28.726170+00:00"
+    },
+    {
+      "title": "Charli XCX Attempts American Accent Again In New I Want Your Sex Clip",
+      "link": "https://stereogum.com/2507070/charli-xcx-attempts-american-accent-again-in-new-i-want-your-sex-clip/news/",
+      "published": "Sat, 01 Aug 2026 14:38:27 +0000",
+      "published_iso": "2026-08-01T14:38:27+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:28.726107+00:00"
+    },
+    {
+      "title": "Fiddlehead & Walter Schreifels Cover Sick Of It All In Tribute To Lou Koller",
+      "link": "https://stereogum.com/2507075/fiddlehead-walter-schreifels-cover-sick-of-it-all-in-tribute-to-lou-koller/news/",
+      "published": "Sat, 01 Aug 2026 14:52:27 +0000",
+      "published_iso": "2026-08-01T14:52:27+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Punk"
+      ],
+      "artist": "Fiddlehead & Walter Schreifels",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:28.726005+00:00"
+    },
+    {
+      "title": "Tori Amos Covers The Swell Season In Tribute To Glen Hansard",
+      "link": "https://stereogum.com/2507084/tori-amos-covers-the-swell-season-in-tribute-to-glen-hansard/news/",
+      "published": "Sat, 01 Aug 2026 18:32:47 +0000",
+      "published_iso": "2026-08-01T18:32:47+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Emo",
+        "Folk/Americana"
+      ],
+      "artist": "Tori Amos",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:28.725906+00:00"
+    },
+    {
+      "title": "New Radicals Quietly Release First New Song In 28 Years",
+      "link": "https://stereogum.com/2507092/new-radicals-quietly-release-first-new-song-in-28-years/music/",
+      "published": "Sat, 01 Aug 2026 20:11:18 +0000",
+      "published_iso": "2026-08-01T20:11:18+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "New Radicals Quietly",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-02T09:46:28.725813+00:00"
+    },
     {
       "title": "DOMi & JD BECK - WHO ASKED? Medley (live extracts)",
       "link": "https://www.youtube.com/watch?v=jrm127z58tI",
@@ -12277,23 +12800,6 @@
       "scanned_at": "2026-07-23T03:17:00.272495+00:00"
     },
     {
-      "title": "One Summer's Day",
-      "link": "https://www.youtube.com/watch?v=5Yzl8rfnkDk",
-      "published": "2026-07-02T13:00:15+00:00",
-      "published_iso": "2026-07-02T13:00:15+00:00",
-      "source": "Ichika Nito",
-      "genres": [
-        "General"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "5Yzl8rfnkDk"
-      },
-      "scanned_at": "2026-07-23T03:16:54.169897+00:00"
-    },
-    {
       "title": "Touring Europe With My Guitar",
       "link": "https://www.youtube.com/watch?v=RzogVDCVbrI",
       "published": "2026-07-05T14:00:29+00:00",
@@ -13743,23 +14249,6 @@
       "scanned_at": "2026-07-23T03:14:01.215384+00:00"
     },
     {
-      "title": "NINA x Radio Wolf - Galaxy Eyes (Official Visualizer)",
-      "link": "https://www.youtube.com/watch?v=6pRUI39ykpc",
-      "published": "2026-07-02T19:00:17+00:00",
-      "published_iso": "2026-07-02T19:00:17+00:00",
-      "source": "NewRetroWave",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "NINA x Radio Wolf",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "6pRUI39ykpc"
-      },
-      "scanned_at": "2026-07-23T03:13:32.391864+00:00"
-    },
-    {
       "title": "DEADLIFE - Domesday Engine",
       "link": "https://www.youtube.com/watch?v=RPiCFDKZu8c",
       "published": "2026-07-03T19:00:22+00:00",
@@ -14237,23 +14726,6 @@
         "video_id": "kggmC622Ebo"
       },
       "scanned_at": "2026-07-23T03:13:25.821846+00:00"
-    },
-    {
-      "title": "Deep Progressive & Uplifting Trance Mix in New York | Jojo Lorenzo",
-      "link": "https://www.youtube.com/watch?v=UsDGuSrSHBI",
-      "published": "2026-07-02T14:31:42+00:00",
-      "published_iso": "2026-07-02T14:31:42+00:00",
-      "source": "Book Club Radio",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "UsDGuSrSHBI"
-      },
-      "scanned_at": "2026-07-23T03:13:23.974303+00:00"
     },
     {
       "title": "Classic Diva House Mix in New York City | Ru",
@@ -15092,21 +15564,6 @@
         "url": "https://feeds.soundcloud.com/stream/2362858664-resident-advisor-ra-1048-traumer.mp3"
       },
       "scanned_at": "2026-07-23T03:12:22.947636+00:00"
-    },
-    {
-      "title": "Mountain Dew Baja Blast & UPROXX Brought Latin Trap Superstar Dei V To Chicago For The Ultimate Beach Getaway",
-      "link": "https://uproxx.com/life/mountain-dew-baja-blast-dei-v-chicago/",
-      "published": "Thu, 02 Jul 2026 21:34:40 +0000",
-      "published_iso": "2026-07-02T21:34:40+00:00",
-      "source": "Uproxx Music",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Latin"
-      ],
-      "artist": "Unknown",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:34.998945+00:00"
     },
     {
       "title": "Dei V On Baja Blast, Beach Life, And The Influences That Made Him",
