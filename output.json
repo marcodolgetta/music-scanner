@@ -1,6 +1,444 @@
 {
-  "last_run": "2026-08-08T08:27:54.530641+00:00",
+  "last_run": "2026-08-09T08:30:14.424062+00:00",
   "entries": [
+    {
+      "title": "Which Guitar Do You Like Best?",
+      "link": "https://www.youtube.com/watch?v=hA8yMNni4Z4",
+      "published": "2026-08-08T13:00:22+00:00",
+      "published_iso": "2026-08-08T13:00:22+00:00",
+      "source": "Ichika Nito",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "hA8yMNni4Z4"
+      },
+      "scanned_at": "2026-08-09T08:29:56.912932+00:00"
+    },
+    {
+      "title": "GO AND GET IT",
+      "link": "https://www.youtube.com/watch?v=mj9Hr3drl2s",
+      "published": "2026-08-08T22:30:06+00:00",
+      "published_iso": "2026-08-08T22:30:06+00:00",
+      "source": "RyanCelsiusSounds",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "mj9Hr3drl2s"
+      },
+      "scanned_at": "2026-08-09T08:28:02.682310+00:00"
+    },
+    {
+      "title": "•  24/7 Chill  / Lofi BLAZEBUS Classic | Real Japan Bus Ride POV •",
+      "link": "https://www.youtube.com/watch?v=gPnD8FWuAE8",
+      "published": "2026-08-08T22:50:15+00:00",
+      "published_iso": "2026-08-08T22:50:15+00:00",
+      "source": "RyanCelsiusSounds",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "gPnD8FWuAE8"
+      },
+      "scanned_at": "2026-08-09T08:28:02.569824+00:00"
+    },
+    {
+      "title": "Slow Jams, Steppers and Rare Grooves with GUEST / CUTS",
+      "link": "https://www.youtube.com/watch?v=JqJF4H1uS5Q",
+      "published": "2026-08-09T08:06:01+00:00",
+      "published_iso": "2026-08-09T08:06:01+00:00",
+      "source": "MAJ",
+      "genres": [
+        "Electronic/Dance"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "JqJF4H1uS5Q"
+      },
+      "scanned_at": "2026-08-09T08:28:02.062540+00:00"
+    },
+    {
+      "title": "YOU’LL NEVER GUESS WHAT PARKS HAS HIDING IN HIS BASEMENT…",
+      "link": "https://www.youtube.com/watch?v=s5yc4uC7v7U",
+      "published": "2026-08-08T16:24:41+00:00",
+      "published_iso": "2026-08-08T16:24:41+00:00",
+      "source": "All Them Witches",
+      "genres": [
+        "Folk Rock"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "s5yc4uC7v7U"
+      },
+      "scanned_at": "2026-08-09T08:27:49.229420+00:00"
+    },
+    {
+      "title": "Morrissey Cancels Las Vegas Residency Due to ‘Unforeseen Logistical Challenges’",
+      "link": "https://www.rollingstone.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-challenges-1235605869/",
+      "published": "Sat, 08 Aug 2026 13:08:30 +0000",
+      "published_iso": "2026-08-08T13:08:30+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:43.127039+00:00"
+    },
+    {
+      "title": "Watch 22 Different Versions of ‘Panama’ by Van Halen and Their Many Lead Singers",
+      "link": "https://www.rollingstone.com/music/music-lists/van-halen-panama-david-lee-roth-sammy-hagar-1235603269/",
+      "published": "Sat, 08 Aug 2026 14:00:00 +0000",
+      "published_iso": "2026-08-08T14:00:00+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:43.126988+00:00"
+    },
+    {
+      "title": "Taylor Swift Removes ‘August’ From Team Trump TikTok Video",
+      "link": "https://www.rollingstone.com/music/music-news/taylor-swift-removes-august-team-trump-tiktok-video-1235605878/",
+      "published": "Sat, 08 Aug 2026 15:00:14 +0000",
+      "published_iso": "2026-08-08T15:00:14+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Emo",
+        "Folk/Americana"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:43.126936+00:00"
+    },
+    {
+      "title": "Madonna Pays Tribute to Producer William Orbit: ‘You Were My Ray of Light’",
+      "link": "https://www.rollingstone.com/music/music-news/madonna-tribute-ray-of-light-producer-william-orbit-1235605882/",
+      "published": "Sat, 08 Aug 2026 16:17:33 +0000",
+      "published_iso": "2026-08-08T16:17:33+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:43.126887+00:00"
+    },
+    {
+      "title": "13 Essential Hip-Hop Songs For 808 Day",
+      "link": "https://www.rollingstone.com/music/music-lists/essential-hip-hop-songs-for-808-day-1235605500/",
+      "published": "Sat, 08 Aug 2026 17:02:38 +0000",
+      "published_iso": "2026-08-08T17:02:38+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "13 Essential Hip",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:43.126827+00:00"
+    },
+    {
+      "title": "Fuerza Regida Ends Historic Stadium Tour With Star-Studded NYC Closer",
+      "link": "https://www.rollingstone.com/music/music-latin/fuerza-regida-final-show-this-is-our-dream-tour-1235605952/",
+      "published": "Sun, 09 Aug 2026 00:51:22 +0000",
+      "published_iso": "2026-08-09T00:51:22+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Fuerza Regida Ends Historic Stadium Tour With Star",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:43.126781+00:00"
+    },
+    {
+      "title": "Madonna Remembers Producer William Orbit as “Singular” in Heartfelt Tribute",
+      "link": "https://consequence.net/2026/08/madonna-remembers-producer-william-orbit/",
+      "published": "Sat, 08 Aug 2026 14:29:13 +0000",
+      "published_iso": "2026-08-08T14:29:13+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.417297+00:00"
+    },
+    {
+      "title": "Bart Simpson Actress Believes The Simpsons Will End Soon",
+      "link": "https://consequence.net/2026/08/nancy-cartwright-on-the-simpsons-end/",
+      "published": "Sat, 08 Aug 2026 15:05:00 +0000",
+      "published_iso": "2026-08-08T15:05:00+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.417226+00:00"
+    },
+    {
+      "title": "Billy Strings Wears a Helmet at Concert After Getting Hit With a Thrown Object",
+      "link": "https://consequence.net/2026/08/billy-strings-wears-helmet/",
+      "published": "Sat, 08 Aug 2026 16:50:40 +0000",
+      "published_iso": "2026-08-08T16:50:40+00:00",
+      "source": "Consequence",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.417160+00:00"
+    },
+    {
+      "title": "My Chemical Romance’s 2026 “The Black Parade Tour”: How to Get Last-Minute Tickets",
+      "link": "https://consequence.net/2026/08/my-chemical-romances-the-black-parade-last-minute-tickets-deals/",
+      "published": "Sun, 09 Aug 2026 00:46:48 +0000",
+      "published_iso": "2026-08-09T00:46:48+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.417079+00:00"
+    },
+    {
+      "title": "Taylor Swift’s ‘August’ removed from Donald Trump TikTok post that joked she would be “super excited” about its use",
+      "link": "https://www.nme.com/news/music/taylor-swifts-august-removed-from-donald-trump-tiktok-post-that-joked-she-would-be-super-excited-about-its-use-3961488?utm_source=rss&utm_medium=rss&utm_campaign=taylor-swifts-august-removed-from-donald-trump-tiktok-post-that-joked-she-would-be-super-excited-about-its-use",
+      "published": "Sat, 08 Aug 2026 10:25:54 +0000",
+      "published_iso": "2026-08-08T10:25:54+00:00",
+      "source": "NME",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.087147+00:00"
+    },
+    {
+      "title": "Phoebe Bridgers to make acting debut in A24 drama ‘Primetime’",
+      "link": "https://www.nme.com/news/tv/phoebe-bridgers-to-make-acting-debut-in-a24-drama-primetime-3961482?utm_source=rss&utm_medium=rss&utm_campaign=phoebe-bridgers-to-make-acting-debut-in-a24-drama-primetime",
+      "published": "Sat, 08 Aug 2026 10:27:21 +0000",
+      "published_iso": "2026-08-08T10:27:21+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Phoebe Bridgers to make acting",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.087053+00:00"
+    },
+    {
+      "title": "Madonna pays emotional tribute to William Orbit: “Your music gave me a magic carpet to fly on”",
+      "link": "https://www.nme.com/news/music/madonna-pays-emotional-tribute-to-william-orbit-your-music-gave-me-a-magic-carpet-to-fly-on-3961511?utm_source=rss&utm_medium=rss&utm_campaign=madonna-pays-emotional-tribute-to-william-orbit-your-music-gave-me-a-magic-carpet-to-fly-on",
+      "published": "Sat, 08 Aug 2026 15:48:23 +0000",
+      "published_iso": "2026-08-08T15:48:23+00:00",
+      "source": "NME",
+      "genres": [
+        "Emo"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.086980+00:00"
+    },
+    {
+      "title": "Henry Rollins announces coming-of-age memoir, ‘Bait Dog Boy’",
+      "link": "https://www.nme.com/news/music/henry-rollins-announces-coming-of-age-memoir-bait-dog-boy-3961516?utm_source=rss&utm_medium=rss&utm_campaign=henry-rollins-announces-coming-of-age-memoir-bait-dog-boy",
+      "published": "Sat, 08 Aug 2026 16:31:56 +0000",
+      "published_iso": "2026-08-08T16:31:56+00:00",
+      "source": "NME",
+      "genres": [
+        "Punk",
+        "Emo",
+        "Rock"
+      ],
+      "artist": "Henry Rollins",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.086893+00:00"
+    },
+    {
+      "title": "Riot Fest 2026 reveal stage times – with Morrissey opening for Tool",
+      "link": "https://www.nme.com/news/music/riot-fest-2026-reveal-stage-times-with-morrissey-opening-for-tool-3961520?utm_source=rss&utm_medium=rss&utm_campaign=riot-fest-2026-reveal-stage-times-with-morrissey-opening-for-tool",
+      "published": "Sat, 08 Aug 2026 17:19:59 +0000",
+      "published_iso": "2026-08-08T17:19:59+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Riot Fest 2026",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.086826+00:00"
+    },
+    {
+      "title": "The Guest List tear apart “the monotony of the every day” on anthemic new single ‘Mundane’",
+      "link": "https://www.nme.com/news/music/the-guest-list-tear-apart-the-monotony-of-the-every-day-on-anthemic-new-single-mundane-3961528?utm_source=rss&utm_medium=rss&utm_campaign=the-guest-list-tear-apart-the-monotony-of-the-every-day-on-anthemic-new-single-mundane",
+      "published": "Sat, 08 Aug 2026 18:59:08 +0000",
+      "published_iso": "2026-08-08T18:59:08+00:00",
+      "source": "NME",
+      "genres": [
+        "Alternative/Indie"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.086750+00:00"
+    },
+    {
+      "title": "Joe Jonas says he sought therapy for his low album sales",
+      "link": "https://www.nme.com/news/music/joe-jonas-says-he-sought-therapy-for-his-low-album-sales-3961532?utm_source=rss&utm_medium=rss&utm_campaign=joe-jonas-says-he-sought-therapy-for-his-low-album-sales",
+      "published": "Sat, 08 Aug 2026 19:59:05 +0000",
+      "published_iso": "2026-08-08T19:59:05+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.086646+00:00"
+    },
+    {
+      "title": "Daft Punk’s Thomas Bangalter says writing the score for ‘Tron: Legacy’ was “depressing” and “limiting”",
+      "link": "https://www.nme.com/news/music/daft-punks-thomas-bangalter-says-writing-the-score-for-tron-legacy-was-depressing-and-limiting-3961536?utm_source=rss&utm_medium=rss&utm_campaign=daft-punks-thomas-bangalter-says-writing-the-score-for-tron-legacy-was-depressing-and-limiting",
+      "published": "Sat, 08 Aug 2026 21:28:20 +0000",
+      "published_iso": "2026-08-08T21:28:20+00:00",
+      "source": "NME",
+      "genres": [
+        "Punk"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.086572+00:00"
+    },
+    {
+      "title": "Watch Charli XCX join The Strokes for ‘Take It Or Leave It’ at Outside Lands 2026",
+      "link": "https://www.nme.com/news/music/watch-charli-xcx-join-the-strokes-for-take-it-or-leave-it-at-outside-lands-2026-3961552?utm_source=rss&utm_medium=rss&utm_campaign=watch-charli-xcx-join-the-strokes-for-take-it-or-leave-it-at-outside-lands-2026",
+      "published": "Sun, 09 Aug 2026 07:47:02 +0000",
+      "published_iso": "2026-08-09T07:47:02+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Watch Charli XCX",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.086473+00:00"
+    },
+    {
+      "title": "Billy Strings performs in protective headgear after being hit by object on stage",
+      "link": "https://www.nme.com/news/music/billy-strings-performs-in-protective-headgear-after-being-hit-by-object-on-stage-3961550?utm_source=rss&utm_medium=rss&utm_campaign=billy-strings-performs-in-protective-headgear-after-being-hit-by-object-on-stage",
+      "published": "Sun, 09 Aug 2026 08:19:10 +0000",
+      "published_iso": "2026-08-09T08:19:10+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:41.086385+00:00"
+    },
+    {
+      "title": "Foreseen Circumstances: Morrissey Cancels Next Week’s Vegas Residency",
+      "link": "https://stereogum.com/2507691/foreseen-circumstances-morrissey-cancels-next-weeks-vegas-residency/news/",
+      "published": "Sat, 08 Aug 2026 13:18:36 +0000",
+      "published_iso": "2026-08-08T13:18:36+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:40.368069+00:00"
+    },
+    {
+      "title": "Another KATSEYE Member Is Taking A Hiatus",
+      "link": "https://stereogum.com/2507696/another-katseye-member-is-taking-a-hiatus/news/",
+      "published": "Sat, 08 Aug 2026 13:48:12 +0000",
+      "published_iso": "2026-08-08T13:48:12+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:40.367992+00:00"
+    },
+    {
+      "title": "Madonna Pays Tribute To Late Producer William Orbit",
+      "link": "https://stereogum.com/2507702/madonna-pays-tribute-to-late-producer-william-orbit/news/",
+      "published": "Sat, 08 Aug 2026 14:49:15 +0000",
+      "published_iso": "2026-08-08T14:49:15+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:40.367921+00:00"
+    },
+    {
+      "title": "Billy Strings Wears Protective Headgear After Getting Hit By Object The Previous Night",
+      "link": "https://stereogum.com/2507707/billy-strings-wears-protective-headgear-after-getting-hit-by-object-the-previous-night/news/",
+      "published": "Sat, 08 Aug 2026 15:20:11 +0000",
+      "published_iso": "2026-08-08T15:20:11+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:40.367853+00:00"
+    },
+    {
+      "title": "Martha Reeves Blames Backup Singers For Botched National Anthem, Attempts Solo Version On Detroit TV News",
+      "link": "https://stereogum.com/2507717/martha-reeves-blames-backup-singers-for-botched-national-anthem-attempts-solo-version-on-detroit-tv-news/news/",
+      "published": "Sat, 08 Aug 2026 17:10:55 +0000",
+      "published_iso": "2026-08-08T17:10:55+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-09T08:26:40.367732+00:00"
+    },
     {
       "title": "I Put a Drum Machine Inside a YouTube Video",
       "link": "https://www.youtube.com/watch?v=ckB5L5npN-Y",
@@ -1813,23 +2251,6 @@
       "scanned_at": "2026-08-07T08:46:26.899880+00:00"
     },
     {
-      "title": "MPC 2000xl beat will Hurt your Neck 🤩🔥",
-      "link": "https://www.youtube.com/shorts/oAZYAULNyBg",
-      "published": "2026-07-09T21:00:26+00:00",
-      "published_iso": "2026-07-09T21:00:26+00:00",
-      "source": "Cookin Soul",
-      "genres": [
-        "General"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "oAZYAULNyBg"
-      },
-      "scanned_at": "2026-08-07T08:46:23.060092+00:00"
-    },
-    {
       "title": "MPC 2000xl beat will damage your spine 🔥",
       "link": "https://www.youtube.com/shorts/8jgAp_DPp-Y",
       "published": "2026-07-14T21:23:53+00:00",
@@ -2304,23 +2725,6 @@
         "video_id": "D53PQUJnDY4"
       },
       "scanned_at": "2026-08-07T08:46:06.680361+00:00"
-    },
-    {
-      "title": "EWF Dual Screen Deluxe #earthwindandfire",
-      "link": "https://www.youtube.com/shorts/rQ_2S25HDhM",
-      "published": "2026-07-09T16:08:16+00:00",
-      "published_iso": "2026-07-09T16:08:16+00:00",
-      "source": "Digging The Greats",
-      "genres": [
-        "General"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "rQ_2S25HDhM"
-      },
-      "scanned_at": "2026-08-07T08:46:03.700869+00:00"
     },
     {
       "title": "Camp Digs 80s Week!",
@@ -21521,23 +21925,6 @@
       "scanned_at": "2026-07-23T03:17:00.272495+00:00"
     },
     {
-      "title": "Princess Mononoke",
-      "link": "https://www.youtube.com/watch?v=-VKjjlNA8Bo",
-      "published": "2026-07-09T13:00:25+00:00",
-      "published_iso": "2026-07-09T13:00:25+00:00",
-      "source": "Ichika Nito",
-      "genres": [
-        "General"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "-VKjjlNA8Bo"
-      },
-      "scanned_at": "2026-07-23T03:16:52.867041+00:00"
-    },
-    {
       "title": "I play an arpeggio for when you feel alone",
       "link": "https://www.youtube.com/watch?v=ZSke0-OlffU",
       "published": "2026-07-18T13:00:14+00:00",
@@ -22184,23 +22571,6 @@
       "scanned_at": "2026-07-23T03:15:32.162967+00:00"
     },
     {
-      "title": "Of Course the World Cup is Political...",
-      "link": "https://www.youtube.com/watch?v=t1osCNMIh6k",
-      "published": "2026-07-09T16:55:31+00:00",
-      "published_iso": "2026-07-09T16:55:31+00:00",
-      "source": "Signified B Sides",
-      "genres": [
-        "General"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "t1osCNMIh6k"
-      },
-      "scanned_at": "2026-07-23T03:15:27.673766+00:00"
-    },
-    {
       "title": "The Album That Made Prince PRINCE",
       "link": "https://www.youtube.com/watch?v=0lp7uRbEDdI",
       "published": "2026-07-15T16:00:03+00:00",
@@ -22270,125 +22640,6 @@
       "scanned_at": "2026-07-23T03:14:45.390059+00:00"
     },
     {
-      "title": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats - PATCHWORK (Live from Wonderland Park)",
-      "link": "https://www.youtube.com/watch?v=ioZgJvgKjDU",
-      "published": "2026-07-10T04:00:04+00:00",
-      "published_iso": "2026-07-10T04:00:04+00:00",
-      "source": "Kenny Beats",
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "artist": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "ioZgJvgKjDU"
-      },
-      "scanned_at": "2026-07-23T03:14:38.302611+00:00"
-    },
-    {
-      "title": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats - SIDEWAYS (Live from Wonderland Park)",
-      "link": "https://www.youtube.com/watch?v=d0K7qZIORH0",
-      "published": "2026-07-10T04:00:04+00:00",
-      "published_iso": "2026-07-10T04:00:04+00:00",
-      "source": "Kenny Beats",
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "artist": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "d0K7qZIORH0"
-      },
-      "scanned_at": "2026-07-23T03:14:38.133280+00:00"
-    },
-    {
-      "title": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats - PEARL (Live from Wonderland Park)",
-      "link": "https://www.youtube.com/watch?v=d0-aDTxEQ5A",
-      "published": "2026-07-10T04:00:07+00:00",
-      "published_iso": "2026-07-10T04:00:07+00:00",
-      "source": "Kenny Beats",
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "artist": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "d0-aDTxEQ5A"
-      },
-      "scanned_at": "2026-07-23T03:14:37.976262+00:00"
-    },
-    {
-      "title": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats - EYE LEVEL (Live from Wonderland Park)",
-      "link": "https://www.youtube.com/watch?v=llFcwu-C1xc",
-      "published": "2026-07-10T04:00:11+00:00",
-      "published_iso": "2026-07-10T04:00:11+00:00",
-      "source": "Kenny Beats",
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "artist": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "llFcwu-C1xc"
-      },
-      "scanned_at": "2026-07-23T03:14:37.834674+00:00"
-    },
-    {
-      "title": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats - STUB (Live from Wonderland Park)",
-      "link": "https://www.youtube.com/watch?v=Ba3k0UlVWCM",
-      "published": "2026-07-10T04:00:24+00:00",
-      "published_iso": "2026-07-10T04:00:24+00:00",
-      "source": "Kenny Beats",
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "artist": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "Ba3k0UlVWCM"
-      },
-      "scanned_at": "2026-07-23T03:14:37.688378+00:00"
-    },
-    {
-      "title": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats - THE LEAK (Live from Wonderland Park)",
-      "link": "https://www.youtube.com/watch?v=Ngi-i1ZZ8mU",
-      "published": "2026-07-10T04:00:29+00:00",
-      "published_iso": "2026-07-10T04:00:29+00:00",
-      "source": "Kenny Beats",
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "artist": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "Ngi-i1ZZ8mU"
-      },
-      "scanned_at": "2026-07-23T03:14:37.531160+00:00"
-    },
-    {
-      "title": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats - TOMORROW, AGAIN (Live from Wonderland Park)",
-      "link": "https://www.youtube.com/watch?v=gfi0ZFw8kvM",
-      "published": "2026-07-10T04:00:31+00:00",
-      "published_iso": "2026-07-10T04:00:31+00:00",
-      "source": "Kenny Beats",
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "artist": "Nate Smith, Kiefer, CARRTOONS, Kenny Beats",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "gfi0ZFw8kvM"
-      },
-      "scanned_at": "2026-07-23T03:14:37.382040+00:00"
-    },
-    {
       "title": "W O L F C L U B - City of Once (Audio)",
       "link": "https://www.youtube.com/watch?v=0M4edLmdJ5o",
       "published": "2026-07-17T04:00:06+00:00",
@@ -22404,23 +22655,6 @@
         "video_id": "0M4edLmdJ5o"
       },
       "scanned_at": "2026-07-23T03:14:36.650028+00:00"
-    },
-    {
-      "title": "Caleb Laurenson & Danny P - Set You Free",
-      "link": "https://www.youtube.com/watch?v=oz5UkVx91EY",
-      "published": "2026-07-09T17:00:16+00:00",
-      "published_iso": "2026-07-09T17:00:16+00:00",
-      "source": "blanc",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "Caleb Laurenson & Danny P -",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "oz5UkVx91EY"
-      },
-      "scanned_at": "2026-07-23T03:14:16.605956+00:00"
     },
     {
       "title": "Luke Dean, Locky & JME - Check One, Check Two",
@@ -22625,23 +22859,6 @@
         "video_id": "IfSVhOa5SE0"
       },
       "scanned_at": "2026-07-23T03:14:09.320334+00:00"
-    },
-    {
-      "title": "NINA x Radio Wolf - Don't Trust The Night (Official Visualizer)",
-      "link": "https://www.youtube.com/watch?v=lFGhc_cWEIk",
-      "published": "2026-07-09T19:00:06+00:00",
-      "published_iso": "2026-07-09T19:00:06+00:00",
-      "source": "NewRetroWave",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "NINA x Radio Wolf",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "lFGhc_cWEIk"
-      },
-      "scanned_at": "2026-07-23T03:13:31.755704+00:00"
     },
     {
       "title": "Michael Oakley - Falling Skyward (Official Video)",
@@ -23055,23 +23272,6 @@
       "scanned_at": "2026-07-23T03:13:25.821846+00:00"
     },
     {
-      "title": "Classic Diva House Mix in New York City | Ru",
-      "link": "https://www.youtube.com/watch?v=0zWmaH9Uhec",
-      "published": "2026-07-09T13:50:59+00:00",
-      "published_iso": "2026-07-09T13:50:59+00:00",
-      "source": "Book Club Radio",
-      "genres": [
-        "DJ Setlist"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "0zWmaH9Uhec"
-      },
-      "scanned_at": "2026-07-23T03:13:23.826844+00:00"
-    },
-    {
       "title": "Classic & Groovy 90s House Mix in Brooklyn | Tinzo",
       "link": "https://www.youtube.com/watch?v=yTpwP_jiOMo",
       "published": "2026-07-16T15:05:22+00:00",
@@ -23129,108 +23329,6 @@
         "video_id": "XvUfvpDCoDg"
       },
       "scanned_at": "2026-07-23T03:13:20.124523+00:00"
-    },
-    {
-      "title": "General C'mamane | Boiler Room: Durban",
-      "link": "https://www.youtube.com/watch?v=gOCuZufPD1A",
-      "published": "2026-07-09T13:00:06+00:00",
-      "published_iso": "2026-07-09T13:00:06+00:00",
-      "source": "Boiler Room",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "gOCuZufPD1A"
-      },
-      "scanned_at": "2026-07-23T03:13:07.874048+00:00"
-    },
-    {
-      "title": "Phelimuncasi | Boiler Room: Durban",
-      "link": "https://www.youtube.com/watch?v=7jh5ze408ZM",
-      "published": "2026-07-09T13:59:06+00:00",
-      "published_iso": "2026-07-09T13:59:06+00:00",
-      "source": "Boiler Room",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "7jh5ze408ZM"
-      },
-      "scanned_at": "2026-07-23T03:13:07.712645+00:00"
-    },
-    {
-      "title": "DJKnator B2B K.C Driller | Boiler Room: Durban",
-      "link": "https://www.youtube.com/watch?v=b_tWKZp5XuE",
-      "published": "2026-07-09T14:47:06+00:00",
-      "published_iso": "2026-07-09T14:47:06+00:00",
-      "source": "Boiler Room",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "b_tWKZp5XuE"
-      },
-      "scanned_at": "2026-07-23T03:13:07.504278+00:00"
-    },
-    {
-      "title": "Goldmax | Boiler Room: Durban",
-      "link": "https://www.youtube.com/watch?v=-XX1977QSok",
-      "published": "2026-07-09T15:53:06+00:00",
-      "published_iso": "2026-07-09T15:53:06+00:00",
-      "source": "Boiler Room",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "-XX1977QSok"
-      },
-      "scanned_at": "2026-07-23T03:13:07.351912+00:00"
-    },
-    {
-      "title": "Akiid | Boiler Room: Durban",
-      "link": "https://www.youtube.com/watch?v=cHpWtw66gJs",
-      "published": "2026-07-09T16:49:06+00:00",
-      "published_iso": "2026-07-09T16:49:06+00:00",
-      "source": "Boiler Room",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "cHpWtw66gJs"
-      },
-      "scanned_at": "2026-07-23T03:13:07.192912+00:00"
-    },
-    {
-      "title": "Audiomarc B2B TrevorMusiq | Boiler Room: Durban",
-      "link": "https://www.youtube.com/watch?v=CdZlg2LED00",
-      "published": "2026-07-09T17:49:06+00:00",
-      "published_iso": "2026-07-09T17:49:06+00:00",
-      "source": "Boiler Room",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "CdZlg2LED00"
-      },
-      "scanned_at": "2026-07-23T03:13:07.050157+00:00"
     },
     {
       "title": "Morena Leraba | Boiler Room Soweto: Soweto Punk",
@@ -23554,26 +23652,6 @@
         "video_id": "u4lhwuSHaeg"
       },
       "scanned_at": "2026-07-23T03:12:50.372194+00:00"
-    },
-    {
-      "title": "redveil: Tiny Desk Concert",
-      "link": "https://www.youtube.com/watch?v=Oa_Wpi-KWrg",
-      "published": "2026-07-09T09:00:10+00:00",
-      "published_iso": "2026-07-09T09:00:10+00:00",
-      "source": "NPR Music (Tiny Desk)",
-      "genres": [
-        "Hip-Hop/Rap",
-        "R&B/Soul",
-        "Emo",
-        "Jazz"
-      ],
-      "artist": "redveil",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "Oa_Wpi-KWrg"
-      },
-      "scanned_at": "2026-07-23T03:12:47.774094+00:00"
     },
     {
       "title": "Flea and the Honora Band: Tiny Desk Concert",
@@ -24079,174 +24157,6 @@
       "link_type": "article",
       "preview": null,
       "scanned_at": "2026-07-23T03:11:15.071856+00:00"
-    },
-    {
-      "title": "Bristol duo Getdown Services serve up newest single ‘Cha Cha Slide’",
-      "link": "https://diymag.com/news/getdown-services-new-single-cha-cha-slide",
-      "published": "Thu, 09 Jul 2026 10:21:00 +0100",
-      "published_iso": "2026-07-09T09:21:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Unknown",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811842+00:00"
-    },
-    {
-      "title": "Lucy Dacus offers up self-directed video for ‘Planting Tomatoes’",
-      "link": "https://diymag.com/news/lucy-dacus-self-directed-video-planting-tomatoes",
-      "published": "Thu, 09 Jul 2026 10:40:00 +0100",
-      "published_iso": "2026-07-09T09:40:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Lucy Dacus offers up self",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811788+00:00"
-    },
-    {
-      "title": "Orla Gartland teams up with Matt Maltese for new Trying soundtrack cut",
-      "link": "https://diymag.com/news/orla-gartland-matt-maltese-new-trying-soundtrack-track",
-      "published": "Thu, 09 Jul 2026 11:13:00 +0100",
-      "published_iso": "2026-07-09T10:13:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Orla Gartland",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811736+00:00"
-    },
-    {
-      "title": "The Magic Gang’s Jack Kaye announces debut EP ‘Go Easy’",
-      "link": "https://diymag.com/news/the-magic-gang-jack-kaye-debut-ep-go-easy",
-      "published": "Thu, 09 Jul 2026 11:28:00 +0100",
-      "published_iso": "2026-07-09T10:28:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "The Magic Gang’s Jack Kaye",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811690+00:00"
-    },
-    {
-      "title": "Wolf Alice’s epic Finsbury Park headline show is the celebration &amp; victory lap the quartet deserve",
-      "link": "https://diymag.com/review/live/wolf-alice-finsbury-park-london",
-      "published": "Thu, 09 Jul 2026 12:00:00 +0100",
-      "published_iso": "2026-07-09T11:00:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Unknown",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811645+00:00"
-    },
-    {
-      "title": "Suki Waterhouse — Loveland",
-      "link": "https://diymag.com/review/album/suki-waterhouse-loveland",
-      "published": "Fri, 10 Jul 2026 07:50:00 +0100",
-      "published_iso": "2026-07-10T06:50:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Suki Waterhouse",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811580+00:00"
-    },
-    {
-      "title": "The Xcerts — i think i want to go home now.",
-      "link": "https://diymag.com/review/album/the-xcerts-i-think-i-want-to-go-home-now",
-      "published": "Fri, 10 Jul 2026 07:55:00 +0100",
-      "published_iso": "2026-07-10T06:55:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "The Xcerts",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811538+00:00"
-    },
-    {
-      "title": "Show Me The Body — Alone Together",
-      "link": "https://diymag.com/review/album/show-me-the-body-alone-together",
-      "published": "Fri, 10 Jul 2026 07:57:00 +0100",
-      "published_iso": "2026-07-10T06:57:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Show Me The Body",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811489+00:00"
-    },
-    {
-      "title": "Ebbb — Shallow Hits",
-      "link": "https://diymag.com/review/album/ebbb-shallow-hits",
-      "published": "Fri, 10 Jul 2026 08:00:00 +0100",
-      "published_iso": "2026-07-10T07:00:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Ebbb",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811439+00:00"
-    },
-    {
-      "title": "Jack White — Frozen Charlotte",
-      "link": "https://diymag.com/review/album/jack-white-frozen-charlotte",
-      "published": "Fri, 10 Jul 2026 08:05:00 +0100",
-      "published_iso": "2026-07-10T07:05:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Jack White",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811399+00:00"
-    },
-    {
-      "title": "Kelela — new avatar",
-      "link": "https://diymag.com/review/album/kelela-new-avatar",
-      "published": "Fri, 10 Jul 2026 08:05:00 +0100",
-      "published_iso": "2026-07-10T07:05:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Kelela",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811356+00:00"
-    },
-    {
-      "title": "Finn Wolfhard — Fire From The Hip",
-      "link": "https://diymag.com/review/album/finn-wolfhard-fire-from-the-hip",
-      "published": "Fri, 10 Jul 2026 08:10:00 +0100",
-      "published_iso": "2026-07-10T07:10:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Finn Wolfhard",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811314+00:00"
     },
     {
       "title": "The Cure return to Rock Werchter 2026 for flawless full-circle headline",
