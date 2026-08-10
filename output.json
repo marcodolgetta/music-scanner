@@ -1,6 +1,432 @@
 {
-  "last_run": "2026-08-09T08:30:14.424062+00:00",
+  "last_run": "2026-08-10T09:06:19.166328+00:00",
   "entries": [
+    {
+      "title": "I Ranked the 10 Most Popular Songs Right Now (it's pretty bad...)",
+      "link": "https://www.youtube.com/watch?v=hy2A3vEFAhU",
+      "published": "2026-08-10T01:50:00+00:00",
+      "published_iso": "2026-08-10T01:50:00+00:00",
+      "source": "fantano",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "hy2A3vEFAhU"
+      },
+      "scanned_at": "2026-08-10T09:06:01.078086+00:00"
+    },
+    {
+      "title": "“Get Lost In The Weirdness” Boomtown’s Luke Mitchell In Conversation",
+      "link": "https://www.clashmusic.com/features/get-lost-in-the-weirdness-boomtowns-luke-mitchell-in-conversation/",
+      "published": "Mon, 10 Aug 2026 08:30:32 +0000",
+      "published_iso": "2026-08-10T08:30:32+00:00",
+      "source": "Clash",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:28.562961+00:00"
+    },
+    {
+      "title": "Melbourne’s effe Shares Dreamy New ‘Solder’ EP",
+      "link": "https://www.clashmusic.com/news/mebournes-effe-shares-dreamy-new-solder-ep/",
+      "published": "Mon, 10 Aug 2026 08:50:40 +0000",
+      "published_iso": "2026-08-10T08:50:40+00:00",
+      "source": "Clash",
+      "genres": [
+        "General"
+      ],
+      "artist": "Melbourne’s effe",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:28.562868+00:00"
+    },
+    {
+      "title": "Drake Turns Kick Stream Into a 20-v-1 Dating Show, Warns Rap Rivals His ‘Pen Isn’t Dry’",
+      "link": "https://www.rollingstone.com/music/music-news/drake-kick-stream-recap-1235605965/",
+      "published": "Sun, 09 Aug 2026 12:31:32 +0000",
+      "published_iso": "2026-08-09T12:31:32+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "Drake Turns Kick Stream Into a 20",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:24.095879+00:00"
+    },
+    {
+      "title": "See Charli XCX Join the Strokes for ‘Take It or Leave It’ at Outside Lands",
+      "link": "https://www.rollingstone.com/music/music-news/charli-xcx-the-strokes-take-it-or-leave-it-outside-lands-1235605980/",
+      "published": "Sun, 09 Aug 2026 13:06:49 +0000",
+      "published_iso": "2026-08-09T13:06:49+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "See Charli XCX",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:24.095812+00:00"
+    },
+    {
+      "title": "Tupac Shakur Murder Trial: Everything You Need to Know",
+      "link": "https://www.rollingstone.com/music/music-features/tupac-shakur-murder-trial-things-to-know-1235602789/",
+      "published": "Sun, 09 Aug 2026 14:00:00 +0000",
+      "published_iso": "2026-08-09T14:00:00+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:24.095758+00:00"
+    },
+    {
+      "title": "Role Model on His New Album, Working with Dakota Johnson — and a Possible Name Change",
+      "link": "https://www.rollingstone.com/music/music-features/role-model-interview-new-album-dakota-johnson-1235605899/",
+      "published": "Sun, 09 Aug 2026 14:01:00 +0000",
+      "published_iso": "2026-08-09T14:01:00+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:24.095706+00:00"
+    },
+    {
+      "title": "Inaugural L.A. Jazz Festival Canceled at Last Minute",
+      "link": "https://www.rollingstone.com/music/music-news/inaugural-los-angeles-jazz-festival-canceled-last-minute-1235606056/",
+      "published": "Sun, 09 Aug 2026 18:46:00 +0000",
+      "published_iso": "2026-08-09T18:46:00+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Emo",
+        "Jazz"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:24.095635+00:00"
+    },
+    {
+      "title": "Rufus Wainwright, Kathleen Hanna, Yo La Tengo Celebrate the Radical Music of Yoko Ono",
+      "link": "https://www.rollingstone.com/music/music-news/yoko-ono-tribute-los-angeles-yo-la-tengo-kathleen-hanna-1235606063/",
+      "published": "Sun, 09 Aug 2026 22:39:41 +0000",
+      "published_iso": "2026-08-09T22:39:41+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:24.095579+00:00"
+    },
+    {
+      "title": "Usher Addresses Claims He Used a Lookalike Onstage: ‘They Can’t Clone This’",
+      "link": "https://www.rollingstone.com/music/music-news/usher-lookalike-claims-onstage-tour-1235606100/",
+      "published": "Mon, 10 Aug 2026 06:28:32 +0000",
+      "published_iso": "2026-08-10T06:28:32+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:24.095514+00:00"
+    },
+    {
+      "title": "Watch Eddie Vedder Busk in Dublin in Honor of Glen Hansard",
+      "link": "https://www.rollingstone.com/music/music-news/eddie-vedder-glen-hansard-busking-dublin-1235606107/",
+      "published": "Mon, 10 Aug 2026 07:53:11 +0000",
+      "published_iso": "2026-08-10T07:53:11+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:24.095441+00:00"
+    },
+    {
+      "title": "Drake Barks for Goth Girl",
+      "link": "https://consequence.net/2026/08/drake-barks-for-goth-girl/",
+      "published": "Sun, 09 Aug 2026 14:00:42 +0000",
+      "published_iso": "2026-08-09T14:00:42+00:00",
+      "source": "Consequence",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:22.714294+00:00"
+    },
+    {
+      "title": "The Strokes Bring Out Charli xcx at Outside Lands for “Take It or Leave It”: Watch",
+      "link": "https://consequence.net/2026/08/the-strokes-with-charli-xcx-outside-lands/",
+      "published": "Sun, 09 Aug 2026 14:19:11 +0000",
+      "published_iso": "2026-08-09T14:19:11+00:00",
+      "source": "Consequence",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:22.714212+00:00"
+    },
+    {
+      "title": "Family of Robert Carradine Sues UCLA Hospital Leaders After Actor’s Death: Reports",
+      "link": "https://consequence.net/2026/08/robert-carradine-family-sues-ucla/",
+      "published": "Sun, 09 Aug 2026 15:37:59 +0000",
+      "published_iso": "2026-08-09T15:37:59+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:22.714125+00:00"
+    },
+    {
+      "title": "Fans complain after Fugees set cut short at Lauryn Hill’s Diaspora Calling! festival: “The ending was ridiculous and spoiled the whole experience”",
+      "link": "https://www.nme.com/news/music/fans-complain-after-fugees-set-cut-short-at-lauryn-hills-diaspora-calling-festival-the-ending-was-ridiculous-and-spoiled-the-whole-experience-3961598?utm_source=rss&utm_medium=rss&utm_campaign=fans-complain-after-fugees-set-cut-short-at-lauryn-hills-diaspora-calling-festival-the-ending-was-ridiculous-and-spoiled-the-whole-experience",
+      "published": "Sun, 09 Aug 2026 15:27:45 +0000",
+      "published_iso": "2026-08-09T15:27:45+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Fans complain after Fugees",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.769731+00:00"
+    },
+    {
+      "title": "Take a first look inside Leeds’ major new revamped music venue TESTBED",
+      "link": "https://www.nme.com/news/music/take-a-first-look-inside-leeds-major-new-revamped-music-venue-testbed-3961608?utm_source=rss&utm_medium=rss&utm_campaign=take-a-first-look-inside-leeds-major-new-revamped-music-venue-testbed",
+      "published": "Sun, 09 Aug 2026 16:29:20 +0000",
+      "published_iso": "2026-08-09T16:29:20+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.769640+00:00"
+    },
+    {
+      "title": "Watch Yungblud bring a couple onstage to reveal their baby’s gender: “Bringing life into the world what a beautiful fucking day”",
+      "link": "https://www.nme.com/news/music/watch-yungblud-bring-a-couple-onstage-to-reveal-their-babys-gender-bringing-life-into-the-world-what-a-beautiful-fucking-day-3961621?utm_source=rss&utm_medium=rss&utm_campaign=watch-yungblud-bring-a-couple-onstage-to-reveal-their-babys-gender-bringing-life-into-the-world-what-a-beautiful-fucking-day",
+      "published": "Sun, 09 Aug 2026 18:05:51 +0000",
+      "published_iso": "2026-08-09T18:05:51+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Watch Yungblud bring a couple onstage to",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.769554+00:00"
+    },
+    {
+      "title": "Travis Barker says Blink-182 are working on a new album",
+      "link": "https://www.nme.com/news/music/travis-barker-says-blink-182-are-working-on-a-new-album-3961628?utm_source=rss&utm_medium=rss&utm_campaign=travis-barker-says-blink-182-are-working-on-a-new-album",
+      "published": "Sun, 09 Aug 2026 19:03:59 +0000",
+      "published_iso": "2026-08-09T19:03:59+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Travis Barker says Blink",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.769466+00:00"
+    },
+    {
+      "title": "Benny Blanco teams up with Selena Gomez and Becky G for summery single ‘Te Olvido (La La)’ with Danny Trejo-starring video",
+      "link": "https://www.nme.com/news/music/benny-blanco-teams-up-with-selena-gomez-and-becky-g-for-summery-single-te-olvido-la-la-with-danny-trejo-starring-video-3961635?utm_source=rss&utm_medium=rss&utm_campaign=benny-blanco-teams-up-with-selena-gomez-and-becky-g-for-summery-single-te-olvido-la-la-with-danny-trejo-starring-video",
+      "published": "Sun, 09 Aug 2026 20:09:21 +0000",
+      "published_iso": "2026-08-09T20:09:21+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Benny Blanco",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.769393+00:00"
+    },
+    {
+      "title": "LA Jazz Festival featuring John Legend, Janelle Monáe and many more cancelled",
+      "link": "https://www.nme.com/news/music/la-jazz-festival-featuring-john-legend-janelle-monae-and-many-more-cancelled-3961640?utm_source=rss&utm_medium=rss&utm_campaign=la-jazz-festival-featuring-john-legend-janelle-monae-and-many-more-cancelled",
+      "published": "Sun, 09 Aug 2026 21:08:31 +0000",
+      "published_iso": "2026-08-09T21:08:31+00:00",
+      "source": "NME",
+      "genres": [
+        "Emo",
+        "Jazz"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.769294+00:00"
+    },
+    {
+      "title": "Eddie Vedder pays tribute to friend Glen Hansard by busking in his spot in Dublin city centre",
+      "link": "https://www.nme.com/news/music/eddie-vedder-pays-tribute-to-friend-glen-hansard-by-busking-in-his-spot-in-dublin-city-centre-3961663?utm_source=rss&utm_medium=rss&utm_campaign=eddie-vedder-pays-tribute-to-friend-glen-hansard-by-busking-in-his-spot-in-dublin-city-centre",
+      "published": "Mon, 10 Aug 2026 06:42:42 +0000",
+      "published_iso": "2026-08-10T06:42:42+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.769194+00:00"
+    },
+    {
+      "title": "Usher responds to viral claims that he was replaced by a body double at one of his concerts",
+      "link": "https://www.nme.com/news/music/usher-responds-to-viral-claims-that-he-was-replaced-by-a-body-double-at-one-of-his-concerts-3961662?utm_source=rss&utm_medium=rss&utm_campaign=usher-responds-to-viral-claims-that-he-was-replaced-by-a-body-double-at-one-of-his-concerts",
+      "published": "Mon, 10 Aug 2026 07:51:46 +0000",
+      "published_iso": "2026-08-10T07:51:46+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.769108+00:00"
+    },
+    {
+      "title": "Nate Sib is lovestruck on ‘Loveliife",
+      "link": "https://www.nme.com/news/music/nate-sib-the-cover-playlist-3961653?utm_source=rss&utm_medium=rss&utm_campaign=nate-sib-the-cover-playlist",
+      "published": "Mon, 10 Aug 2026 08:30:39 +0000",
+      "published_iso": "2026-08-10T08:30:39+00:00",
+      "source": "NME",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.769018+00:00"
+    },
+    {
+      "title": "Watch Charli XCX leave Djo a voicemail during ‘Charlie’s Garden’ at Outside Lands 2026",
+      "link": "https://www.nme.com/news/music/watch-charli-xcx-leave-djo-a-voicemail-during-charlies-garden-at-outside-lands-2026-3961679?utm_source=rss&utm_medium=rss&utm_campaign=watch-charli-xcx-leave-djo-a-voicemail-during-charlies-garden-at-outside-lands-2026",
+      "published": "Mon, 10 Aug 2026 08:55:41 +0000",
+      "published_iso": "2026-08-10T08:55:41+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.768924+00:00"
+    },
+    {
+      "title": "Charli XCX Joins The Strokes At Outside Lands",
+      "link": "https://stereogum.com/2507735/charli-xcx-joins-the-strokes-at-outside-lands/news/",
+      "published": "Sun, 09 Aug 2026 14:03:20 +0000",
+      "published_iso": "2026-08-09T14:03:20+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Charli XCX",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.090200+00:00"
+    },
+    {
+      "title": "Fontaines D.C. Debut New Songs “Marianne” & “Six Shot Morning” In Cádiz Live Return",
+      "link": "https://stereogum.com/2507743/fontaines-d-c-debut-new-songs-marianne-six-shot-morning-in-cadiz-live-return/news/",
+      "published": "Sun, 09 Aug 2026 14:42:24 +0000",
+      "published_iso": "2026-08-09T14:42:24+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Fontaines D.C.",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.090130+00:00"
+    },
+    {
+      "title": "Julien Baker Joins Lucy Dacus For “Bullseye” At Outside Lands",
+      "link": "https://stereogum.com/2507752/julien-baker-joins-lucy-dacus-for-bullseye-at-outside-lands/news/",
+      "published": "Sun, 09 Aug 2026 15:09:52 +0000",
+      "published_iso": "2026-08-09T15:09:52+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Julien Baker",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.090027+00:00"
+    },
+    {
+      "title": "Taylor Swift Gets Her Songs Muted On Donald Trump’s Troll TikToks",
+      "link": "https://stereogum.com/2507725/taylor-swift-gets-her-songs-muted-on-donald-trumps-troll-tiktoks/news/",
+      "published": "Sun, 09 Aug 2026 16:03:11 +0000",
+      "published_iso": "2026-08-09T16:03:11+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.089944+00:00"
+    },
+    {
+      "title": "Beabadoobee Debuts New Song “Pylon” At Red Rocks",
+      "link": "https://stereogum.com/2507758/beabadoobee-debuts-new-song-pylon-at-red-rocks/news/",
+      "published": "Sun, 09 Aug 2026 16:14:20 +0000",
+      "published_iso": "2026-08-09T16:14:20+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "Beabadoobee",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:21.089846+00:00"
+    },
+    {
+      "title": "Watch Charli XCX Join the Strokes for “Take It Or Leave It” at Outside Lands",
+      "link": "https://pitchfork.com/story/charli-xcx-the-strokes-outside-lands/",
+      "published": "Sun, 09 Aug 2026 17:23:04 +0000",
+      "published_iso": "2026-08-09T17:23:04+00:00",
+      "source": "Pitchfork",
+      "genres": [
+        "Indie/General"
+      ],
+      "artist": "Watch Charli XCX",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-10T09:03:20.692348+00:00"
+    },
     {
       "title": "Which Guitar Do You Like Best?",
       "link": "https://www.youtube.com/watch?v=hA8yMNni4Z4",
@@ -2455,40 +2881,6 @@
       "scanned_at": "2026-08-07T08:46:15.538318+00:00"
     },
     {
-      "title": "新曲『あびすいんざわーるど』 Out Now👁️‍🗨️✈️",
-      "link": "https://www.youtube.com/shorts/Sc00s4JrR98",
-      "published": "2026-07-10T09:20:48+00:00",
-      "published_iso": "2026-07-10T09:20:48+00:00",
-      "source": "Eve",
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "Sc00s4JrR98"
-      },
-      "scanned_at": "2026-08-07T08:46:13.813768+00:00"
-    },
-    {
-      "title": "リハーサル中 #あびすいんざわーるど #ぼにぼに #札幌",
-      "link": "https://www.youtube.com/shorts/Jp6xIxKp8kU",
-      "published": "2026-07-11T06:09:21+00:00",
-      "published_iso": "2026-07-11T06:09:21+00:00",
-      "source": "Eve",
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "Jp6xIxKp8kU"
-      },
-      "scanned_at": "2026-08-07T08:46:13.397908+00:00"
-    },
-    {
       "title": "『あびすいんざわーるど』MV Out Now🚇　#Eve",
       "link": "https://www.youtube.com/shorts/OdQ_gFvJAZQ",
       "published": "2026-07-17T10:22:05+00:00",
@@ -2589,23 +2981,6 @@
         "video_id": "nbu0Mj_r820"
       },
       "scanned_at": "2026-08-07T08:46:10.348486+00:00"
-    },
-    {
-      "title": "Where’s my pointer? | Look at how Ms. Monica uses here pointer ✨⭐️💛",
-      "link": "https://www.youtube.com/shorts/43WjqwrQg7w",
-      "published": "2026-07-10T12:11:29+00:00",
-      "published_iso": "2026-07-10T12:11:29+00:00",
-      "source": "Ms. Monica",
-      "genres": [
-        "General"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "43WjqwrQg7w"
-      },
-      "scanned_at": "2026-08-07T08:46:09.460901+00:00"
     },
     {
       "title": "Try the Wiggle Shake Dance | Circle Time with Ms. Monica",
@@ -22657,23 +23032,6 @@
       "scanned_at": "2026-07-23T03:14:36.650028+00:00"
     },
     {
-      "title": "Luke Dean, Locky & JME - Check One, Check Two",
-      "link": "https://www.youtube.com/watch?v=Sao7wvENsGE",
-      "published": "2026-07-10T17:00:35+00:00",
-      "published_iso": "2026-07-10T17:00:35+00:00",
-      "source": "blanc",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "Luke Dean, Locky & JME",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "Sao7wvENsGE"
-      },
-      "scanned_at": "2026-07-23T03:14:16.452028+00:00"
-    },
-    {
       "title": "CASAL - Crush On U",
       "link": "https://www.youtube.com/watch?v=OKg9U8F51bo",
       "published": "2026-07-13T17:00:31+00:00",
@@ -22793,23 +23151,6 @@
       "scanned_at": "2026-07-23T03:14:15.408658+00:00"
     },
     {
-      "title": "ＮＯＭＡＤ",
-      "link": "https://www.youtube.com/watch?v=DK2MMSBt1EI",
-      "published": "2026-07-10T18:52:14+00:00",
-      "published_iso": "2026-07-10T18:52:14+00:00",
-      "source": "Ambition",
-      "genres": [
-        "General"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "DK2MMSBt1EI"
-      },
-      "scanned_at": "2026-07-23T03:14:13.966563+00:00"
-    },
-    {
       "title": "Sweet William - Felicia",
       "link": "https://www.youtube.com/watch?v=1LMcGn_0mF0",
       "published": "2026-07-15T19:49:52+00:00",
@@ -22859,23 +23200,6 @@
         "video_id": "IfSVhOa5SE0"
       },
       "scanned_at": "2026-07-23T03:14:09.320334+00:00"
-    },
-    {
-      "title": "Michael Oakley - Falling Skyward (Official Video)",
-      "link": "https://www.youtube.com/watch?v=AXC9OtHJIpw",
-      "published": "2026-07-10T19:00:06+00:00",
-      "published_iso": "2026-07-10T19:00:06+00:00",
-      "source": "NewRetroWave",
-      "genres": [
-        "NewRetroWave"
-      ],
-      "artist": "Michael Oakley",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "AXC9OtHJIpw"
-      },
-      "scanned_at": "2026-07-23T03:13:31.560845+00:00"
     },
     {
       "title": "Miami Nights 1984 - Server Ghosts (feat. Lazerhawk)",
@@ -23013,23 +23337,6 @@
         "video_id": "kTVg5qscAD0"
       },
       "scanned_at": "2026-07-23T03:13:30.284752+00:00"
-    },
-    {
-      "title": "Addressing My Most Hated Review",
-      "link": "https://www.youtube.com/watch?v=c_H6fgh_-7w",
-      "published": "2026-07-10T18:18:16+00:00",
-      "published_iso": "2026-07-10T18:18:16+00:00",
-      "source": "theneedledrop",
-      "genres": [
-        "music review"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "c_H6fgh_-7w"
-      },
-      "scanned_at": "2026-07-23T03:13:29.572839+00:00"
     },
     {
       "title": "Ken Carson's Xperiment is NOT BAD",
@@ -24157,34 +24464,6 @@
       "link_type": "article",
       "preview": null,
       "scanned_at": "2026-07-23T03:11:15.071856+00:00"
-    },
-    {
-      "title": "The Cure return to Rock Werchter 2026 for flawless full-circle headline",
-      "link": "https://diymag.com/review/live/rock-werchter-2026-werchter-belgium",
-      "published": "Fri, 10 Jul 2026 14:23:00 +0100",
-      "published_iso": "2026-07-10T13:23:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Rock"
-      ],
-      "artist": "Unknown",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811269+00:00"
-    },
-    {
-      "title": "Alabama Shakes announce third album ‘I Must Be Dreaming’, share new single ‘I Feel Hope Coming’",
-      "link": "https://diymag.com/news/alabama-shakes-return-new-album-i-must-be-dreaming",
-      "published": "Sat, 11 Jul 2026 10:05:00 +0100",
-      "published_iso": "2026-07-11T09:05:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Alabama Shakes",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.811212+00:00"
     },
     {
       "title": "Sports Team, Nell Mescal, FEET &amp; Walt Disco to play DIY Alive 2026",
