@@ -1,6 +1,394 @@
 {
-  "last_run": "2026-08-15T08:15:48.234272+00:00",
+  "last_run": "2026-08-16T08:17:20.247509+00:00",
   "entries": [
+    {
+      "title": "Which one do you love?",
+      "link": "https://www.youtube.com/watch?v=RHnsGqWOyls",
+      "published": "2026-08-15T13:00:06+00:00",
+      "published_iso": "2026-08-15T13:00:06+00:00",
+      "source": "Ichika Nito",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "RHnsGqWOyls"
+      },
+      "scanned_at": "2026-08-16T08:17:01.866001+00:00"
+    },
+    {
+      "title": "DATTBOIIAJ - Goose Coat (REMIX)",
+      "link": "https://www.youtube.com/watch?v=VXKvVgTw_OY",
+      "published": "2026-08-15T19:02:05+00:00",
+      "published_iso": "2026-08-15T19:02:05+00:00",
+      "source": "DATTBOIIAJ",
+      "genres": [
+        "General"
+      ],
+      "artist": "DATTBOIIAJ",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "VXKvVgTw_OY"
+      },
+      "scanned_at": "2026-08-16T08:16:47.306174+00:00"
+    },
+    {
+      "title": "ZAMA ZAMA",
+      "link": "https://www.youtube.com/watch?v=4nAtnG4j2nU",
+      "published": "2026-08-15T22:00:12+00:00",
+      "published_iso": "2026-08-15T22:00:12+00:00",
+      "source": "Die Antwoord",
+      "genres": [
+        "Electronic/Rap"
+      ],
+      "artist": "Unknown",
+      "link_type": "music",
+      "preview": {
+        "type": "youtube",
+        "video_id": "4nAtnG4j2nU"
+      },
+      "scanned_at": "2026-08-16T08:15:54.316639+00:00"
+    },
+    {
+      "title": "Elizabeth Cook, Rocked by the Death of Todd Snider, Finds Strength on a New Album",
+      "link": "https://www.rollingstone.com/music/music-features/elizabeth-cook-great-television-album-remembers-todd-snider-1235609376/",
+      "published": "Sat, 15 Aug 2026 13:30:00 +0000",
+      "published_iso": "2026-08-15T13:30:00+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Folk/Americana",
+        "Rock"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:53.464163+00:00"
+    },
+    {
+      "title": "Matthew McConaughey’s Life in Songs Has Taken Him Everywhere",
+      "link": "https://www.rollingstone.com/music/music-news/matthew-mcconaughey-life-in-songs-1235609364/",
+      "published": "Sat, 15 Aug 2026 14:14:10 +0000",
+      "published_iso": "2026-08-15T14:14:10+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:53.464107+00:00"
+    },
+    {
+      "title": "Why Is Everyone So Mad About Benny Blanco’s Latin Album?",
+      "link": "https://www.rollingstone.com/music/music-features/benny-blanco-latin-album-controversy-explained-1235608217/",
+      "published": "Sat, 15 Aug 2026 15:00:00 +0000",
+      "published_iso": "2026-08-15T15:00:00+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Latin"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:53.464046+00:00"
+    },
+    {
+      "title": "Olivia Dean Delivers Lessons in Love and One Hell of a Show at Madison Square Garden",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/olivia-dean-performance-madison-square-garden-2026-1235596074/",
+      "published": "Sat, 15 Aug 2026 16:43:04 +0000",
+      "published_iso": "2026-08-15T16:43:04+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Folk/Americana"
+      ],
+      "artist": "Olivia Dean",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:53.463987+00:00"
+    },
+    {
+      "title": "Dave Marsh, Legendary Rock Biographer and Critic, Dead at 76",
+      "link": "https://www.rollingstone.com/music/music-news/dave-marsh-music-critic-biographer-dead-obit-1235609648/",
+      "published": "Sat, 15 Aug 2026 18:23:17 +0000",
+      "published_iso": "2026-08-15T18:23:17+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:53.463935+00:00"
+    },
+    {
+      "title": "Frankie Valli Says ‘I Am Not Retired,’ His Brother Bobby Apologizes for Being ‘Misinformed’",
+      "link": "https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/",
+      "published": "Sat, 15 Aug 2026 19:15:41 +0000",
+      "published_iso": "2026-08-15T19:15:41+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:53.463876+00:00"
+    },
+    {
+      "title": "Selena Gomez’s Lawyer Calls Wondermind Suit ‘Meritless,’ Will File Motion to Dismiss ‘Baseless Claims’",
+      "link": "https://www.rollingstone.com/music/music-news/selena-gomez-wondermind-lawsuit-meritless-motion-to-dismiss-1235609673/",
+      "published": "Sat, 15 Aug 2026 21:31:00 +0000",
+      "published_iso": "2026-08-15T21:31:00+00:00",
+      "source": "Rolling Stone",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:53.463806+00:00"
+    },
+    {
+      "title": "Phil Collins Reveals He’s Been Sober for Three Years",
+      "link": "https://consequence.net/2026/08/phil-collins-talks-alcoholism-sobriety-health-issues/",
+      "published": "Sat, 15 Aug 2026 14:06:48 +0000",
+      "published_iso": "2026-08-15T14:06:48+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Phil Collins",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:52.261508+00:00"
+    },
+    {
+      "title": "Courtney Love Offers Health Update After She “Almost Died,” Says New Album Is “Done”",
+      "link": "https://consequence.net/2026/08/courtney-love-health-update-new-album-done/",
+      "published": "Sat, 15 Aug 2026 14:48:17 +0000",
+      "published_iso": "2026-08-15T14:48:17+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:52.261444+00:00"
+    },
+    {
+      "title": "Bill Hader Recalls South Park Creators’ Inspiration for “Fishsticks” Episode That Mocked Kanye West: Watch",
+      "link": "https://consequence.net/2026/08/bill-hader-on-south-park-fishsticks-episode/",
+      "published": "Sat, 15 Aug 2026 15:55:26 +0000",
+      "published_iso": "2026-08-15T15:55:26+00:00",
+      "source": "Consequence",
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:52.261362+00:00"
+    },
+    {
+      "title": "Queens of the Stone Age Reveal New Album Title in Bloody Teaser Video: Watch",
+      "link": "https://consequence.net/2026/08/queens-of-the-stone-age-new-album-title-release-date/",
+      "published": "Sat, 15 Aug 2026 21:26:08 +0000",
+      "published_iso": "2026-08-15T21:26:08+00:00",
+      "source": "Consequence",
+      "genres": [
+        "General"
+      ],
+      "artist": "Queens of the Stone Age",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:52.261268+00:00"
+    },
+    {
+      "title": "Johnny Marr shares “brilliant answer” he got from Paul McCartney about the break-up of The Smiths",
+      "link": "https://www.nme.com/news/music/johnny-marr-shares-brilliant-answer-he-got-from-paul-mccartney-about-the-break-up-of-the-smiths-3962888?utm_source=rss&utm_medium=rss&utm_campaign=johnny-marr-shares-brilliant-answer-he-got-from-paul-mccartney-about-the-break-up-of-the-smiths",
+      "published": "Sat, 15 Aug 2026 10:33:36 +0000",
+      "published_iso": "2026-08-15T10:33:36+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Johnny Marr",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.970061+00:00"
+    },
+    {
+      "title": "Full credits to Phoebe Bridgers’ ‘Lost Weekend’ show Alex G, Lucy Dacus, Julien Baker, Conor Oberst, and “Son-John Johnson” (believed to be Cameron Winter)",
+      "link": "https://www.nme.com/news/music/full-credits-to-phoebe-bridgers-lost-weekend-show-alex-g-lucy-dacus-julien-baker-conor-oberst-and-son-john-johnson-believed-to-be-cameron-winter-3962874?utm_source=rss&utm_medium=rss&utm_campaign=full-credits-to-phoebe-bridgers-lost-weekend-show-alex-g-lucy-dacus-julien-baker-conor-oberst-and-son-john-johnson-believed-to-be-cameron-winter",
+      "published": "Sat, 15 Aug 2026 10:54:59 +0000",
+      "published_iso": "2026-08-15T10:54:59+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.969981+00:00"
+    },
+    {
+      "title": "Grammys may reconsider Asian Pop Award after BTS’ boycott: “Some artists feel this category isn’t representing the music they create”",
+      "link": "https://www.nme.com/news/music/grammys-may-reconsider-asian-pop-award-after-bts-boycott-some-artists-feel-this-category-isnt-representing-the-music-they-create-3962908?utm_source=rss&utm_medium=rss&utm_campaign=grammys-may-reconsider-asian-pop-award-after-bts-boycott-some-artists-feel-this-category-isnt-representing-the-music-they-create",
+      "published": "Sat, 15 Aug 2026 15:32:43 +0000",
+      "published_iso": "2026-08-15T15:32:43+00:00",
+      "source": "NME",
+      "genres": [
+        "Pop"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.969872+00:00"
+    },
+    {
+      "title": "Skepta responds to old photo of himself posing with Israeli flag: “I was young and naive”",
+      "link": "https://www.nme.com/news/music/skepta-responds-to-old-photo-of-himself-posing-with-israeli-flag-i-was-young-and-naive-3962912?utm_source=rss&utm_medium=rss&utm_campaign=skepta-responds-to-old-photo-of-himself-posing-with-israeli-flag-i-was-young-and-naive",
+      "published": "Sat, 15 Aug 2026 16:11:48 +0000",
+      "published_iso": "2026-08-15T16:11:48+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.969771+00:00"
+    },
+    {
+      "title": "Watch The Strokes play ‘Lonely In The Future’ in full live for the first time in Tokyo",
+      "link": "https://www.nme.com/news/music/watch-the-strokes-play-lonely-in-the-future-in-full-live-for-the-first-time-in-tokyo-3962916?utm_source=rss&utm_medium=rss&utm_campaign=watch-the-strokes-play-lonely-in-the-future-in-full-live-for-the-first-time-in-tokyo",
+      "published": "Sat, 15 Aug 2026 17:03:38 +0000",
+      "published_iso": "2026-08-15T17:03:38+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.969679+00:00"
+    },
+    {
+      "title": "Immersive exhibition to celebrate Madonna’s birthday in London this weekend",
+      "link": "https://www.nme.com/news/music/immersive-exhibition-to-celebrate-madonnas-birthday-in-london-this-weekend-3962920?utm_source=rss&utm_medium=rss&utm_campaign=immersive-exhibition-to-celebrate-madonnas-birthday-in-london-this-weekend",
+      "published": "Sat, 15 Aug 2026 17:58:36 +0000",
+      "published_iso": "2026-08-15T17:58:36+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.969570+00:00"
+    },
+    {
+      "title": "Listen to Phoebe Bridgers’ hidden ‘Lost Weekend’ track ‘Best Dressed’, featuring former Black Country, New Road singer Isaac Wood",
+      "link": "https://www.nme.com/news/music/listen-to-phoebe-bridgers-hidden-lost-weekend-track-best-dressed-featuring-former-black-country-new-road-singer-isaac-wood-3962925?utm_source=rss&utm_medium=rss&utm_campaign=listen-to-phoebe-bridgers-hidden-lost-weekend-track-best-dressed-featuring-former-black-country-new-road-singer-isaac-wood",
+      "published": "Sat, 15 Aug 2026 19:02:41 +0000",
+      "published_iso": "2026-08-15T19:02:41+00:00",
+      "source": "NME",
+      "genres": [
+        "Country"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.969476+00:00"
+    },
+    {
+      "title": "Earth, Wind & Fire drummer John Paris in induced coma after medical emergency before San Francisco show",
+      "link": "https://www.nme.com/news/music/earth-wind-fire-drummer-john-paris-in-induced-coma-after-medical-emergency-before-san-francisco-show-3962929?utm_source=rss&utm_medium=rss&utm_campaign=earth-wind-fire-drummer-john-paris-in-induced-coma-after-medical-emergency-before-san-francisco-show",
+      "published": "Sat, 15 Aug 2026 19:52:23 +0000",
+      "published_iso": "2026-08-15T19:52:23+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.969369+00:00"
+    },
+    {
+      "title": "Watch Noah Kahan bring out Chappell Roan for ‘California’ at Rose Bowl",
+      "link": "https://www.nme.com/news/music/watch-noah-kahan-bring-out-chappell-roan-for-california-at-rose-bowl-3962953?utm_source=rss&utm_medium=rss&utm_campaign=watch-noah-kahan-bring-out-chappell-roan-for-california-at-rose-bowl",
+      "published": "Sun, 16 Aug 2026 07:38:33 +0000",
+      "published_iso": "2026-08-16T07:38:33+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.969278+00:00"
+    },
+    {
+      "title": "Queens Of The Stone Age announce new album ‘Perfecth’ in bloody reveal video",
+      "link": "https://www.nme.com/news/music/queens-of-the-stone-age-announce-new-album-perfecth-in-bloody-reveal-video-3962948?utm_source=rss&utm_medium=rss&utm_campaign=queens-of-the-stone-age-announce-new-album-perfecth-in-bloody-reveal-video",
+      "published": "Sun, 16 Aug 2026 07:45:57 +0000",
+      "published_iso": "2026-08-16T07:45:57+00:00",
+      "source": "NME",
+      "genres": [
+        "General"
+      ],
+      "artist": "Queens Of The Stone Age",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.969186+00:00"
+    },
+    {
+      "title": "Frankie Valli Denies He’s Retiring, Brother Bobby Apologizes For False Alarm",
+      "link": "https://stereogum.com/2508420/frankie-valli-denies-hes-retiring-brother-bobby-apologizes-for-false-alarm/news/",
+      "published": "Sat, 15 Aug 2026 13:13:29 +0000",
+      "published_iso": "2026-08-15T13:13:29+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Indie/Alternative"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.285503+00:00"
+    },
+    {
+      "title": "Courtney Love Gives Album Update, Explains How She Almost Died",
+      "link": "https://stereogum.com/2508425/courtney-love-gives-album-update-reveals-she-almost-died/news/",
+      "published": "Sat, 15 Aug 2026 14:01:18 +0000",
+      "published_iso": "2026-08-15T14:01:18+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Rock"
+      ],
+      "artist": "Unknown",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.285407+00:00"
+    },
+    {
+      "title": "Raavi – “second thoughts”",
+      "link": "https://stereogum.com/2508433/raavi-second-thoughts/music/",
+      "published": "Sat, 15 Aug 2026 16:57:50 +0000",
+      "published_iso": "2026-08-15T16:57:50+00:00",
+      "source": "Stereogum",
+      "genres": [
+        "Alternative/Indie"
+      ],
+      "artist": "Raavi",
+      "link_type": "article",
+      "preview": null,
+      "scanned_at": "2026-08-16T08:13:51.285287+00:00"
+    },
     {
       "title": "A Chat with Open Mike Eagle",
       "link": "https://www.youtube.com/watch?v=fUpfnXHBoAU",
@@ -9891,41 +10279,6 @@
         "video_id": "D53PQUJnDY4"
       },
       "scanned_at": "2026-08-07T08:46:06.680361+00:00"
-    },
-    {
-      "title": "MUG CUP CONCERT/Lopin' Along Thru the Cosmos/Kenta Kaneko & Shotaro Miyamoto",
-      "link": "https://www.youtube.com/shorts/FYtZyRu8gMs",
-      "published": "2026-07-16T10:54:49+00:00",
-      "published_iso": "2026-07-16T10:54:49+00:00",
-      "source": "JACO'S HAT RECORDS",
-      "genres": [
-        "Folk/Americana",
-        "Alternative/Indie"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "FYtZyRu8gMs"
-      },
-      "scanned_at": "2026-08-07T08:45:50.365299+00:00"
-    },
-    {
-      "title": "MUG CUP CONCERT/(They Long to Be) Close to You/Shotaro Miyamoto",
-      "link": "https://www.youtube.com/shorts/PvP3xBISLnw",
-      "published": "2026-07-17T07:44:56+00:00",
-      "published_iso": "2026-07-17T07:44:56+00:00",
-      "source": "JACO'S HAT RECORDS",
-      "genres": [
-        "General"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "PvP3xBISLnw"
-      },
-      "scanned_at": "2026-08-07T08:45:49.953640+00:00"
     },
     {
       "title": "MUG CUP CONCERT/In My Life/Shotaro Miyamoto",
@@ -28952,23 +29305,6 @@
       "scanned_at": "2026-07-23T10:08:42.068567+00:00"
     },
     {
-      "title": "Flight Facilities - Crave You feat. Giselle (Official Lyric Video)",
-      "link": "https://www.youtube.com/watch?v=sWMXjayCL9o",
-      "published": "2026-07-16T22:57:32+00:00",
-      "published_iso": "2026-07-16T22:57:32+00:00",
-      "source": "Flight Facilities",
-      "genres": [
-        "Electronic/Dance"
-      ],
-      "artist": "Flight Facilities",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "sWMXjayCL9o"
-      },
-      "scanned_at": "2026-07-23T03:17:00.272495+00:00"
-    },
-    {
       "title": "I play an arpeggio for when you feel alone",
       "link": "https://www.youtube.com/watch?v=ZSke0-OlffU",
       "published": "2026-07-18T13:00:14+00:00",
@@ -28984,23 +29320,6 @@
         "video_id": "ZSke0-OlffU"
       },
       "scanned_at": "2026-07-23T03:16:52.724954+00:00"
-    },
-    {
-      "title": "Akademiks Has Lost His Mind",
-      "link": "https://www.youtube.com/watch?v=fGZ69Zkg9sc",
-      "published": "2026-07-17T00:54:19+00:00",
-      "published_iso": "2026-07-17T00:54:19+00:00",
-      "source": "fantano",
-      "genres": [
-        "General"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "fGZ69Zkg9sc"
-      },
-      "scanned_at": "2026-07-23T03:16:38.672560+00:00"
     },
     {
       "title": "Rap Isn't Actually Dying",
@@ -29054,210 +29373,6 @@
       "scanned_at": "2026-07-23T03:16:34.861039+00:00"
     },
     {
-      "title": "Masego, Buju Banton - Hello (Audio)",
-      "link": "https://www.youtube.com/watch?v=EAOm2B6PR54",
-      "published": "2026-07-17T04:00:04+00:00",
-      "published_iso": "2026-07-17T04:00:04+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego, Buju Banton",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "EAOm2B6PR54"
-      },
-      "scanned_at": "2026-07-23T03:16:31.555609+00:00"
-    },
-    {
-      "title": "Masego, Musiq Soulchild - Overthinking (Audio)",
-      "link": "https://www.youtube.com/watch?v=d1D5T9IwoME",
-      "published": "2026-07-17T04:00:06+00:00",
-      "published_iso": "2026-07-17T04:00:06+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego, Musiq Soulchild",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "d1D5T9IwoME"
-      },
-      "scanned_at": "2026-07-23T03:16:31.407395+00:00"
-    },
-    {
-      "title": "Masego, Leon Thomas - QVC (Audio)",
-      "link": "https://www.youtube.com/watch?v=MLJyr_Y3VlE",
-      "published": "2026-07-17T04:00:12+00:00",
-      "published_iso": "2026-07-17T04:00:12+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego, Leon Thomas",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "MLJyr_Y3VlE"
-      },
-      "scanned_at": "2026-07-23T03:16:31.232775+00:00"
-    },
-    {
-      "title": "Masego - Symone (Audio)",
-      "link": "https://www.youtube.com/watch?v=Mp0wkM03cbo",
-      "published": "2026-07-17T04:00:14+00:00",
-      "published_iso": "2026-07-17T04:00:14+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "Mp0wkM03cbo"
-      },
-      "scanned_at": "2026-07-23T03:16:31.086126+00:00"
-    },
-    {
-      "title": "Masego - Dotted Line (Audio)",
-      "link": "https://www.youtube.com/watch?v=wZYfhrvOc20",
-      "published": "2026-07-17T04:00:16+00:00",
-      "published_iso": "2026-07-17T04:00:16+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "wZYfhrvOc20"
-      },
-      "scanned_at": "2026-07-23T03:16:30.940798+00:00"
-    },
-    {
-      "title": "Masego - Limerence (Audio)",
-      "link": "https://www.youtube.com/watch?v=wi8ZEjDeeXc",
-      "published": "2026-07-17T04:00:17+00:00",
-      "published_iso": "2026-07-17T04:00:17+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "wi8ZEjDeeXc"
-      },
-      "scanned_at": "2026-07-23T03:16:30.790441+00:00"
-    },
-    {
-      "title": "Masego - Charlie Brown (Audio)",
-      "link": "https://www.youtube.com/watch?v=2W0N4dqOs8Q",
-      "published": "2026-07-17T04:00:19+00:00",
-      "published_iso": "2026-07-17T04:00:19+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "2W0N4dqOs8Q"
-      },
-      "scanned_at": "2026-07-23T03:16:30.621134+00:00"
-    },
-    {
-      "title": "Masego, Foggieraw - I Know You (Audio)",
-      "link": "https://www.youtube.com/watch?v=FsrFVCu3Uds",
-      "published": "2026-07-17T04:00:20+00:00",
-      "published_iso": "2026-07-17T04:00:20+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego, Foggieraw",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "FsrFVCu3Uds"
-      },
-      "scanned_at": "2026-07-23T03:16:30.477356+00:00"
-    },
-    {
-      "title": "Masego, Lekan - Gone (Audio)",
-      "link": "https://www.youtube.com/watch?v=gCcc5Nx952k",
-      "published": "2026-07-17T04:00:28+00:00",
-      "published_iso": "2026-07-17T04:00:28+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego, Lekan",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "gCcc5Nx952k"
-      },
-      "scanned_at": "2026-07-23T03:16:30.329575+00:00"
-    },
-    {
-      "title": "Masego - Wonderwoman (Audio)",
-      "link": "https://www.youtube.com/watch?v=2eWaM2OXA2Q",
-      "published": "2026-07-17T04:00:28+00:00",
-      "published_iso": "2026-07-17T04:00:28+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "2eWaM2OXA2Q"
-      },
-      "scanned_at": "2026-07-23T03:16:30.179899+00:00"
-    },
-    {
-      "title": "Masego - Heaven (Audio)",
-      "link": "https://www.youtube.com/watch?v=meLbfbIXHo0",
-      "published": "2026-07-17T04:00:30+00:00",
-      "published_iso": "2026-07-17T04:00:30+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "meLbfbIXHo0"
-      },
-      "scanned_at": "2026-07-23T03:16:30.029466+00:00"
-    },
-    {
-      "title": "Masego, Keyshia Cole - Someone (Audio)",
-      "link": "https://www.youtube.com/watch?v=I6CCW8yZFug",
-      "published": "2026-07-17T04:00:35+00:00",
-      "published_iso": "2026-07-17T04:00:35+00:00",
-      "source": "Masego",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "Masego, Keyshia Cole",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "I6CCW8yZFug"
-      },
-      "scanned_at": "2026-07-23T03:16:29.872814+00:00"
-    },
-    {
       "title": "Fix Your Face Mini Documentary",
       "link": "https://www.youtube.com/watch?v=pV1Pia6n2Uw",
       "published": "2026-07-17T19:57:26+00:00",
@@ -29307,23 +29422,6 @@
         "video_id": "cfNqmc6IZKM"
       },
       "scanned_at": "2026-07-23T03:15:18.946130+00:00"
-    },
-    {
-      "title": "W O L F C L U B - City of Once (Audio)",
-      "link": "https://www.youtube.com/watch?v=0M4edLmdJ5o",
-      "published": "2026-07-17T04:00:06+00:00",
-      "published_iso": "2026-07-17T04:00:06+00:00",
-      "source": "NRW Records",
-      "genres": [
-        "R&B/Soul"
-      ],
-      "artist": "W O L F C L U B",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "0M4edLmdJ5o"
-      },
-      "scanned_at": "2026-07-23T03:14:36.650028+00:00"
     },
     {
       "title": "Solardo - Freedom",
@@ -29411,24 +29509,6 @@
       "scanned_at": "2026-07-23T03:14:09.320334+00:00"
     },
     {
-      "title": "NINA x Radio Wolf - My Dark (Official Visualizer)",
-      "link": "https://www.youtube.com/watch?v=ILMk0RC0BIg",
-      "published": "2026-07-16T19:30:06+00:00",
-      "published_iso": "2026-07-16T19:30:06+00:00",
-      "source": "NewRetroWave",
-      "genres": [
-        "Metal",
-        "Electronic/Dance"
-      ],
-      "artist": "NINA x Radio Wolf",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "ILMk0RC0BIg"
-      },
-      "scanned_at": "2026-07-23T03:13:30.927339+00:00"
-    },
-    {
       "title": "W O L F C L U B - City of Once (Visualizer)",
       "link": "https://www.youtube.com/watch?v=dRYWDG9v3bQ",
       "published": "2026-07-17T19:30:06+00:00",
@@ -29495,43 +29575,6 @@
         "video_id": "kTVg5qscAD0"
       },
       "scanned_at": "2026-07-23T03:13:30.284752+00:00"
-    },
-    {
-      "title": "Rolling Stones - Foreign Tongues ALBUM REVIEW",
-      "link": "https://www.youtube.com/watch?v=qC9d-ntFHgI",
-      "published": "2026-07-16T19:17:30+00:00",
-      "published_iso": "2026-07-16T19:17:30+00:00",
-      "source": "theneedledrop",
-      "genres": [
-        "Pop",
-        "Rock"
-      ],
-      "artist": "Rolling Stones",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "qC9d-ntFHgI"
-      },
-      "scanned_at": "2026-07-23T03:13:28.515726+00:00"
-    },
-    {
-      "title": "Kelela - new avatar ALBUM REVIEW",
-      "link": "https://www.youtube.com/watch?v=p6IIpUVB17Q",
-      "published": "2026-07-17T05:02:55+00:00",
-      "published_iso": "2026-07-17T05:02:55+00:00",
-      "source": "theneedledrop",
-      "genres": [
-        "Shoegaze/Dream Pop",
-        "Pop",
-        "Alternative/Indie"
-      ],
-      "artist": "Kelela",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "p6IIpUVB17Q"
-      },
-      "scanned_at": "2026-07-23T03:13:28.358913+00:00"
     },
     {
       "title": "Carly Rae Jepsen, Queens of the Stone Age, Nickelback, Lil Baby | Weekly Track Roundup: 7/20/26",
@@ -29624,23 +29667,6 @@
         "video_id": "kggmC622Ebo"
       },
       "scanned_at": "2026-07-23T03:13:25.821846+00:00"
-    },
-    {
-      "title": "Classic & Groovy 90s House Mix in Brooklyn | Tinzo",
-      "link": "https://www.youtube.com/watch?v=yTpwP_jiOMo",
-      "published": "2026-07-16T15:05:22+00:00",
-      "published_iso": "2026-07-16T15:05:22+00:00",
-      "source": "Book Club Radio",
-      "genres": [
-        "DJ Setlist"
-      ],
-      "artist": "Unknown",
-      "link_type": "music",
-      "preview": {
-        "type": "youtube",
-        "video_id": "yTpwP_jiOMo"
-      },
-      "scanned_at": "2026-07-23T03:13:22.320352+00:00"
     },
     {
       "title": "Outernational Psych, Dub and Post-Punk Experiments with Vandorta",
@@ -30368,93 +30394,6 @@
       "scanned_at": "2026-07-23T03:11:15.071856+00:00"
     },
     {
-      "title": "Get To Know… Saint Clair&nbsp;",
-      "link": "https://diymag.com/interview/get-to-know-saint-clair",
-      "published": "Thu, 16 Jul 2026 11:00:00 +0100",
-      "published_iso": "2026-07-16T10:00:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Emo",
-        "Alternative/Indie",
-        "Rock"
-      ],
-      "artist": "Unknown",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.810683+00:00"
-    },
-    {
-      "title": "Death Cab For Cutie: Skylines And Turnstiles",
-      "link": "https://diymag.com/interview/death-cab-for-cutie-i-built-you-a-tower-june-2026",
-      "published": "Thu, 16 Jul 2026 16:00:00 +0100",
-      "published_iso": "2026-07-16T15:00:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Alternative/Indie",
-        "Rock"
-      ],
-      "artist": "Unknown",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.810634+00:00"
-    },
-    {
-      "title": "The Menzingers — Everything I Ever Saw",
-      "link": "https://diymag.com/review/album/the-menzingers-everything-i-ever-saw",
-      "published": "Fri, 17 Jul 2026 07:58:00 +0100",
-      "published_iso": "2026-07-17T06:58:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "The Menzingers",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.810577+00:00"
-    },
-    {
-      "title": "Syd — Beard",
-      "link": "https://diymag.com/review/album/syd-beard",
-      "published": "Fri, 17 Jul 2026 07:59:00 +0100",
-      "published_iso": "2026-07-17T06:59:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Syd",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.810531+00:00"
-    },
-    {
-      "title": "Nia Archives — Emotional Junglist&nbsp;",
-      "link": "https://diymag.com/review/album/nia-archives-emotional-junglist",
-      "published": "Fri, 17 Jul 2026 08:00:00 +0100",
-      "published_iso": "2026-07-17T07:00:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Emo"
-      ],
-      "artist": "Nia Archives",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.810494+00:00"
-    },
-    {
-      "title": "Yard Act — You’re Gonna Need A Little Music",
-      "link": "https://diymag.com/review/album/yard-act-youre-gonna-need-a-little-music",
-      "published": "Fri, 17 Jul 2026 08:01:00 +0100",
-      "published_iso": "2026-07-17T07:01:00+00:00",
-      "source": "DIY Magazine",
-      "genres": [
-        "Indie"
-      ],
-      "artist": "Yard Act",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:14.810449+00:00"
-    },
-    {
       "title": "Beck confirms details of new LP ‘Ride Lonesome’; drops swelling lead single ‘In The Night’",
       "link": "https://diymag.com/news/beck-new-album-ride-lonesome-in-the-night",
       "published": "Fri, 17 Jul 2026 11:00:00 +0100",
@@ -30917,76 +30856,6 @@
       "link_type": "article",
       "preview": null,
       "scanned_at": "2026-07-23T03:11:13.326608+00:00"
-    },
-    {
-      "title": "Tinashe’s new album ‘Popstar:’ Release date, album art, and details",
-      "link": "https://www.thefader.com/2026/07/16/tinashe-album-announcement-popstar-release-date-album-art-details",
-      "published": "Thu, 16 Jul 2026 11:21:51 -0400",
-      "published_iso": "2026-07-16T15:21:51+00:00",
-      "source": "The Fader",
-      "genres": [
-        "Hip-Hop/Pop"
-      ],
-      "artist": "Tinashe’s new album ‘Popstar:’",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:13.175426+00:00"
-    },
-    {
-      "title": "Lana Del Rey gives update on Stove, announces companion album",
-      "link": "https://www.thefader.com/2026/07/16/lana-del-rey-update-on-stove-announces-companion-album",
-      "published": "Thu, 16 Jul 2026 12:44:19 -0400",
-      "published_iso": "2026-07-16T16:44:19+00:00",
-      "source": "The Fader",
-      "genres": [
-        "Hip-Hop/Pop"
-      ],
-      "artist": "Lana Del Rey gives update on Stove,",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:13.175381+00:00"
-    },
-    {
-      "title": "See how to watch the FIFA World Cup 2026 Final Halftime Show",
-      "link": "https://www.thefader.com/2026/07/16/how-to-watch-fifa-world-cup-2026-final-halftime-show-madonna-justin-bieber-shakira-burna-boy-bts",
-      "published": "Thu, 16 Jul 2026 12:51:14 -0400",
-      "published_iso": "2026-07-16T16:51:14+00:00",
-      "source": "The Fader",
-      "genres": [
-        "Hip-Hop/Pop"
-      ],
-      "artist": "Unknown",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:13.175330+00:00"
-    },
-    {
-      "title": "The Internet confirms new album coming in early 2027",
-      "link": "https://www.thefader.com/2026/07/16/the-internet-new-album-2027",
-      "published": "Thu, 16 Jul 2026 16:19:32 -0400",
-      "published_iso": "2026-07-16T20:19:32+00:00",
-      "source": "The Fader",
-      "genres": [
-        "Hip-Hop/Pop"
-      ],
-      "artist": "The Internet",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:13.175274+00:00"
-    },
-    {
-      "title": "I talked to a New Yorker from every World Cup country",
-      "link": "https://www.thefader.com/2026/07/16/world-cup-2026-soccer-fans-photos-interviews",
-      "published": "Thu, 16 Jul 2026 17:39:39 -0400",
-      "published_iso": "2026-07-16T21:39:39+00:00",
-      "source": "The Fader",
-      "genres": [
-        "Country"
-      ],
-      "artist": "Unknown",
-      "link_type": "article",
-      "preview": null,
-      "scanned_at": "2026-07-23T03:11:13.175231+00:00"
     },
     {
       "title": "Fiona Apple returns with the theme song for Anya Taylor-Joy’s ‘Lucky’",
